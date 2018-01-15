@@ -1,0 +1,7979 @@
+Cod_Com_LS;Desc_Com
+AG001;Agrigento
+AG002;Alessandria della Rocca
+AG003;Aragona
+AG004;Bivona
+AG005;Burgio
+AG006;Calamonaci
+AG007;Caltabellotta
+AG008;Camastra
+AG009;Cammarata
+AG010;Campobello di Licata
+AG011;Canicattì
+AG012;Casteltermini
+AG013;Castrofilippo
+AG014;Cattolica Eraclea
+AG015;Cianciana
+AG016;Comitini
+AG017;Favara
+AG018;Grotte
+AG019;Joppolo Giancaxio
+AG020;Lampedusa e Linosa
+AG021;Licata
+AG022;Lucca Sicula
+AG023;Menfi
+AG024;Montallegro
+AG025;Montevago
+AG026;Naro
+AG027;Palma di Montechiaro
+AG028;Porto Empedocle
+AG029;Racalmuto
+AG030;Raffadali
+AG031;Ravanusa
+AG032;Realmonte
+AG033;Ribera
+AG034;Sambuca di Sicilia
+AG035;San Biagio Platani
+AG036;San Giovanni Gemini
+AG037;Santa Elisabetta
+AG038;Santa Margherita di Belice
+AG039;Sant'Angelo Muxaro
+AG040;Santo Stefano Quisquina
+AG041;Sciacca
+AG042;Siculiana
+AG043;Villafranca Sicula
+AL001;Acqui Terme
+AL002;Albera Ligure
+AL003;Alessandria
+AL004;Alfiano Natta
+AL005;Alice Bel Colle
+AL006;Alluvioni Cambiò
+AL007;Altavilla Monferrato
+AL008;Alzano Scrivia
+AL009;Arquata Scrivia
+AL010;Avolasca
+AL011;Balzola
+AL012;Basaluzzo
+AL013;Bassignana
+AL014;Belforte Monferrato
+AL015;Bergamasco
+AL016;Berzano di Tortona
+AL017;Bistagno
+AL018;Borghetto di Borbera
+AL020;Borgo San Martino
+AL019;Borgoratto Alessandrino
+AL021;Bosco Marengo
+AL022;Bosio
+AL023;Bozzole
+AL024;Brignano-Frascata
+AL025;Cabella Ligure
+AL026;Camagna Monferrato
+AL027;Camino
+AL028;Cantalupo Ligure
+AL029;Capriata d'Orba
+AL030;Carbonara Scrivia
+AL031;Carentino
+AL032;Carezzano
+AL033;Carpeneto
+AL034;Carrega Ligure
+AL035;Carrosio
+AL036;Cartosio
+AL037;Casal Cermelli
+AL039;Casale Monferrato
+AL038;Casaleggio Boiro
+AL040;Casalnoceto
+AL041;Casasco
+AL042;Cassano Spinola
+AL043;Cassine
+AL044;Cassinelle
+AL045;Castellania
+AL046;Castellar Guidobono
+AL047;Castellazzo Bormida
+AL048;Castelletto d'Erro
+AL049;Castelletto d'Orba
+AL050;Castelletto Merli
+AL051;Castelletto Monferrato
+AL052;Castelnuovo Bormida
+AL053;Castelnuovo Scrivia
+AL054;Castelspina
+AL055;Cavatore
+AL056;Cella Monte
+AL057;Cereseto
+AL058;Cerreto Grue
+AL059;Cerrina Monferrato
+AL060;Coniolo
+AL061;Conzano
+AL062;Costa Vescovato
+AL063;Cremolino
+AL064;Cuccaro Monferrato
+AL065;Denice
+AL066;Dernice
+AL067;Fabbrica Curone
+AL068;Felizzano
+AL069;Fraconalto
+AL070;Francavilla Bisio
+AL071;Frascaro
+AL072;Frassinello Monferrato
+AL073;Frassineto Po
+AL074;Fresonara
+AL075;Frugarolo
+AL076;Fubine Monferrato
+AL077;Gabiano
+AL078;Gamalero
+AL079;Garbagna
+AL080;Gavazzana
+AL081;Gavi
+AL082;Giarole
+AL083;Gremiasco
+AL084;Grognardo
+AL085;Grondona
+AL086;Guazzora
+AL087;Isola Sant'Antonio
+AL088;Lerma
+AL089;Lu
+AL090;Malvicino
+AL091;Masio
+AL092;Melazzo
+AL093;Merana
+AL094;Mirabello Monferrato
+AL095;Molare
+AL096;Molino dei Torti
+AL097;Mombello Monferrato
+AL098;Momperone
+AL099;Moncestino
+AL100;Mongiardino Ligure
+AL101;Monleale
+AL102;Montacuto
+AL103;Montaldeo
+AL104;Montaldo Bormida
+AL105;Montecastello
+AL106;Montechiaro d'Acqui
+AL107;Montegioco
+AL108;Montemarzino
+AL109;Morano sul Po
+AL110;Morbello
+AL111;Mornese
+AL112;Morsasco
+AL113;Murisengo
+AL114;Novi Ligure
+AL115;Occimiano
+AL116;Odalengo Grande
+AL117;Odalengo Piccolo
+AL118;Olivola
+AL119;Orsara Bormida
+AL120;Ottiglio
+AL121;Ovada
+AL122;Oviglio
+AL123;Ozzano Monferrato
+AL124;Paderna
+AL125;Pareto
+AL126;Parodi Ligure
+AL127;Pasturana
+AL128;Pecetto di Valenza
+AL129;Pietra Marazzi
+AL130;Piovera
+AL131;Pomaro Monferrato
+AL132;Pontecurone
+AL133;Pontestura
+AL134;Ponti
+AL135;Ponzano Monferrato
+AL136;Ponzone
+AL137;Pozzol Groppo
+AL138;Pozzolo Formigaro
+AL139;Prasco
+AL140;Predosa
+AL141;Quargnento
+AL142;Quattordio
+AL143;Ricaldone
+AL144;Rivalta Bormida
+AL145;Rivarone
+AL147;Rocca Grimalda
+AL146;Roccaforte Ligure
+AL148;Rocchetta Ligure
+AL149;Rosignano Monferrato
+AL150;Sala Monferrato
+AL151;Sale
+AL152;San Cristoforo
+AL153;San Giorgio Monferrato
+AL154;San Salvatore Monferrato
+AL155;San Sebastiano Curone
+AL156;Sant'Agata Fossili
+AL157;Sardigliano
+AL158;Sarezzano
+AL159;Serralunga di Crea
+AL160;Serravalle Scrivia
+AL161;Sezzadio
+AL162;Silvano d'Orba
+AL163;Solero
+AL164;Solonghello
+AL165;Spigno Monferrato
+AL166;Spineto Scrivia
+AL167;Stazzano
+AL168;Strevi
+AL169;Tagliolo Monferrato
+AL170;Tassarolo
+AL171;Terruggia
+AL172;Terzo
+AL173;Ticineto
+AL174;Tortona
+AL175;Treville
+AL176;Trisobbio
+AL177;Valenza
+AL178;Valmacca
+AL179;Vignale Monferrato
+AL180;Vignole Borbera
+AL181;Viguzzolo
+AL182;Villadeati
+AL183;Villalvernia
+AL184;Villamiroglio
+AL185;Villanova Monferrato
+AL186;Villaromagnano
+AL187;Visone
+AL188;Volpedo
+AL189;Volpeglino
+AL190;Voltaggio
+AN001;Agugliano
+AN002;Ancona
+AN003;Arcevia
+AN004;Barbara
+AN005;Belvedere Ostrense
+AN006;Camerano
+AN007;Camerata Picena
+AN008;Castelbellino
+AN010;Castelfidardo
+AN011;Castelleone di Suasa
+AN012;Castelplanio
+AN013;Cerreto d'Esi
+AN014;Chiaravalle
+AN015;Corinaldo
+AN016;Cupramontana
+AN017;Fabriano
+AN018;Falconara Marittima
+AN019;Filottrano
+AN020;Genga
+AN021;Jesi
+AN022;Loreto
+AN023;Maiolati Spontini
+AN024;Mergo
+AN025;Monsano
+AN029;Monte Roberto
+AN030;Monte San Vito
+AN026;Montecarotto
+AN027;Montemarciano
+AN031;Morro d'Alba
+AN032;Numana
+AN033;Offagna
+AN034;Osimo
+AN035;Ostra
+AN036;Ostra Vetere
+AN037;Poggio San Marcello
+AN038;Polverigi
+AN040;Rosora
+AN041;San Marcello
+AN042;San Paolo di Jesi
+AN043;Santa Maria Nuova
+AN044;Sassoferrato
+AN045;Senigallia
+AN046;Serra de' Conti
+AN047;Serra San Quirico
+AN048;Sirolo
+AN049;Staffolo
+AN050;Trecastelli
+AR001;Anghiari
+AR002;Arezzo
+AR003;Badia Tedalda
+AR004;Bibbiena
+AR005;Bucine
+AR006;Capolona
+AR007;Caprese Michelangelo
+AR008;Castel Focognano
+AR010;Castel San Niccolò
+AR040;Castelfranco Piandiscò
+AR011;Castiglion Fibocchi
+AR012;Castiglion Fiorentino
+AR013;Cavriglia
+AR014;Chitignano
+AR015;Chiusi della Verna
+AR016;Civitella in Val di Chiana
+AR017;Cortona
+AR018;Foiano della Chiana
+AR019;Laterina
+AR020;Loro Ciuffenna
+AR021;Lucignano
+AR022;Marciano della Chiana
+AR025;Monte San Savino
+AR023;Montemignaio
+AR024;Monterchi
+AR026;Montevarchi
+AR027;Ortignano Raggiolo
+AR028;Pergine Valdarno
+AR030;Pieve Santo Stefano
+AR031;Poppi
+AR041;Pratovecchio Stia
+AR033;San Giovanni Valdarno
+AR034;Sansepolcro
+AR035;Sestino
+AR037;Subbiano
+AR038;Talla
+AR039;Terranuova Bracciolini
+AP001;Acquasanta Terme
+AP002;Acquaviva Picena
+AP005;Appignano del Tronto
+AP006;Arquata del Tronto
+AP007;Ascoli Piceno
+AP010;Carassai
+AP011;Castel di Lama
+AP012;Castignano
+AP013;Castorano
+AP014;Colli del Tronto
+AP015;Comunanza
+AP016;Cossignano
+AP017;Cupra Marittima
+AP020;Folignano
+AP021;Force
+AP023;Grottammare
+AP027;Maltignano
+AP029;Massignano
+AP031;Monsampolo del Tronto
+AP032;Montalto delle Marche
+AP034;Montedinove
+AP036;Montefiore dell'Aso
+AP038;Montegallo
+AP044;Montemonaco
+AP045;Monteprandone
+AP054;Offida
+AP056;Palmiano
+AP063;Ripatransone
+AP064;Roccafluvione
+AP065;Rotella
+AP066;San Benedetto del Tronto
+AP071;Spinetoli
+AP073;Venarotta
+AT001;Agliano Terme
+AT002;Albugnano
+AT003;Antignano
+AT004;Aramengo
+AT005;Asti
+AT006;Azzano d'Asti
+AT007;Baldichieri d'Asti
+AT008;Belveglio
+AT009;Berzano di San Pietro
+AT010;Bruno
+AT011;Bubbio
+AT012;Buttigliera d'Asti
+AT013;Calamandrana
+AT014;Calliano
+AT015;Calosso
+AT016;Camerano Casasco
+AT017;Canelli
+AT018;Cantarana
+AT019;Capriglio
+AT020;Casorzo
+AT021;Cassinasco
+AT022;Castagnole delle Lanze
+AT023;Castagnole Monferrato
+AT024;Castel Boglione
+AT032;Castel Rocchero
+AT025;Castell'Alfero
+AT026;Castellero
+AT027;Castelletto Molina
+AT028;Castello di Annone
+AT029;Castelnuovo Belbo
+AT030;Castelnuovo Calcea
+AT031;Castelnuovo Don Bosco
+AT033;Cellarengo
+AT034;Celle Enomondo
+AT035;Cerreto d'Asti
+AT036;Cerro Tanaro
+AT037;Cessole
+AT038;Chiusano d'Asti
+AT039;Cinaglio
+AT040;Cisterna d'Asti
+AT041;Coazzolo
+AT042;Cocconato
+AT044;Corsione
+AT045;Cortandone
+AT046;Cortanze
+AT047;Cortazzone
+AT048;Cortiglione
+AT049;Cossombrato
+AT050;Costigliole d'Asti
+AT051;Cunico
+AT052;Dusino San Michele
+AT053;Ferrere
+AT054;Fontanile
+AT055;Frinco
+AT056;Grana
+AT057;Grazzano Badoglio
+AT058;Incisa Scapaccino
+AT059;Isola d'Asti
+AT060;Loazzolo
+AT061;Maranzana
+AT062;Maretto
+AT063;Moasca
+AT064;Mombaldone
+AT065;Mombaruzzo
+AT066;Mombercelli
+AT067;Monale
+AT068;Monastero Bormida
+AT069;Moncalvo
+AT070;Moncucco Torinese
+AT071;Mongardino
+AT072;Montabone
+AT073;Montafia
+AT074;Montaldo Scarampi
+AT075;Montechiaro d'Asti
+AT076;Montegrosso d'Asti
+AT077;Montemagno
+AT121;Montiglio Monferrato
+AT079;Moransengo
+AT080;Nizza Monferrato
+AT081;Olmo Gentile
+AT082;Passerano Marmorito
+AT083;Penango
+AT084;Piea
+AT085;Pino d'Asti
+AT086;Piovà Massaia
+AT087;Portacomaro
+AT088;Quaranti
+AT089;Refrancore
+AT090;Revigliasco d'Asti
+AT091;Roatto
+AT092;Robella
+AT093;Rocca d'Arazzo
+AT094;Roccaverano
+AT095;Rocchetta Palafea
+AT096;Rocchetta Tanaro
+AT097;San Damiano d'Asti
+AT098;San Giorgio Scarampi
+AT099;San Martino Alfieri
+AT100;San Marzano Oliveto
+AT101;San Paolo Solbrito
+AT103;Scurzolengo
+AT104;Serole
+AT105;Sessame
+AT106;Settime
+AT107;Soglio
+AT108;Tigliole
+AT109;Tonco
+AT110;Tonengo
+AT111;Vaglio Serra
+AT112;Valfenera
+AT113;Vesime
+AT114;Viale
+AT115;Viarigi
+AT116;Vigliano d'Asti
+AT119;Villa San Secondo
+AT117;Villafranca d'Asti
+AT118;Villanova d'Asti
+AT120;Vinchio
+AV001;Aiello del Sabato
+AV002;Altavilla Irpina
+AV003;Andretta
+AV004;Aquilonia
+AV005;Ariano Irpino
+AV006;Atripalda
+AV007;Avella
+AV008;Avellino
+AV009;Bagnoli Irpino
+AV010;Baiano
+AV011;Bisaccia
+AV012;Bonito
+AV013;Cairano
+AV014;Calabritto
+AV015;Calitri
+AV016;Candida
+AV017;Caposele
+AV018;Capriglia Irpina
+AV019;Carife
+AV020;Casalbore
+AV021;Cassano Irpino
+AV022;Castel Baronia
+AV023;Castelfranci
+AV024;Castelvetere sul Calore
+AV025;Cervinara
+AV026;Cesinali
+AV027;Chianche
+AV028;Chiusano di San Domenico
+AV029;Contrada
+AV030;Conza della Campania
+AV031;Domicella
+AV032;Flumeri
+AV033;Fontanarosa
+AV034;Forino
+AV035;Frigento
+AV036;Gesualdo
+AV037;Greci
+AV038;Grottaminarda
+AV039;Grottolella
+AV040;Guardia Lombardi
+AV041;Lacedonia
+AV042;Lapio
+AV043;Lauro
+AV044;Lioni
+AV045;Luogosano
+AV046;Manocalzati
+AV047;Marzano di Nola
+AV048;Melito Irpino
+AV049;Mercogliano
+AV050;Mirabella Eclano
+AV051;Montaguto
+AV052;Montecalvo Irpino
+AV053;Montefalcione
+AV054;Monteforte Irpino
+AV055;Montefredane
+AV056;Montefusco
+AV057;Montella
+AV058;Montemarano
+AV059;Montemiletto
+AV060;Monteverde
+AV121;Montoro
+AV063;Morra De Sanctis
+AV064;Moschiano
+AV065;Mugnano del Cardinale
+AV066;Nusco
+AV067;Ospedaletto d'Alpinolo
+AV068;Pago del Vallo di Lauro
+AV069;Parolise
+AV070;Paternopoli
+AV071;Petruro Irpino
+AV072;Pietradefusi
+AV073;Pietrastornina
+AV074;Prata di Principato Ultra
+AV075;Pratola Serra
+AV076;Quadrelle
+AV077;Quindici
+AV079;Rocca San Felice
+AV078;Roccabascerana
+AV080;Rotondi
+AV081;Salza Irpina
+AV082;San Mango sul Calore
+AV083;San Martino Valle Caudina
+AV084;San Michele di Serino
+AV085;San Nicola Baronia
+AV086;San Potito Ultra
+AV087;San Sossio Baronia
+AV088;Santa Lucia di Serino
+AV093;Santa Paolina
+AV089;Sant'Andrea di Conza
+AV091;Sant'Angelo a Scala
+AV090;Sant'Angelo all'Esca
+AV092;Sant'Angelo dei Lombardi
+AV095;Santo Stefano del Sole
+AV096;Savignano Irpino
+AV097;Scampitella
+AV098;Senerchia
+AV099;Serino
+AV100;Sirignano
+AV101;Solofra
+AV102;Sorbo Serpico
+AV103;Sperone
+AV104;Sturno
+AV105;Summonte
+AV106;Taurano
+AV107;Taurasi
+AV108;Teora
+AV109;Torella dei Lombardi
+AV110;Torre Le Nocelle
+AV111;Torrioni
+AV112;Trevico
+AV113;Tufo
+AV114;Vallata
+AV115;Vallesaccarda
+AV116;Venticano
+AV117;Villamaina
+AV118;Villanova del Battista
+AV119;Volturara Irpina
+AV120;Zungoli
+BA001;Acquaviva delle Fonti
+BA002;Adelfia
+BA003;Alberobello
+BA004;Altamura
+BA006;Bari
+BA008;Binetto
+BA010;Bitetto
+BA011;Bitonto
+BA012;Bitritto
+BA014;Capurso
+BA015;Casamassima
+BA016;Cassano delle Murge
+BA017;Castellana Grotte
+BA018;Cellamare
+BA019;Conversano
+BA020;Corato
+BA021;Gioia del Colle
+BA022;Giovinazzo
+BA023;Gravina in Puglia
+BA024;Grumo Appula
+BA025;Locorotondo
+BA027;Modugno
+BA028;Mola di Bari
+BA029;Molfetta
+BA030;Monopoli
+BA031;Noci
+BA032;Noicattaro
+BA033;Palo del Colle
+BA034;Poggiorsini
+BA035;Polignano a Mare
+BA036;Putignano
+BA037;Rutigliano
+BA038;Ruvo di Puglia
+BA039;Sammichele di Bari
+BA040;Sannicandro di Bari
+BA041;Santeramo in Colle
+BA043;Terlizzi
+BA044;Toritto
+BA046;Triggiano
+BA047;Turi
+BA048;Valenzano
+BT001;Andria
+BT002;Barletta
+BT003;Bisceglie
+BT004;Canosa di Puglia
+BT005;Margherita di Savoia
+BT006;Minervino Murge
+BT007;San Ferdinando di Puglia
+BT008;Spinazzola
+BT009;Trani
+BT010;Trinitapoli
+BL001;Agordo
+BL002;Alano di Piave
+BL003;Alleghe
+BL072;Alpago
+BL004;Arsiè
+BL005;Auronzo di Cadore
+BL006;Belluno
+BL007;Borca di Cadore
+BL008;Calalzo di Cadore
+BL023;Canale d'Agordo
+BL010;Cencenighe Agordino
+BL011;Cesiomaggiore
+BL012;Chies d'Alpago
+BL013;Cibiana di Cadore
+BL014;Colle Santa Lucia
+BL015;Comelico Superiore
+BL016;Cortina d'Ampezzo
+BL017;Danta di Cadore
+BL018;Domegge di Cadore
+BL019;Falcade
+BL021;Feltre
+BL022;Fonzaso
+BL025;Gosaldo
+BL027;La Valle Agordina
+BL026;Lamon
+BL028;Lentiai
+BL029;Limana
+BL030;Livinallongo del Col di Lana
+BL071;Longarone
+BL032;Lorenzago di Cadore
+BL033;Lozzo di Cadore
+BL034;Mel
+BL035;Ospitale di Cadore
+BL036;Pedavena
+BL037;Perarolo di Cadore
+BL039;Pieve di Cadore
+BL040;Ponte nelle Alpi
+BL070;Quero Vas
+BL043;Rivamonte Agordino
+BL044;Rocca Pietore
+BL045;San Gregorio nelle Alpi
+BL046;San Nicolò di Comelico
+BL047;San Pietro di Cadore
+BL049;San Tomaso Agordino
+BL051;San Vito di Cadore
+BL048;Santa Giustina
+BL050;Santo Stefano di Cadore
+BL052;Sappada
+BL053;Sedico
+BL054;Selva di Cadore
+BL055;Seren del Grappa
+BL056;Sospirolo
+BL057;Soverzene
+BL058;Sovramonte
+BL059;Taibon Agordino
+BL060;Tambre
+BL061;Trichiana
+BL073;Val di Zoldo
+BL062;Vallada Agordina
+BL063;Valle di Cadore
+BL065;Vigo di Cadore
+BL066;Vodo Cadore
+BL067;Voltago Agordino
+BL069;Zoppè di Cadore
+BN001;Airola
+BN002;Amorosi
+BN003;Apice
+BN004;Apollosa
+BN005;Arpaia
+BN006;Arpaise
+BN007;Baselice
+BN008;Benevento
+BN009;Bonea
+BN010;Bucciano
+BN011;Buonalbergo
+BN012;Calvi
+BN013;Campolattaro
+BN014;Campoli del Monte Taburno
+BN015;Casalduni
+BN016;Castelfranco in Miscano
+BN017;Castelpagano
+BN018;Castelpoto
+BN019;Castelvenere
+BN020;Castelvetere in Val Fortore
+BN021;Cautano
+BN022;Ceppaloni
+BN023;Cerreto Sannita
+BN024;Circello
+BN025;Colle Sannita
+BN026;Cusano Mutri
+BN027;Dugenta
+BN028;Durazzano
+BN029;Faicchio
+BN030;Foglianise
+BN031;Foiano di Val Fortore
+BN032;Forchia
+BN033;Fragneto l'Abate
+BN034;Fragneto Monforte
+BN035;Frasso Telesino
+BN036;Ginestra degli Schiavoni
+BN037;Guardia Sanframondi
+BN038;Limatola
+BN039;Melizzano
+BN040;Moiano
+BN041;Molinara
+BN042;Montefalcone di Val Fortore
+BN043;Montesarchio
+BN044;Morcone
+BN045;Paduli
+BN046;Pago Veiano
+BN047;Pannarano
+BN048;Paolisi
+BN049;Paupisi
+BN050;Pesco Sannita
+BN051;Pietraroja
+BN052;Pietrelcina
+BN053;Ponte
+BN054;Pontelandolfo
+BN055;Puglianello
+BN056;Reino
+BN057;San Bartolomeo in Galdo
+BN058;San Giorgio del Sannio
+BN059;San Giorgio La Molara
+BN060;San Leucio del Sannio
+BN061;San Lorenzello
+BN062;San Lorenzo Maggiore
+BN063;San Lupo
+BN064;San Marco dei Cavoti
+BN065;San Martino Sannita
+BN066;San Nazzaro
+BN067;San Nicola Manfredi
+BN068;San Salvatore Telesino
+BN069;Santa Croce del Sannio
+BN070;Sant'Agata de' Goti
+BN071;Sant'Angelo a Cupolo
+BN078;Sant'Arcangelo Trimonte
+BN072;Sassinoro
+BN073;Solopaca
+BN074;Telese Terme
+BN075;Tocco Caudio
+BN076;Torrecuso
+BN077;Vitulano
+BG001;Adrara San Martino
+BG002;Adrara San Rocco
+BG003;Albano Sant'Alessandro
+BG004;Albino
+BG248;Algua
+BG005;Almè
+BG006;Almenno San Bartolomeo
+BG007;Almenno San Salvatore
+BG008;Alzano Lombardo
+BG009;Ambivere
+BG010;Antegnate
+BG011;Arcene
+BG012;Ardesio
+BG013;Arzago d'Adda
+BG014;Averara
+BG015;Aviatico
+BG016;Azzano San Paolo
+BG017;Azzone
+BG018;Bagnatica
+BG019;Barbata
+BG020;Bariano
+BG021;Barzana
+BG022;Bedulita
+BG023;Berbenno
+BG024;Bergamo
+BG025;Berzo San Fermo
+BG026;Bianzano
+BG027;Blello
+BG028;Bolgare
+BG029;Boltiere
+BG030;Bonate Sopra
+BG031;Bonate Sotto
+BG032;Borgo di Terzo
+BG033;Bossico
+BG034;Bottanuco
+BG035;Bracca
+BG036;Branzi
+BG037;Brembate
+BG038;Brembate di Sopra
+BG040;Brignano Gera d'Adda
+BG041;Brumano
+BG042;Brusaporto
+BG043;Calcinate
+BG044;Calcio
+BG046;Calusco d'Adda
+BG047;Calvenzano
+BG048;Camerata Cornello
+BG049;Canonica d'Adda
+BG050;Capizzone
+BG051;Capriate San Gervasio
+BG052;Caprino Bergamasco
+BG053;Caravaggio
+BG055;Carobbio degli Angeli
+BG056;Carona
+BG057;Carvico
+BG058;Casazza
+BG059;Casirate d'Adda
+BG060;Casnigo
+BG061;Cassiglio
+BG063;Castel Rozzone
+BG062;Castelli Calepio
+BG064;Castione della Presolana
+BG065;Castro
+BG066;Cavernago
+BG067;Cazzano Sant'Andrea
+BG068;Cenate Sopra
+BG069;Cenate Sotto
+BG070;Cene
+BG071;Cerete
+BG072;Chignolo d'Isola
+BG073;Chiuduno
+BG074;Cisano Bergamasco
+BG075;Ciserano
+BG076;Cividate al Piano
+BG077;Clusone
+BG078;Colere
+BG079;Cologno al Serio
+BG080;Colzate
+BG081;Comun Nuovo
+BG082;Corna Imagna
+BG249;Cornalba
+BG083;Cortenuova
+BG084;Costa di Mezzate
+BG247;Costa Serina
+BG085;Costa Valle Imagna
+BG086;Costa Volpino
+BG087;Covo
+BG088;Credaro
+BG089;Curno
+BG090;Cusio
+BG091;Dalmine
+BG092;Dossena
+BG093;Endine Gaiano
+BG094;Entratico
+BG096;Fara Gera d'Adda
+BG097;Fara Olivana con Sola
+BG098;Filago
+BG099;Fino del Monte
+BG100;Fiorano al Serio
+BG101;Fontanella
+BG102;Fonteno
+BG103;Foppolo
+BG104;Foresto Sparso
+BG105;Fornovo San Giovanni
+BG106;Fuipiano Valle Imagna
+BG107;Gandellino
+BG108;Gandino
+BG109;Gandosso
+BG110;Gaverina Terme
+BG111;Gazzaniga
+BG113;Ghisalba
+BG114;Gorlago
+BG115;Gorle
+BG116;Gorno
+BG117;Grassobbio
+BG118;Gromo
+BG119;Grone
+BG120;Grumello del Monte
+BG121;Isola di Fondra
+BG122;Isso
+BG123;Lallio
+BG124;Leffe
+BG125;Lenna
+BG126;Levate
+BG127;Locatello
+BG128;Lovere
+BG129;Lurano
+BG130;Luzzana
+BG131;Madone
+BG132;Mapello
+BG133;Martinengo
+BG250;Medolago
+BG134;Mezzoldo
+BG135;Misano di Gera d'Adda
+BG136;Moio de' Calvi
+BG137;Monasterolo del Castello
+BG139;Montello
+BG140;Morengo
+BG141;Mornico al Serio
+BG142;Mozzanica
+BG143;Mozzo
+BG144;Nembro
+BG145;Olmo al Brembo
+BG146;Oltre il Colle
+BG147;Oltressenda Alta
+BG148;Oneta
+BG149;Onore
+BG150;Orio al Serio
+BG151;Ornica
+BG152;Osio Sopra
+BG153;Osio Sotto
+BG154;Pagazzano
+BG155;Paladina
+BG156;Palazzago
+BG157;Palosco
+BG158;Parre
+BG159;Parzanica
+BG160;Pedrengo
+BG161;Peia
+BG162;Pianico
+BG163;Piario
+BG164;Piazza Brembana
+BG165;Piazzatorre
+BG166;Piazzolo
+BG167;Pognano
+BG168;Ponte Nossa
+BG170;Ponte San Pietro
+BG169;Ponteranica
+BG171;Pontida
+BG172;Pontirolo Nuovo
+BG173;Pradalunga
+BG174;Predore
+BG175;Premolo
+BG176;Presezzo
+BG177;Pumenengo
+BG178;Ranica
+BG179;Ranzanico
+BG180;Riva di Solto
+BG182;Rogno
+BG183;Romano di Lombardia
+BG184;Roncobello
+BG185;Roncola
+BG186;Rota d'Imagna
+BG187;Rovetta
+BG188;San Giovanni Bianco
+BG189;San Paolo d'Argon
+BG190;San Pellegrino Terme
+BG191;Santa Brigida
+BG252;Sant'Omobono Terme
+BG193;Sarnico
+BG194;Scanzorosciate
+BG195;Schilpario
+BG196;Sedrina
+BG197;Selvino
+BG198;Seriate
+BG199;Serina
+BG200;Solto Collina
+BG251;Solza
+BG201;Songavazzo
+BG202;Sorisole
+BG203;Sotto il Monte Giovanni XXIII
+BG204;Sovere
+BG205;Spinone al Lago
+BG206;Spirano
+BG207;Stezzano
+BG208;Strozza
+BG209;Suisio
+BG210;Taleggio
+BG211;Tavernola Bergamasca
+BG212;Telgate
+BG213;Terno d'Isola
+BG214;Torre Boldone
+BG216;Torre de' Roveri
+BG217;Torre Pallavicina
+BG218;Trescore Balneario
+BG219;Treviglio
+BG220;Treviolo
+BG221;Ubiale Clanezzo
+BG222;Urgnano
+BG253;Val Brembilla
+BG223;Valbondione
+BG224;Valbrembo
+BG225;Valgoglio
+BG226;Valleve
+BG227;Valnegra
+BG229;Valtorta
+BG230;Vedeseta
+BG232;Verdellino
+BG233;Verdello
+BG234;Vertova
+BG235;Viadanica
+BG236;Vigano San Martino
+BG237;Vigolo
+BG238;Villa d'Adda
+BG239;Villa d'Almè
+BG240;Villa di Serio
+BG241;Villa d'Ogna
+BG242;Villongo
+BG243;Vilminore di Scalve
+BG244;Zandobbio
+BG245;Zanica
+BG246;Zogno
+BI001;Ailoche
+BI002;Andorno Micca
+BI003;Benna
+BI004;Biella
+BI005;Bioglio
+BI006;Borriana
+BI007;Brusnengo
+BI008;Callabiana
+BI009;Camandona
+BI010;Camburzano
+BI086;Campiglia Cervo
+BI012;Candelo
+BI013;Caprile
+BI014;Casapinta
+BI015;Castelletto Cervo
+BI016;Cavaglià
+BI017;Cerreto Castello
+BI018;Cerrione
+BI019;Coggiola
+BI020;Cossato
+BI021;Crevacuore
+BI023;Curino
+BI024;Donato
+BI025;Dorzano
+BI026;Gaglianico
+BI027;Gifflenga
+BI028;Graglia
+BI085;Lessona
+BI030;Magnano
+BI031;Massazza
+BI032;Masserano
+BI033;Mezzana Mortigliengo
+BI034;Miagliano
+BI035;Mongrando
+BI084;Mosso
+BI037;Mottalciata
+BI038;Muzzano
+BI039;Netro
+BI040;Occhieppo Inferiore
+BI041;Occhieppo Superiore
+BI042;Pettinengo
+BI043;Piatto
+BI044;Piedicavallo
+BI046;Pollone
+BI047;Ponderano
+BI048;Portula
+BI049;Pralungo
+BI050;Pray
+BI051;Quaregna
+BI053;Ronco Biellese
+BI054;Roppolo
+BI055;Rosazza
+BI056;Sagliano Micca
+BI057;Sala Biellese
+BI058;Salussola
+BI059;Sandigliano
+BI062;Soprana
+BI063;Sordevolo
+BI064;Sostegno
+BI065;Strona
+BI066;Tavigliano
+BI067;Ternengo
+BI068;Tollegno
+BI069;Torrazzo
+BI070;Trivero
+BI071;Valdengo
+BI072;Vallanzengo
+BI073;Valle Mosso
+BI074;Valle San Nicolao
+BI075;Veglio
+BI076;Verrone
+BI077;Vigliano Biellese
+BI078;Villa del Bosco
+BI079;Villanova Biellese
+BI080;Viverone
+BI081;Zimone
+BI082;Zubiena
+BI083;Zumaglia
+BO062;Alto Reno Terme
+BO001;Anzola dell'Emilia
+BO002;Argelato
+BO003;Baricella
+BO005;Bentivoglio
+BO006;Bologna
+BO007;Borgo Tossignano
+BO008;Budrio
+BO009;Calderara di Reno
+BO010;Camugnano
+BO011;Casalecchio di Reno
+BO012;Casalfiumanese
+BO013;Castel d'Aiano
+BO014;Castel del Rio
+BO015;Castel di Casio
+BO016;Castel Guelfo di Bologna
+BO019;Castel Maggiore
+BO020;Castel San Pietro Terme
+BO017;Castello d'Argile
+BO021;Castenaso
+BO022;Castiglione dei Pepoli
+BO024;Crevalcore
+BO025;Dozza
+BO026;Fontanelice
+BO027;Gaggio Montano
+BO028;Galliera
+BO030;Granarolo dell'Emilia
+BO031;Grizzana Morandi
+BO032;Imola
+BO033;Lizzano in Belvedere
+BO034;Loiano
+BO035;Malalbergo
+BO036;Marzabotto
+BO037;Medicina
+BO038;Minerbio
+BO039;Molinella
+BO040;Monghidoro
+BO042;Monte San Pietro
+BO041;Monterenzio
+BO044;Monzuno
+BO045;Mordano
+BO046;Ozzano dell'Emilia
+BO047;Pianoro
+BO048;Pieve di Cento
+BO050;Sala Bolognese
+BO051;San Benedetto Val di Sambro
+BO052;San Giorgio di Piano
+BO053;San Giovanni in Persiceto
+BO054;San Lazzaro di Savena
+BO055;San Pietro in Casale
+BO056;Sant'Agata Bolognese
+BO057;Sasso Marconi
+BO061;Valsamoggia
+BO059;Vergato
+BO060;Zola Predosa
+BZ001;Aldino
+BZ002;Andriano
+BZ003;Anterivo
+BZ004;Appiano sulla strada del vino
+BZ005;Avelengo
+BZ006;Badia
+BZ007;Barbiano
+BZ008;Bolzano
+BZ009;Braies
+BZ010;Brennero
+BZ011;Bressanone
+BZ012;Bronzolo
+BZ013;Brunico
+BZ014;Caines
+BZ015;Caldaro sulla strada del vino
+BZ016;Campo di Trens
+BZ017;Campo Tures
+BZ018;Castelbello-Ciardes
+BZ019;Castelrotto
+BZ020;Cermes
+BZ021;Chienes
+BZ022;Chiusa
+BZ023;Cornedo all'Isarco
+BZ024;Cortaccia sulla strada del vino
+BZ025;Cortina sulla strada del vino
+BZ026;Corvara in Badia
+BZ027;Curon Venosta
+BZ028;Dobbiaco
+BZ029;Egna
+BZ030;Falzes
+BZ031;Fiè allo Sciliar
+BZ032;Fortezza
+BZ033;Funes
+BZ034;Gais
+BZ035;Gargazzone
+BZ036;Glorenza
+BZ117;La Valle
+BZ037;Laces
+BZ038;Lagundo
+BZ039;Laion
+BZ040;Laives
+BZ041;Lana
+BZ042;Lasa
+BZ043;Lauregno
+BZ044;Luson
+BZ045;Magrè sulla strada del vino
+BZ046;Malles Venosta
+BZ047;Marebbe
+BZ048;Marlengo
+BZ049;Martello
+BZ050;Meltina
+BZ051;Merano
+BZ052;Monguelfo-Tesido
+BZ053;Montagna
+BZ054;Moso in Passiria
+BZ055;Nalles
+BZ056;Naturno
+BZ057;Naz-Sciaves
+BZ058;Nova Levante
+BZ059;Nova Ponente
+BZ060;Ora
+BZ061;Ortisei
+BZ062;Parcines
+BZ063;Perca
+BZ064;Plaus
+BZ065;Ponte Gardena
+BZ066;Postal
+BZ067;Prato allo Stelvio
+BZ068;Predoi
+BZ069;Proves
+BZ070;Racines
+BZ071;Rasun-Anterselva
+BZ072;Renon
+BZ073;Rifiano
+BZ074;Rio di Pusteria
+BZ075;Rodengo
+BZ076;Salorno
+BZ077;San Candido
+BZ079;San Genesio Atesino
+BZ080;San Leonardo in Passiria
+BZ081;San Lorenzo di Sebato
+BZ082;San Martino in Badia
+BZ083;San Martino in Passiria
+BZ084;San Pancrazio
+BZ085;Santa Cristina Valgardena
+BZ086;Sarentino
+BZ087;Scena
+BZ088;Selva dei Molini
+BZ089;Selva di Val Gardena
+BZ091;Senales
+BZ118;Senale-San Felice
+BZ092;Sesto
+BZ093;Silandro
+BZ094;Sluderno
+BZ095;Stelvio
+BZ096;Terento
+BZ097;Terlano
+BZ098;Termeno sulla strada del vino
+BZ099;Tesimo
+BZ100;Tires
+BZ101;Tirolo
+BZ102;Trodena nel parco naturale
+BZ103;Tubre
+BZ104;Ultimo
+BZ105;Vadena
+BZ107;Val di Vizze
+BZ106;Valdaora
+BZ108;Valle Aurina
+BZ109;Valle di Casies
+BZ110;Vandoies
+BZ111;Varna
+BZ116;Velturno
+BZ112;Verano
+BZ113;Villabassa
+BZ114;Villandro
+BZ115;Vipiteno
+BS001;Acquafredda
+BS002;Adro
+BS003;Agnosine
+BS004;Alfianello
+BS005;Anfo
+BS006;Angolo Terme
+BS007;Artogne
+BS008;Azzano Mella
+BS009;Bagnolo Mella
+BS010;Bagolino
+BS011;Barbariga
+BS012;Barghe
+BS013;Bassano Bresciano
+BS014;Bedizzole
+BS015;Berlingo
+BS016;Berzo Demo
+BS017;Berzo Inferiore
+BS018;Bienno
+BS019;Bione
+BS020;Borgo San Giacomo
+BS021;Borgosatollo
+BS022;Borno
+BS023;Botticino
+BS024;Bovegno
+BS025;Bovezzo
+BS026;Brandico
+BS027;Braone
+BS028;Breno
+BS029;Brescia
+BS030;Brione
+BS031;Caino
+BS032;Calcinato
+BS033;Calvagese della Riviera
+BS034;Calvisano
+BS035;Capo di Ponte
+BS036;Capovalle
+BS037;Capriano del Colle
+BS038;Capriolo
+BS039;Carpenedolo
+BS040;Castegnato
+BS042;Castel Mella
+BS041;Castelcovati
+BS043;Castenedolo
+BS044;Casto
+BS045;Castrezzato
+BS046;Cazzago San Martino
+BS047;Cedegolo
+BS048;Cellatica
+BS049;Cerveno
+BS050;Ceto
+BS051;Cevo
+BS052;Chiari
+BS053;Cigole
+BS054;Cimbergo
+BS055;Cividate Camuno
+BS056;Coccaglio
+BS057;Collebeato
+BS058;Collio
+BS059;Cologne
+BS060;Comezzano-Cizzago
+BS061;Concesio
+BS062;Corte Franca
+BS063;Corteno Golgi
+BS064;Corzano
+BS065;Darfo Boario Terme
+BS066;Dello
+BS067;Desenzano del Garda
+BS068;Edolo
+BS069;Erbusco
+BS070;Esine
+BS071;Fiesse
+BS072;Flero
+BS073;Gambara
+BS074;Gardone Riviera
+BS075;Gardone Val Trompia
+BS076;Gargnano
+BS077;Gavardo
+BS078;Ghedi
+BS079;Gianico
+BS080;Gottolengo
+BS081;Gussago
+BS082;Idro
+BS083;Incudine
+BS084;Irma
+BS085;Iseo
+BS086;Isorella
+BS087;Lavenone
+BS088;Leno
+BS089;Limone sul Garda
+BS090;Lodrino
+BS091;Lograto
+BS092;Lonato del Garda
+BS093;Longhena
+BS094;Losine
+BS095;Lozio
+BS096;Lumezzane
+BS097;Maclodio
+BS098;Magasa
+BS099;Mairano
+BS100;Malegno
+BS101;Malonno
+BS102;Manerba del Garda
+BS103;Manerbio
+BS104;Marcheno
+BS105;Marmentino
+BS106;Marone
+BS107;Mazzano
+BS108;Milzano
+BS109;Moniga del Garda
+BS110;Monno
+BS111;Monte Isola
+BS112;Monticelli Brusati
+BS113;Montichiari
+BS114;Montirone
+BS115;Mura
+BS116;Muscoline
+BS117;Nave
+BS118;Niardo
+BS119;Nuvolento
+BS120;Nuvolera
+BS121;Odolo
+BS122;Offlaga
+BS123;Ome
+BS124;Ono San Pietro
+BS125;Orzinuovi
+BS126;Orzivecchi
+BS127;Ospitaletto
+BS128;Ossimo
+BS129;Padenghe sul Garda
+BS130;Paderno Franciacorta
+BS131;Paisco Loveno
+BS132;Paitone
+BS133;Palazzolo sull'Oglio
+BS134;Paratico
+BS135;Paspardo
+BS136;Passirano
+BS137;Pavone del Mella
+BS139;Pertica Alta
+BS140;Pertica Bassa
+BS141;Pezzaze
+BS142;Pian Camuno
+BS206;Piancogno
+BS143;Pisogne
+BS144;Polaveno
+BS145;Polpenazze del Garda
+BS146;Pompiano
+BS147;Poncarale
+BS148;Ponte di Legno
+BS149;Pontevico
+BS150;Pontoglio
+BS151;Pozzolengo
+BS152;Pralboino
+BS153;Preseglie
+BS155;Prevalle
+BS156;Provaglio d'Iseo
+BS157;Provaglio Val Sabbia
+BS158;Puegnago sul Garda
+BS159;Quinzano d'Oglio
+BS160;Remedello
+BS161;Rezzato
+BS162;Roccafranca
+BS163;Rodengo Saiano
+BS164;Roè Volciano
+BS165;Roncadelle
+BS166;Rovato
+BS167;Rudiano
+BS168;Sabbio Chiese
+BS169;Sale Marasino
+BS170;Salò
+BS171;San Felice del Benaco
+BS172;San Gervasio Bresciano
+BS138;San Paolo
+BS173;San Zeno Naviglio
+BS174;Sarezzo
+BS175;Saviore dell'Adamello
+BS176;Sellero
+BS177;Seniga
+BS178;Serle
+BS179;Sirmione
+BS180;Soiano del Lago
+BS181;Sonico
+BS182;Sulzano
+BS183;Tavernole sul Mella
+BS184;Temù
+BS185;Tignale
+BS186;Torbole Casaglia
+BS187;Toscolano-Maderno
+BS188;Travagliato
+BS189;Tremosine sul Garda
+BS190;Trenzano
+BS191;Treviso Bresciano
+BS192;Urago d'Oglio
+BS193;Vallio Terme
+BS194;Valvestino
+BS195;Verolanuova
+BS196;Verolavecchia
+BS197;Vestone
+BS198;Vezza d'Oglio
+BS199;Villa Carcina
+BS200;Villachiara
+BS201;Villanuova sul Clisi
+BS202;Vione
+BS203;Visano
+BS204;Vobarno
+BS205;Zone
+BR001;Brindisi
+BR002;Carovigno
+BR003;Ceglie Messapica
+BR004;Cellino San Marco
+BR005;Cisternino
+BR006;Erchie
+BR007;Fasano
+BR008;Francavilla Fontana
+BR009;Latiano
+BR010;Mesagne
+BR011;Oria
+BR012;Ostuni
+BR013;San Donaci
+BR014;San Michele Salentino
+BR015;San Pancrazio Salentino
+BR016;San Pietro Vernotico
+BR017;San Vito dei Normanni
+BR018;Torchiarolo
+BR019;Torre Santa Susanna
+BR020;Villa Castelli
+CA003;Assemini
+CA009;Cagliari
+CA011;Capoterra
+CA015;Decimomannu
+CA108;Elmas
+CA037;Maracalagonis
+CA109;Monserrato
+CA050;Pula
+CA051;Quartu Sant'Elena
+CA105;Quartucciu
+CA066;Sarroch
+CA068;Selargius
+CA074;Sestu
+CA075;Settimo San Pietro
+CA080;Sinnai
+CA090;Uta
+CA099;Villa San Pietro
+CL001;Acquaviva Platani
+CL002;Bompensiere
+CL003;Butera
+CL004;Caltanissetta
+CL005;Campofranco
+CL006;Delia
+CL007;Gela
+CL008;Marianopoli
+CL009;Mazzarino
+CL010;Milena
+CL011;Montedoro
+CL012;Mussomeli
+CL013;Niscemi
+CL014;Resuttano
+CL015;Riesi
+CL016;San Cataldo
+CL017;Santa Caterina Villarmosa
+CL018;Serradifalco
+CL019;Sommatino
+CL020;Sutera
+CL021;Vallelunga Pratameno
+CL022;Villalba
+CB001;Acquaviva Collecroce
+CB002;Baranello
+CB003;Bojano
+CB004;Bonefro
+CB005;Busso
+CB006;Campobasso
+CB007;Campochiaro
+CB008;Campodipietra
+CB009;Campolieto
+CB010;Campomarino
+CB011;Casacalenda
+CB012;Casalciprano
+CB013;Castelbottaccio
+CB014;Castellino del Biferno
+CB015;Castelmauro
+CB016;Castropignano
+CB017;Cercemaggiore
+CB018;Cercepiccola
+CB019;Civitacampomarano
+CB020;Colle d'Anchise
+CB021;Colletorto
+CB022;Duronia
+CB023;Ferrazzano
+CB024;Fossalto
+CB025;Gambatesa
+CB026;Gildone
+CB027;Guardialfiera
+CB028;Guardiaregia
+CB029;Guglionesi
+CB030;Jelsi
+CB031;Larino
+CB032;Limosano
+CB033;Lucito
+CB034;Lupara
+CB035;Macchia Valfortore
+CB036;Mafalda
+CB037;Matrice
+CB038;Mirabello Sannitico
+CB039;Molise
+CB040;Monacilioni
+CB041;Montagano
+CB042;Montecilfone
+CB043;Montefalcone nel Sannio
+CB044;Montelongo
+CB045;Montemitro
+CB046;Montenero di Bisaccia
+CB047;Montorio nei Frentani
+CB048;Morrone del Sannio
+CB049;Oratino
+CB050;Palata
+CB051;Petacciato
+CB052;Petrella Tifernina
+CB053;Pietracatella
+CB054;Pietracupa
+CB055;Portocannone
+CB056;Provvidenti
+CB057;Riccia
+CB058;Ripabottoni
+CB059;Ripalimosani
+CB060;Roccavivara
+CB061;Rotello
+CB062;Salcito
+CB063;San Biase
+CB064;San Felice del Molise
+CB065;San Giacomo degli Schiavoni
+CB066;San Giovanni in Galdo
+CB067;San Giuliano del Sannio
+CB068;San Giuliano di Puglia
+CB069;San Martino in Pensilis
+CB070;San Massimo
+CB071;San Polo Matese
+CB072;Santa Croce di Magliano
+CB073;Sant'Angelo Limosano
+CB074;Sant'Elia a Pianisi
+CB075;Sepino
+CB076;Spinete
+CB077;Tavenna
+CB078;Termoli
+CB079;Torella del Sannio
+CB080;Toro
+CB081;Trivento
+CB082;Tufara
+CB083;Ururi
+CB084;Vinchiaturo
+CE001;Ailano
+CE002;Alife
+CE003;Alvignano
+CE004;Arienzo
+CE005;Aversa
+CE006;Baia e Latina
+CE007;Bellona
+CE008;Caianello
+CE009;Caiazzo
+CE010;Calvi Risorta
+CE011;Camigliano
+CE012;Cancello ed Arnone
+CE013;Capodrise
+CE014;Capriati a Volturno
+CE015;Capua
+CE016;Carinaro
+CE017;Carinola
+CE018;Casagiove
+CE019;Casal di Principe
+CE020;Casaluce
+CE103;Casapesenna
+CE021;Casapulla
+CE022;Caserta
+CE023;Castel Campagnano
+CE024;Castel di Sasso
+CE026;Castel Morrone
+CE027;Castel Volturno
+CE025;Castello del Matese
+CE102;Cellole
+CE028;Cervino
+CE029;Cesa
+CE030;Ciorlano
+CE031;Conca della Campania
+CE032;Curti
+CE033;Dragoni
+CE101;Falciano del Massico
+CE034;Fontegreca
+CE035;Formicola
+CE036;Francolise
+CE037;Frignano
+CE038;Gallo Matese
+CE039;Galluccio
+CE040;Giano Vetusto
+CE041;Gioia Sannitica
+CE042;Grazzanise
+CE043;Gricignano di Aversa
+CE044;Letino
+CE045;Liberi
+CE046;Lusciano
+CE047;Macerata Campania
+CE048;Maddaloni
+CE049;Marcianise
+CE050;Marzano Appio
+CE051;Mignano Monte Lungo
+CE052;Mondragone
+CE053;Orta di Atella
+CE054;Parete
+CE055;Pastorano
+CE056;Piana di Monte Verna
+CE057;Piedimonte Matese
+CE058;Pietramelara
+CE059;Pietravairano
+CE060;Pignataro Maggiore
+CE061;Pontelatone
+CE062;Portico di Caserta
+CE063;Prata Sannita
+CE064;Pratella
+CE065;Presenzano
+CE066;Raviscanina
+CE067;Recale
+CE068;Riardo
+CE069;Rocca d'Evandro
+CE070;Roccamonfina
+CE071;Roccaromana
+CE072;Rocchetta e Croce
+CE073;Ruviano
+CE074;San Cipriano d'Aversa
+CE075;San Felice a Cancello
+CE076;San Gregorio Matese
+CE077;San Marcellino
+CE104;San Marco Evangelista
+CE078;San Nicola la Strada
+CE079;San Pietro Infine
+CE080;San Potito Sannitico
+CE081;San Prisco
+CE085;San Tammaro
+CE082;Santa Maria a Vico
+CE083;Santa Maria Capua Vetere
+CE084;Santa Maria la Fossa
+CE086;Sant'Angelo d'Alife
+CE087;Sant'Arpino
+CE088;Sessa Aurunca
+CE089;Sparanise
+CE090;Succivo
+CE091;Teano
+CE092;Teverola
+CE093;Tora e Piccilli
+CE094;Trentola Ducenta
+CE095;Vairano Patenora
+CE096;Valle Agricola
+CE097;Valle di Maddaloni
+CE098;Villa di Briano
+CE099;Villa Literno
+CE100;Vitulazio
+CT001;Aci Bonaccorsi
+CT002;Aci Castello
+CT003;Aci Catena
+CT005;Aci Sant'Antonio
+CT004;Acireale
+CT006;Adrano
+CT007;Belpasso
+CT008;Biancavilla
+CT009;Bronte
+CT010;Calatabiano
+CT011;Caltagirone
+CT012;Camporotondo Etneo
+CT013;Castel di Iudica
+CT014;Castiglione di Sicilia
+CT015;Catania
+CT016;Fiumefreddo di Sicilia
+CT017;Giarre
+CT018;Grammichele
+CT019;Gravina di Catania
+CT020;Licodia Eubea
+CT021;Linguaglossa
+CT022;Maletto
+CT057;Maniace
+CT023;Mascali
+CT024;Mascalucia
+CT056;Mazzarrone
+CT025;Militello in Val di Catania
+CT026;Milo
+CT027;Mineo
+CT028;Mirabella Imbaccari
+CT029;Misterbianco
+CT030;Motta Sant'Anastasia
+CT031;Nicolosi
+CT032;Palagonia
+CT033;Paternò
+CT034;Pedara
+CT035;Piedimonte Etneo
+CT036;Raddusa
+CT058;Ragalna
+CT037;Ramacca
+CT038;Randazzo
+CT039;Riposto
+CT040;San Cono
+CT041;San Giovanni la Punta
+CT042;San Gregorio di Catania
+CT043;San Michele di Ganzaria
+CT044;San Pietro Clarenza
+CT047;Santa Maria di Licodia
+CT048;Santa Venerina
+CT045;Sant'Agata li Battiati
+CT046;Sant'Alfio
+CT049;Scordia
+CT050;Trecastagni
+CT051;Tremestieri Etneo
+CT052;Valverde
+CT053;Viagrande
+CT054;Vizzini
+CT055;Zafferana Etnea
+CZ002;Albi
+CZ003;Amaroni
+CZ004;Amato
+CZ005;Andali
+CZ007;Argusto
+CZ008;Badolato
+CZ009;Belcastro
+CZ011;Borgia
+CZ012;Botricello
+CZ017;Caraffa di Catanzaro
+CZ018;Cardinale
+CZ020;Carlopoli
+CZ023;Catanzaro
+CZ024;Cenadi
+CZ025;Centrache
+CZ027;Cerva
+CZ029;Chiaravalle Centrale
+CZ030;Cicala
+CZ033;Conflenti
+CZ034;Cortale
+CZ036;Cropani
+CZ039;Curinga
+CZ042;Davoli
+CZ043;Decollatura
+CZ047;Falerna
+CZ048;Feroleto Antico
+CZ052;Fossato Serralta
+CZ055;Gagliato
+CZ056;Gasperina
+CZ058;Gimigliano
+CZ059;Girifalco
+CZ060;Gizzeria
+CZ061;Guardavalle
+CZ063;Isca sullo Ionio
+CZ065;Jacurso
+CZ160;Lamezia Terme
+CZ068;Magisano
+CZ069;Maida
+CZ071;Marcedusa
+CZ072;Marcellinara
+CZ073;Martirano
+CZ074;Martirano Lombardo
+CZ077;Miglierina
+CZ080;Montauro
+CZ081;Montepaone
+CZ083;Motta Santa Lucia
+CZ087;Nocera Terinese
+CZ088;Olivadi
+CZ089;Palermiti
+CZ092;Pentone
+CZ094;Petrizzi
+CZ095;Petronà
+CZ096;Pianopoli
+CZ099;Platania
+CZ108;San Floro
+CZ110;San Mango d'Aquino
+CZ114;San Pietro a Maida
+CZ115;San Pietro Apostolo
+CZ116;San Sostene
+CZ122;San Vito sullo Ionio
+CZ117;Santa Caterina dello Ionio
+CZ118;Sant'Andrea Apostolo dello Ionio
+CZ123;Satriano
+CZ126;Sellia
+CZ127;Sellia Marina
+CZ129;Serrastretta
+CZ130;Sersale
+CZ131;Settingiano
+CZ133;Simeri Crichi
+CZ134;Sorbo San Basile
+CZ137;Soverato
+CZ138;Soveria Mannelli
+CZ139;Soveria Simeri
+CZ142;Squillace
+CZ143;Stalettì
+CZ146;Taverna
+CZ147;Tiriolo
+CZ148;Torre di Ruggiero
+CZ151;Vallefiorita
+CZ157;Zagarise
+CH001;Altino
+CH002;Archi
+CH003;Ari
+CH004;Arielli
+CH005;Atessa
+CH006;Bomba
+CH007;Borrello
+CH008;Bucchianico
+CH010;Canosa Sannita
+CH011;Carpineto Sinello
+CH012;Carunchio
+CH013;Casacanditella
+CH014;Casalanguida
+CH015;Casalbordino
+CH016;Casalincontrada
+CH017;Casoli
+CH018;Castel Frentano
+CH019;Castelguidone
+CH020;Castiglione Messer Marino
+CH021;Celenza sul Trigno
+CH022;Chieti
+CH023;Civitaluparella
+CH024;Civitella Messer Raimondo
+CH025;Colledimacine
+CH026;Colledimezzo
+CH027;Crecchio
+CH028;Cupello
+CH029;Dogliola
+CH104;Fallo
+CH030;Fara Filiorum Petri
+CH031;Fara San Martino
+CH032;Filetto
+CH033;Fossacesia
+CH034;Fraine
+CH035;Francavilla al Mare
+CH036;Fresagrandinaria
+CH037;Frisa
+CH038;Furci
+CH039;Gamberale
+CH040;Gessopalena
+CH041;Gissi
+CH042;Giuliano Teatino
+CH043;Guardiagrele
+CH044;Guilmi
+CH045;Lama dei Peligni
+CH046;Lanciano
+CH047;Lentella
+CH048;Lettopalena
+CH049;Liscia
+CH050;Miglianico
+CH051;Montazzoli
+CH009;Montebello sul Sangro
+CH052;Monteferrante
+CH053;Montelapiano
+CH054;Montenerodomo
+CH055;Monteodorisio
+CH056;Mozzagrogna
+CH057;Orsogna
+CH058;Ortona
+CH059;Paglieta
+CH060;Palena
+CH061;Palmoli
+CH062;Palombaro
+CH063;Pennadomo
+CH064;Pennapiedimonte
+CH065;Perano
+CH103;Pietraferrazzana
+CH066;Pizzoferrato
+CH067;Poggiofiorito
+CH068;Pollutri
+CH069;Pretoro
+CH070;Quadri
+CH071;Rapino
+CH072;Ripa Teatina
+CH074;Rocca San Giovanni
+CH073;Roccamontepiano
+CH075;Roccascalegna
+CH076;Roccaspinalveti
+CH077;Roio del Sangro
+CH078;Rosello
+CH079;San Buono
+CH080;San Giovanni Lipioni
+CH081;San Giovanni Teatino
+CH082;San Martino sulla Marrucina
+CH083;San Salvo
+CH086;San Vito Chietino
+CH084;Santa Maria Imbaro
+CH085;Sant'Eusanio del Sangro
+CH087;Scerni
+CH088;Schiavi di Abruzzo
+CH089;Taranta Peligna
+CH090;Tollo
+CH091;Torino di Sangro
+CH092;Tornareccio
+CH093;Torrebruna
+CH094;Torrevecchia Teatina
+CH095;Torricella Peligna
+CH096;Treglio
+CH097;Tufillo
+CH098;Vacri
+CH099;Vasto
+CH102;Villa Santa Maria
+CH100;Villalfonsina
+CH101;Villamagna
+CO003;Albavilla
+CO004;Albese con Cassano
+CO005;Albiolo
+CO006;Alserio
+CO253;Alta Valle Intelvi
+CO007;Alzate Brianza
+CO009;Anzano del Parco
+CO010;Appiano Gentile
+CO011;Argegno
+CO012;Arosio
+CO013;Asso
+CO015;Barni
+CO250;Bellagio
+CO021;Bene Lario
+CO022;Beregazzo con Figliaro
+CO023;Binago
+CO024;Bizzarone
+CO025;Blessagno
+CO026;Blevio
+CO028;Bregnano
+CO029;Brenna
+CO030;Brienno
+CO032;Brunate
+CO034;Bulgarograsso
+CO035;Cabiate
+CO036;Cadorago
+CO037;Caglio
+CO038;Cagno
+CO040;Campione d'Italia
+CO041;Cantù
+CO042;Canzo
+CO043;Capiago Intimiano
+CO044;Carate Urio
+CO045;Carbonate
+CO046;Carimate
+CO047;Carlazzo
+CO048;Carugo
+CO050;Casasco d'Intelvi
+CO052;Caslino d'Erba
+CO053;Casnate con Bernate
+CO055;Cassina Rizzardi
+CO058;Castelmarte
+CO059;Castelnuovo Bozzente
+CO060;Castiglione d'Intelvi
+CO062;Cavargna
+CO063;Cerano d'Intelvi
+CO064;Cermenate
+CO065;Cernobbio
+CO068;Cirimido
+CO071;Claino con Osteno
+CO074;Colonno
+CO251;Colverde
+CO075;Como
+CO077;Corrido
+CO083;Cremia
+CO084;Cucciago
+CO085;Cusino
+CO087;Dizzasco
+CO089;Domaso
+CO090;Dongo
+CO092;Dosso del Liro
+CO095;Erba
+CO097;Eupilio
+CO098;Faggeto Lario
+CO099;Faloppio
+CO100;Fenegrò
+CO101;Figino Serenza
+CO102;Fino Mornasco
+CO106;Garzeno
+CO107;Gera Lario
+CO110;Grandate
+CO111;Grandola ed Uniti
+CO249;Gravedona ed Uniti
+CO113;Griante
+CO114;Guanzate
+CO118;Inverigo
+CO119;Laglio
+CO120;Laino
+CO121;Lambrugo
+CO123;Lasnigo
+CO126;Lezzeno
+CO128;Limido Comasco
+CO129;Lipomo
+CO130;Livo
+CO131;Locate Varesino
+CO133;Lomazzo
+CO134;Longone al Segrino
+CO135;Luisago
+CO136;Lurago d'Erba
+CO137;Lurago Marinone
+CO138;Lurate Caccivio
+CO139;Magreglio
+CO143;Mariano Comense
+CO144;Maslianico
+CO145;Menaggio
+CO147;Merone
+CO152;Moltrasio
+CO153;Monguzzo
+CO154;Montano Lucino
+CO155;Montemezzo
+CO157;Montorfano
+CO159;Mozzate
+CO160;Musso
+CO161;Nesso
+CO163;Novedrate
+CO165;Olgiate Comasco
+CO169;Oltrona di San Mamette
+CO170;Orsenigo
+CO178;Peglio
+CO183;Pianello del Lario
+CO184;Pigra
+CO185;Plesio
+CO186;Pognana Lario
+CO187;Ponna
+CO188;Ponte Lambro
+CO189;Porlezza
+CO192;Proserpio
+CO193;Pusiano
+CO195;Rezzago
+CO197;Rodero
+CO199;Ronago
+CO201;Rovellasca
+CO202;Rovello Porro
+CO203;Sala Comacina
+CO204;San Bartolomeo Val Cavargna
+CO205;San Fedele Intelvi
+CO206;San Fermo della Battaglia
+CO207;San Nazzaro Val Cavargna
+CO248;San Siro
+CO211;Schignano
+CO212;Senna Comasco
+CO215;Solbiate
+CO216;Sorico
+CO217;Sormano
+CO218;Stazzona
+CO222;Tavernerio
+CO223;Torno
+CO252;Tremezzina
+CO226;Trezzone
+CO227;Turate
+CO228;Uggiate-Trevano
+CO233;Val Rezzo
+CO229;Valbrona
+CO232;Valmorea
+CO234;Valsolda
+CO236;Veleso
+CO238;Veniano
+CO239;Vercana
+CO242;Vertemate con Minoprio
+CO245;Villa Guardia
+CO246;Zelbio
+CS001;Acquaformosa
+CS002;Acquappesa
+CS003;Acri
+CS004;Aiello Calabro
+CS005;Aieta
+CS006;Albidona
+CS007;Alessandria del Carretto
+CS008;Altilia
+CS009;Altomonte
+CS010;Amantea
+CS011;Amendolara
+CS012;Aprigliano
+CS013;Belmonte Calabro
+CS014;Belsito
+CS015;Belvedere Marittimo
+CS016;Bianchi
+CS017;Bisignano
+CS018;Bocchigliero
+CS019;Bonifati
+CS020;Buonvicino
+CS021;Calopezzati
+CS022;Caloveto
+CS023;Campana
+CS024;Canna
+CS025;Cariati
+CS026;Carolei
+CS027;Carpanzano
+CS156;Casali del Manco
+CS029;Cassano all'Ionio
+CS030;Castiglione Cosentino
+CS031;Castrolibero
+CS032;Castroregio
+CS033;Castrovillari
+CS034;Celico
+CS035;Cellara
+CS036;Cerchiara di Calabria
+CS037;Cerisano
+CS038;Cervicati
+CS039;Cerzeto
+CS040;Cetraro
+CS041;Civita
+CS042;Cleto
+CS043;Colosimi
+CS044;Corigliano Calabro
+CS045;Cosenza
+CS046;Cropalati
+CS047;Crosia
+CS048;Diamante
+CS049;Dipignano
+CS050;Domanico
+CS051;Fagnano Castello
+CS052;Falconara Albanese
+CS053;Figline Vegliaturo
+CS054;Firmo
+CS055;Fiumefreddo Bruzio
+CS056;Francavilla Marittima
+CS057;Frascineto
+CS058;Fuscaldo
+CS059;Grimaldi
+CS060;Grisolia
+CS061;Guardia Piemontese
+CS062;Lago
+CS063;Laino Borgo
+CS064;Laino Castello
+CS065;Lappano
+CS066;Lattarico
+CS067;Longobardi
+CS068;Longobucco
+CS069;Lungro
+CS070;Luzzi
+CS071;Maierà
+CS072;Malito
+CS073;Malvito
+CS074;Mandatoriccio
+CS075;Mangone
+CS076;Marano Marchesato
+CS077;Marano Principato
+CS078;Marzi
+CS079;Mendicino
+CS080;Mongrassano
+CS081;Montalto Uffugo
+CS082;Montegiordano
+CS083;Morano Calabro
+CS084;Mormanno
+CS085;Mottafollone
+CS086;Nocara
+CS087;Oriolo
+CS088;Orsomarso
+CS089;Paludi
+CS090;Panettieri
+CS091;Paola
+CS092;Papasidero
+CS093;Parenti
+CS094;Paterno Calabro
+CS096;Pedivigliano
+CS097;Piane Crati
+CS098;Pietrafitta
+CS099;Pietrapaola
+CS100;Plataci
+CS101;Praia a Mare
+CS102;Rende
+CS103;Rocca Imperiale
+CS104;Roggiano Gravina
+CS105;Rogliano
+CS106;Rose
+CS107;Roseto Capo Spulico
+CS108;Rossano
+CS109;Rota Greca
+CS110;Rovito
+CS111;San Basile
+CS112;San Benedetto Ullano
+CS113;San Cosmo Albanese
+CS114;San Demetrio Corone
+CS115;San Donato di Ninea
+CS116;San Fili
+CS118;San Giorgio Albanese
+CS119;San Giovanni in Fiore
+CS120;San Lorenzo Bellizzi
+CS121;San Lorenzo del Vallo
+CS122;San Lucido
+CS123;San Marco Argentano
+CS124;San Martino di Finita
+CS125;San Nicola Arcella
+CS126;San Pietro in Amantea
+CS127;San Pietro in Guarano
+CS128;San Sosti
+CS135;San Vincenzo La Costa
+CS117;Sangineto
+CS129;Santa Caterina Albanese
+CS130;Santa Domenica Talao
+CS132;Santa Maria del Cedro
+CS133;Santa Sofia d'Epiro
+CS131;Sant'Agata di Esaro
+CS134;Santo Stefano di Rogliano
+CS136;Saracena
+CS137;Scala Coeli
+CS138;Scalea
+CS139;Scigliano
+CS140;Serra d'Aiello
+CS142;Spezzano Albanese
+CS143;Spezzano della Sila
+CS145;Tarsia
+CS146;Terranova da Sibari
+CS147;Terravecchia
+CS148;Torano Castello
+CS149;Tortora
+CS150;Trebisacce
+CS152;Vaccarizzo Albanese
+CS153;Verbicaro
+CS154;Villapiana
+CS155;Zumpano
+CR001;Acquanegra Cremonese
+CR002;Agnadello
+CR003;Annicco
+CR004;Azzanello
+CR005;Bagnolo Cremasco
+CR006;Bonemerse
+CR007;Bordolano
+CR008;Ca' d'Andrea
+CR009;Calvatone
+CR010;Camisano
+CR011;Campagnola Cremasca
+CR012;Capergnanica
+CR013;Cappella Cantone
+CR014;Cappella de' Picenardi
+CR015;Capralba
+CR016;Casalbuttano ed Uniti
+CR017;Casale Cremasco-Vidolasco
+CR018;Casaletto Ceredano
+CR019;Casaletto di Sopra
+CR020;Casaletto Vaprio
+CR021;Casalmaggiore
+CR022;Casalmorano
+CR024;Castel Gabbiano
+CR023;Casteldidone
+CR025;Castelleone
+CR026;Castelverde
+CR027;Castelvisconti
+CR028;Cella Dati
+CR029;Chieve
+CR030;Cicognolo
+CR031;Cingia de' Botti
+CR032;Corte de' Cortesi con Cignone
+CR033;Corte de' Frati
+CR034;Credera Rubbiano
+CR035;Crema
+CR036;Cremona
+CR037;Cremosano
+CR038;Crotta d'Adda
+CR039;Cumignano sul Naviglio
+CR040;Derovere
+CR041;Dovera
+CR042;Drizzona
+CR043;Fiesco
+CR044;Formigara
+CR045;Gabbioneta-Binanuova
+CR046;Gadesco-Pieve Delmona
+CR047;Genivolta
+CR048;Gerre de' Caprioli
+CR049;Gombito
+CR050;Grontardo
+CR051;Grumello Cremonese ed Uniti
+CR052;Gussola
+CR053;Isola Dovarese
+CR054;Izano
+CR055;Madignano
+CR056;Malagnino
+CR057;Martignana di Po
+CR058;Monte Cremasco
+CR059;Montodine
+CR060;Moscazzano
+CR061;Motta Baluffi
+CR062;Offanengo
+CR063;Olmeneta
+CR064;Ostiano
+CR065;Paderno Ponchielli
+CR066;Palazzo Pignano
+CR067;Pandino
+CR068;Persico Dosimo
+CR069;Pescarolo ed Uniti
+CR070;Pessina Cremonese
+CR071;Piadena
+CR072;Pianengo
+CR073;Pieranica
+CR074;Pieve d'Olmi
+CR075;Pieve San Giacomo
+CR076;Pizzighettone
+CR077;Pozzaglio ed Uniti
+CR078;Quintano
+CR079;Ricengo
+CR080;Ripalta Arpina
+CR081;Ripalta Cremasca
+CR082;Ripalta Guerina
+CR083;Rivarolo del Re ed Uniti
+CR084;Rivolta d'Adda
+CR085;Robecco d'Oglio
+CR086;Romanengo
+CR087;Salvirola
+CR088;San Bassano
+CR089;San Daniele Po
+CR090;San Giovanni in Croce
+CR091;San Martino del Lago
+CR092;Scandolara Ravara
+CR093;Scandolara Ripa d'Oglio
+CR094;Sergnano
+CR095;Sesto ed Uniti
+CR096;Solarolo Rainerio
+CR097;Soncino
+CR098;Soresina
+CR099;Sospiro
+CR100;Spinadesco
+CR101;Spineda
+CR102;Spino d'Adda
+CR103;Stagno Lombardo
+CR104;Ticengo
+CR105;Torlino Vimercati
+CR106;Tornata
+CR107;Torre de' Picenardi
+CR108;Torricella del Pizzo
+CR109;Trescore Cremasco
+CR110;Trigolo
+CR111;Vaiano Cremasco
+CR112;Vailate
+CR113;Vescovato
+CR114;Volongo
+CR115;Voltido
+KR001;Belvedere di Spinello
+KR002;Caccuri
+KR003;Carfizzi
+KR004;Casabona
+KR005;Castelsilano
+KR006;Cerenzia
+KR007;Cirò
+KR008;Cirò Marina
+KR009;Cotronei
+KR010;Crotone
+KR011;Crucoli
+KR012;Cutro
+KR013;Isola di Capo Rizzuto
+KR014;Melissa
+KR015;Mesoraca
+KR016;Pallagorio
+KR017;Petilia Policastro
+KR019;Rocca di Neto
+KR018;Roccabernarda
+KR020;San Mauro Marchesato
+KR021;San Nicola dell'Alto
+KR022;Santa Severina
+KR023;Savelli
+KR024;Scandale
+KR025;Strongoli
+KR026;Umbriatico
+KR027;Verzino
+CN001;Acceglio
+CN002;Aisone
+CN003;Alba
+CN004;Albaretto della Torre
+CN005;Alto
+CN006;Argentera
+CN007;Arguello
+CN008;Bagnasco
+CN009;Bagnolo Piemonte
+CN010;Baldissero d'Alba
+CN011;Barbaresco
+CN012;Barge
+CN013;Barolo
+CN014;Bastia Mondovì
+CN015;Battifollo
+CN016;Beinette
+CN017;Bellino
+CN018;Belvedere Langhe
+CN019;Bene Vagienna
+CN020;Benevello
+CN021;Bergolo
+CN022;Bernezzo
+CN023;Bonvicino
+CN025;Borgo San Dalmazzo
+CN024;Borgomale
+CN026;Bosia
+CN027;Bossolasco
+CN028;Boves
+CN029;Bra
+CN030;Briaglia
+CN031;Briga Alta
+CN032;Brondello
+CN033;Brossasco
+CN034;Busca
+CN035;Camerana
+CN036;Camo
+CN037;Canale
+CN038;Canosio
+CN039;Caprauna
+CN040;Caraglio
+CN041;Caramagna Piemonte
+CN042;Cardè
+CN043;Carrù
+CN044;Cartignano
+CN045;Casalgrasso
+CN046;Castagnito
+CN047;Casteldelfino
+CN048;Castellar
+CN049;Castelletto Stura
+CN050;Castelletto Uzzone
+CN051;Castellinaldo d'Alba
+CN052;Castellino Tanaro
+CN053;Castelmagno
+CN054;Castelnuovo di Ceva
+CN055;Castiglione Falletto
+CN056;Castiglione Tinella
+CN057;Castino
+CN058;Cavallerleone
+CN059;Cavallermaggiore
+CN060;Celle di Macra
+CN061;Centallo
+CN062;Ceresole Alba
+CN063;Cerretto Langhe
+CN064;Cervasca
+CN065;Cervere
+CN066;Ceva
+CN067;Cherasco
+CN068;Chiusa di Pesio
+CN069;Cigliè
+CN070;Cissone
+CN071;Clavesana
+CN072;Corneliano d'Alba
+CN073;Cortemilia
+CN074;Cossano Belbo
+CN075;Costigliole Saluzzo
+CN076;Cravanzana
+CN077;Crissolo
+CN078;Cuneo
+CN079;Demonte
+CN080;Diano d'Alba
+CN081;Dogliani
+CN082;Dronero
+CN083;Elva
+CN084;Entracque
+CN085;Envie
+CN086;Farigliano
+CN087;Faule
+CN088;Feisoglio
+CN089;Fossano
+CN090;Frabosa Soprana
+CN091;Frabosa Sottana
+CN092;Frassino
+CN093;Gaiola
+CN094;Gambasca
+CN095;Garessio
+CN096;Genola
+CN097;Gorzegno
+CN098;Gottasecca
+CN099;Govone
+CN100;Grinzane Cavour
+CN101;Guarene
+CN102;Igliano
+CN103;Isasca
+CN105;La Morra
+CN104;Lagnasco
+CN106;Lequio Berria
+CN107;Lequio Tanaro
+CN108;Lesegno
+CN109;Levice
+CN110;Limone Piemonte
+CN111;Lisio
+CN112;Macra
+CN113;Magliano Alfieri
+CN114;Magliano Alpi
+CN115;Mango
+CN116;Manta
+CN117;Marene
+CN118;Margarita
+CN119;Marmora
+CN120;Marsaglia
+CN121;Martiniana Po
+CN122;Melle
+CN123;Moiola
+CN124;Mombarcaro
+CN125;Mombasiglio
+CN126;Monastero di Vasco
+CN127;Monasterolo Casotto
+CN128;Monasterolo di Savigliano
+CN129;Monchiero
+CN130;Mondovì
+CN131;Monesiglio
+CN132;Monforte d'Alba
+CN133;Montà
+CN134;Montaldo di Mondovì
+CN135;Montaldo Roero
+CN136;Montanera
+CN137;Montelupo Albese
+CN138;Montemale di Cuneo
+CN139;Monterosso Grana
+CN140;Monteu Roero
+CN141;Montezemolo
+CN142;Monticello d'Alba
+CN143;Moretta
+CN144;Morozzo
+CN145;Murazzano
+CN146;Murello
+CN147;Narzole
+CN148;Neive
+CN149;Neviglie
+CN150;Niella Belbo
+CN151;Niella Tanaro
+CN152;Novello
+CN153;Nucetto
+CN154;Oncino
+CN155;Ormea
+CN156;Ostana
+CN157;Paesana
+CN158;Pagno
+CN159;Pamparato
+CN160;Paroldo
+CN161;Perletto
+CN162;Perlo
+CN163;Peveragno
+CN164;Pezzolo Valle Uzzone
+CN165;Pianfei
+CN166;Piasco
+CN167;Pietraporzio
+CN168;Piobesi d'Alba
+CN169;Piozzo
+CN170;Pocapaglia
+CN171;Polonghera
+CN172;Pontechianale
+CN173;Pradleves
+CN174;Prazzo
+CN175;Priero
+CN176;Priocca
+CN177;Priola
+CN178;Prunetto
+CN179;Racconigi
+CN180;Revello
+CN181;Rifreddo
+CN182;Rittana
+CN183;Roaschia
+CN184;Roascio
+CN185;Robilante
+CN186;Roburent
+CN188;Rocca Cigliè
+CN189;Rocca de' Baldi
+CN187;Roccabruna
+CN190;Roccaforte Mondovì
+CN191;Roccasparvera
+CN192;Roccavione
+CN193;Rocchetta Belbo
+CN194;Roddi
+CN195;Roddino
+CN196;Rodello
+CN197;Rossana
+CN198;Ruffia
+CN199;Sale delle Langhe
+CN200;Sale San Giovanni
+CN201;Saliceto
+CN202;Salmour
+CN203;Saluzzo
+CN204;Sambuco
+CN205;Sampeyre
+CN206;San Benedetto Belbo
+CN207;San Damiano Macra
+CN210;San Michele Mondovì
+CN208;Sanfrè
+CN209;Sanfront
+CN212;Santa Vittoria d'Alba
+CN211;Sant'Albano Stura
+CN213;Santo Stefano Belbo
+CN214;Santo Stefano Roero
+CN215;Savigliano
+CN216;Scagnello
+CN217;Scarnafigi
+CN218;Serralunga d'Alba
+CN219;Serravalle Langhe
+CN220;Sinio
+CN221;Somano
+CN222;Sommariva del Bosco
+CN223;Sommariva Perno
+CN224;Stroppo
+CN225;Tarantasca
+CN226;Torre Bormida
+CN227;Torre Mondovì
+CN228;Torre San Giorgio
+CN229;Torresina
+CN230;Treiso
+CN231;Trezzo Tinella
+CN232;Trinità
+CN233;Valdieri
+CN234;Valgrana
+CN235;Valloriate
+CN236;Valmala
+CN237;Venasca
+CN238;Verduno
+CN239;Vernante
+CN240;Verzuolo
+CN241;Vezza d'Alba
+CN242;Vicoforte
+CN243;Vignolo
+CN244;Villafalletto
+CN245;Villanova Mondovì
+CN246;Villanova Solaro
+CN247;Villar San Costanzo
+CN248;Vinadio
+CN249;Viola
+CN250;Vottignasco
+EN001;Agira
+EN002;Aidone
+EN003;Assoro
+EN004;Barrafranca
+EN005;Calascibetta
+EN006;Catenanuova
+EN007;Centuripe
+EN008;Cerami
+EN009;Enna
+EN010;Gagliano Castelferrato
+EN011;Leonforte
+EN012;Nicosia
+EN013;Nissoria
+EN014;Piazza Armerina
+EN015;Pietraperzia
+EN016;Regalbuto
+EN017;Sperlinga
+EN018;Troina
+EN019;Valguarnera Caropepe
+EN020;Villarosa
+FM001;Altidona
+FM002;Amandola
+FM003;Belmonte Piceno
+FM004;Campofilone
+FM005;Falerone
+FM006;Fermo
+FM007;Francavilla d'Ete
+FM008;Grottazzolina
+FM009;Lapedona
+FM010;Magliano di Tenna
+FM011;Massa Fermana
+FM012;Monsampietro Morico
+FM013;Montappone
+FM016;Monte Giberto
+FM021;Monte Rinaldo
+FM023;Monte San Pietrangeli
+FM024;Monte Urano
+FM025;Monte Vidon Combatte
+FM026;Monte Vidon Corrado
+FM014;Montefalcone Appennino
+FM015;Montefortino
+FM017;Montegiorgio
+FM018;Montegranaro
+FM019;Monteleone di Fermo
+FM020;Montelparo
+FM022;Monterubbiano
+FM027;Montottone
+FM028;Moresco
+FM029;Ortezzano
+FM030;Pedaso
+FM031;Petritoli
+FM032;Ponzano di Fermo
+FM033;Porto San Giorgio
+FM034;Porto Sant'Elpidio
+FM035;Rapagnano
+FM036;Santa Vittoria in Matenano
+FM037;Sant'Elpidio a Mare
+FM038;Servigliano
+FM039;Smerillo
+FM040;Torre San Patrizio
+FE001;Argenta
+FE002;Berra
+FE003;Bondeno
+FE004;Cento
+FE005;Codigoro
+FE006;Comacchio
+FE007;Copparo
+FE008;Ferrara
+FE027;Fiscaglia
+FE009;Formignana
+FE025;Goro
+FE010;Jolanda di Savoia
+FE011;Lagosanto
+FE012;Masi Torello
+FE014;Mesola
+FE017;Ostellato
+FE018;Poggio Renatico
+FE019;Portomaggiore
+FE020;Ro
+FE028;Terre del Reno
+FE024;Tresigallo
+FE022;Vigarano Mainarda
+FE023;Voghiera
+FI001;Bagno a Ripoli
+FI002;Barberino di Mugello
+FI003;Barberino Val d'Elsa
+FI004;Borgo San Lorenzo
+FI005;Calenzano
+FI006;Campi Bisenzio
+FI008;Capraia e Limite
+FI010;Castelfiorentino
+FI011;Cerreto Guidi
+FI012;Certaldo
+FI013;Dicomano
+FI014;Empoli
+FI015;Fiesole
+FI052;Figline e Incisa Valdarno
+FI017;Firenze
+FI018;Firenzuola
+FI019;Fucecchio
+FI020;Gambassi Terme
+FI021;Greve in Chianti
+FI022;Impruneta
+FI024;Lastra a Signa
+FI025;Londa
+FI026;Marradi
+FI027;Montaione
+FI028;Montelupo Fiorentino
+FI030;Montespertoli
+FI031;Palazzuolo sul Senio
+FI032;Pelago
+FI033;Pontassieve
+FI035;Reggello
+FI036;Rignano sull'Arno
+FI037;Rufina
+FI038;San Casciano in Val di Pesa
+FI039;San Godenzo
+FI041;Scandicci
+FI053;Scarperia e San Piero
+FI043;Sesto Fiorentino
+FI044;Signa
+FI045;Tavarnelle Val di Pesa
+FI046;Vaglia
+FI049;Vicchio
+FI050;Vinci
+FG001;Accadia
+FG002;Alberona
+FG003;Anzano di Puglia
+FG004;Apricena
+FG005;Ascoli Satriano
+FG006;Biccari
+FG007;Bovino
+FG008;Cagnano Varano
+FG009;Candela
+FG010;Carapelle
+FG011;Carlantino
+FG012;Carpino
+FG013;Casalnuovo Monterotaro
+FG014;Casalvecchio di Puglia
+FG015;Castelluccio dei Sauri
+FG016;Castelluccio Valmaggiore
+FG017;Castelnuovo della Daunia
+FG018;Celenza Valfortore
+FG019;Celle di San Vito
+FG020;Cerignola
+FG021;Chieuti
+FG022;Deliceto
+FG023;Faeto
+FG024;Foggia
+FG025;Ischitella
+FG026;Isole Tremiti
+FG027;Lesina
+FG028;Lucera
+FG029;Manfredonia
+FG031;Mattinata
+FG033;Monte Sant'Angelo
+FG032;Monteleone di Puglia
+FG034;Motta Montecorvino
+FG063;Ordona
+FG035;Orsara di Puglia
+FG036;Orta Nova
+FG037;Panni
+FG038;Peschici
+FG039;Pietramontecorvino
+FG040;Poggio Imperiale
+FG041;Rignano Garganico
+FG042;Rocchetta Sant'Antonio
+FG043;Rodi Garganico
+FG044;Roseto Valfortore
+FG046;San Giovanni Rotondo
+FG047;San Marco in Lamis
+FG048;San Marco la Catola
+FG049;San Nicandro Garganico
+FG050;San Paolo di Civitate
+FG051;San Severo
+FG052;Sant'Agata di Puglia
+FG053;Serracapriola
+FG054;Stornara
+FG055;Stornarella
+FG056;Torremaggiore
+FG058;Troia
+FG059;Vico del Gargano
+FG060;Vieste
+FG061;Volturara Appula
+FG062;Volturino
+FG064;Zapponeta
+FC001;Bagno di Romagna
+FC003;Bertinoro
+FC004;Borghi
+FC005;Castrocaro Terme e Terra del Sole
+FC007;Cesena
+FC008;Cesenatico
+FC009;Civitella di Romagna
+FC011;Dovadola
+FC012;Forlì
+FC013;Forlimpopoli
+FC014;Galeata
+FC015;Gambettola
+FC016;Gatteo
+FC018;Longiano
+FC019;Meldola
+FC020;Mercato Saraceno
+FC022;Modigliana
+FC028;Montiano
+FC031;Portico e San Benedetto
+FC032;Predappio
+FC033;Premilcuore
+FC036;Rocca San Casciano
+FC037;Roncofreddo
+FC041;San Mauro Pascoli
+FC043;Santa Sofia
+FC044;Sarsina
+FC045;Savignano sul Rubicone
+FC046;Sogliano al Rubicone
+FC049;Tredozio
+FC050;Verghereto
+FR001;Acquafondata
+FR002;Acuto
+FR003;Alatri
+FR004;Alvito
+FR005;Amaseno
+FR006;Anagni
+FR007;Aquino
+FR008;Arce
+FR009;Arnara
+FR010;Arpino
+FR011;Atina
+FR012;Ausonia
+FR013;Belmonte Castello
+FR014;Boville Ernica
+FR015;Broccostella
+FR016;Campoli Appennino
+FR017;Casalattico
+FR018;Casalvieri
+FR019;Cassino
+FR020;Castelliri
+FR021;Castelnuovo Parano
+FR023;Castro dei Volsci
+FR022;Castrocielo
+FR024;Ceccano
+FR025;Ceprano
+FR026;Cervaro
+FR027;Colfelice
+FR029;Colle San Magno
+FR028;Collepardo
+FR030;Coreno Ausonio
+FR031;Esperia
+FR032;Falvaterra
+FR033;Ferentino
+FR034;Filettino
+FR035;Fiuggi
+FR036;Fontana Liri
+FR037;Fontechiari
+FR038;Frosinone
+FR039;Fumone
+FR040;Gallinaro
+FR041;Giuliano di Roma
+FR042;Guarcino
+FR043;Isola del Liri
+FR044;Monte San Giovanni Campano
+FR045;Morolo
+FR046;Paliano
+FR047;Pastena
+FR048;Patrica
+FR049;Pescosolido
+FR050;Picinisco
+FR051;Pico
+FR052;Piedimonte San Germano
+FR053;Piglio
+FR054;Pignataro Interamna
+FR055;Pofi
+FR056;Pontecorvo
+FR057;Posta Fibreno
+FR058;Ripi
+FR059;Rocca d'Arce
+FR060;Roccasecca
+FR061;San Biagio Saracinisco
+FR062;San Donato Val di Comino
+FR063;San Giorgio a Liri
+FR064;San Giovanni Incarico
+FR070;San Vittore del Lazio
+FR065;Sant'Ambrogio sul Garigliano
+FR066;Sant'Andrea del Garigliano
+FR067;Sant'Apollinare
+FR068;Sant'Elia Fiumerapido
+FR069;Santopadre
+FR071;Serrone
+FR072;Settefrati
+FR073;Sgurgola
+FR074;Sora
+FR075;Strangolagalli
+FR076;Supino
+FR077;Terelle
+FR078;Torre Cajetani
+FR079;Torrice
+FR080;Trevi nel Lazio
+FR081;Trivigliano
+FR082;Vallecorsa
+FR083;Vallemaio
+FR084;Vallerotonda
+FR085;Veroli
+FR086;Vicalvi
+FR087;Vico nel Lazio
+FR088;Villa Latina
+FR089;Villa Santa Lucia
+FR090;Villa Santo Stefano
+FR091;Viticuso
+GE001;Arenzano
+GE002;Avegno
+GE003;Bargagli
+GE004;Bogliasco
+GE005;Borzonasca
+GE006;Busalla
+GE007;Camogli
+GE008;Campo Ligure
+GE009;Campomorone
+GE010;Carasco
+GE011;Casarza Ligure
+GE012;Casella
+GE013;Castiglione Chiavarese
+GE014;Ceranesi
+GE015;Chiavari
+GE016;Cicagna
+GE017;Cogoleto
+GE018;Cogorno
+GE019;Coreglia Ligure
+GE020;Crocefieschi
+GE021;Davagna
+GE022;Fascia
+GE023;Favale di Malvaro
+GE024;Fontanigorda
+GE025;Genova
+GE026;Gorreto
+GE027;Isola del Cantone
+GE028;Lavagna
+GE029;Leivi
+GE030;Lorsica
+GE031;Lumarzo
+GE032;Masone
+GE033;Mele
+GE034;Mezzanego
+GE035;Mignanego
+GE036;Moconesi
+GE037;Moneglia
+GE038;Montebruno
+GE039;Montoggio
+GE040;Ne
+GE041;Neirone
+GE042;Orero
+GE043;Pieve Ligure
+GE044;Portofino
+GE045;Propata
+GE046;Rapallo
+GE047;Recco
+GE048;Rezzoaglio
+GE049;Ronco Scrivia
+GE050;Rondanina
+GE051;Rossiglione
+GE052;Rovegno
+GE053;San Colombano Certenoli
+GE054;Santa Margherita Ligure
+GE056;Santo Stefano d'Aveto
+GE055;Sant'Olcese
+GE057;Savignone
+GE058;Serra Riccò
+GE059;Sestri Levante
+GE060;Sori
+GE061;Tiglieto
+GE062;Torriglia
+GE063;Tribogna
+GE064;Uscio
+GE065;Valbrevenna
+GE066;Vobbia
+GE067;Zoagli
+GO001;Capriva del Friuli
+GO002;Cormons
+GO003;Doberdò del Lago
+GO004;Dolegna del Collio
+GO005;Farra d'Isonzo
+GO006;Fogliano Redipuglia
+GO007;Gorizia
+GO008;Gradisca d'Isonzo
+GO009;Grado
+GO010;Mariano del Friuli
+GO011;Medea
+GO012;Monfalcone
+GO013;Moraro
+GO014;Mossa
+GO015;Romans d'Isonzo
+GO016;Ronchi dei Legionari
+GO017;Sagrado
+GO018;San Canzian d'Isonzo
+GO019;San Floriano del Collio
+GO020;San Lorenzo Isontino
+GO021;San Pier d'Isonzo
+GO022;Savogna d'Isonzo
+GO023;Staranzano
+GO024;Turriaco
+GO025;Villesse
+GR001;Arcidosso
+GR002;Campagnatico
+GR003;Capalbio
+GR004;Castel del Piano
+GR005;Castell'Azzara
+GR006;Castiglione della Pescaia
+GR007;Cinigiano
+GR008;Civitella Paganico
+GR009;Follonica
+GR010;Gavorrano
+GR011;Grosseto
+GR012;Isola del Giglio
+GR013;Magliano in Toscana
+GR014;Manciano
+GR015;Massa Marittima
+GR016;Monte Argentario
+GR027;Monterotondo Marittimo
+GR017;Montieri
+GR018;Orbetello
+GR019;Pitigliano
+GR020;Roccalbegna
+GR021;Roccastrada
+GR022;Santa Fiora
+GR023;Scansano
+GR024;Scarlino
+GR025;Seggiano
+GR028;Semproniano
+GR026;Sorano
+IM001;Airole
+IM002;Apricale
+IM003;Aquila d'Arroscia
+IM004;Armo
+IM005;Aurigo
+IM006;Badalucco
+IM007;Bajardo
+IM008;Bordighera
+IM009;Borghetto d'Arroscia
+IM010;Borgomaro
+IM011;Camporosso
+IM012;Caravonica
+IM013;Carpasio
+IM015;Castel Vittorio
+IM014;Castellaro
+IM016;Ceriana
+IM017;Cervo
+IM018;Cesio
+IM019;Chiusanico
+IM020;Chiusavecchia
+IM021;Cipressa
+IM022;Civezza
+IM023;Cosio d'Arroscia
+IM024;Costarainera
+IM025;Diano Arentino
+IM026;Diano Castello
+IM027;Diano Marina
+IM028;Diano San Pietro
+IM029;Dolceacqua
+IM030;Dolcedo
+IM031;Imperia
+IM032;Isolabona
+IM033;Lucinasco
+IM034;Mendatica
+IM035;Molini di Triora
+IM036;Montalto Ligure
+IM037;Montegrosso Pian Latte
+IM038;Olivetta San Michele
+IM039;Ospedaletti
+IM040;Perinaldo
+IM041;Pietrabruna
+IM042;Pieve di Teco
+IM043;Pigna
+IM044;Pompeiana
+IM045;Pontedassio
+IM046;Pornassio
+IM047;Prelà
+IM048;Ranzo
+IM049;Rezzo
+IM050;Riva Ligure
+IM051;Rocchetta Nervina
+IM052;San Bartolomeo al Mare
+IM053;San Biagio della Cima
+IM054;San Lorenzo al Mare
+IM055;Sanremo
+IM056;Santo Stefano al Mare
+IM057;Seborga
+IM058;Soldano
+IM059;Taggia
+IM060;Terzorio
+IM061;Triora
+IM062;Vallebona
+IM063;Vallecrosia
+IM064;Vasia
+IM065;Ventimiglia
+IM066;Vessalico
+IM067;Villa Faraldi
+IS001;Acquaviva d'Isernia
+IS002;Agnone
+IS003;Bagnoli del Trigno
+IS004;Belmonte del Sannio
+IS005;Cantalupo nel Sannio
+IS006;Capracotta
+IS007;Carovilli
+IS008;Carpinone
+IS009;Castel del Giudice
+IS012;Castel San Vincenzo
+IS010;Castelpetroso
+IS011;Castelpizzuto
+IS013;Castelverrino
+IS014;Cerro al Volturno
+IS015;Chiauci
+IS016;Civitanova del Sannio
+IS017;Colli a Volturno
+IS018;Conca Casale
+IS019;Filignano
+IS020;Forlì del Sannio
+IS021;Fornelli
+IS022;Frosolone
+IS023;Isernia
+IS024;Longano
+IS025;Macchia d'Isernia
+IS026;Macchiagodena
+IS027;Miranda
+IS028;Montaquila
+IS029;Montenero Val Cocchiara
+IS030;Monteroduni
+IS031;Pesche
+IS032;Pescolanciano
+IS033;Pescopennataro
+IS034;Pettoranello del Molise
+IS035;Pietrabbondante
+IS036;Pizzone
+IS037;Poggio Sannita
+IS038;Pozzilli
+IS039;Rionero Sannitico
+IS040;Roccamandolfi
+IS041;Roccasicura
+IS042;Rocchetta a Volturno
+IS043;San Pietro Avellana
+IS045;Santa Maria del Molise
+IS044;Sant'Agapito
+IS046;Sant'Angelo del Pesco
+IS047;Sant'Elena Sannita
+IS048;Scapoli
+IS049;Sessano del Molise
+IS050;Sesto Campano
+IS051;Vastogirardi
+IS052;Venafro
+SP001;Ameglia
+SP002;Arcola
+SP003;Beverino
+SP004;Bolano
+SP005;Bonassola
+SP006;Borghetto di Vara
+SP007;Brugnato
+SP008;Calice al Cornoviglio
+SP009;Carro
+SP010;Carrodano
+SP011;Castelnuovo Magra
+SP012;Deiva Marina
+SP013;Follo
+SP014;Framura
+SP015;La Spezia
+SP016;Lerici
+SP017;Levanto
+SP020;Luni
+SP018;Maissana
+SP019;Monterosso al Mare
+SP021;Pignone
+SP022;Portovenere
+SP023;Riccò del Golfo di Spezia
+SP024;Riomaggiore
+SP025;Rocchetta di Vara
+SP026;Santo Stefano di Magra
+SP027;Sarzana
+SP028;Sesta Godano
+SP029;Varese Ligure
+SP030;Vernazza
+SP031;Vezzano Ligure
+SP032;Zignago
+AQ001;Acciano
+AQ002;Aielli
+AQ003;Alfedena
+AQ004;Anversa degli Abruzzi
+AQ005;Ateleta
+AQ006;Avezzano
+AQ007;Balsorano
+AQ008;Barete
+AQ009;Barisciano
+AQ010;Barrea
+AQ011;Bisegna
+AQ012;Bugnara
+AQ013;Cagnano Amiterno
+AQ014;Calascio
+AQ015;Campo di Giove
+AQ016;Campotosto
+AQ017;Canistro
+AQ018;Cansano
+AQ019;Capestrano
+AQ020;Capistrello
+AQ021;Capitignano
+AQ022;Caporciano
+AQ023;Cappadocia
+AQ024;Carapelle Calvisio
+AQ025;Carsoli
+AQ026;Castel del Monte
+AQ027;Castel di Ieri
+AQ028;Castel di Sangro
+AQ029;Castellafiume
+AQ030;Castelvecchio Calvisio
+AQ031;Castelvecchio Subequo
+AQ032;Celano
+AQ033;Cerchio
+AQ034;Civita d'Antino
+AQ035;Civitella Alfedena
+AQ036;Civitella Roveto
+AQ037;Cocullo
+AQ038;Collarmele
+AQ039;Collelongo
+AQ040;Collepietro
+AQ041;Corfinio
+AQ042;Fagnano Alto
+AQ043;Fontecchio
+AQ044;Fossa
+AQ045;Gagliano Aterno
+AQ046;Gioia dei Marsi
+AQ047;Goriano Sicoli
+AQ048;Introdacqua
+AQ049;L'Aquila
+AQ050;Lecce nei Marsi
+AQ051;Luco dei Marsi
+AQ052;Lucoli
+AQ053;Magliano de' Marsi
+AQ054;Massa d'Albe
+AQ055;Molina Aterno
+AQ056;Montereale
+AQ057;Morino
+AQ058;Navelli
+AQ059;Ocre
+AQ060;Ofena
+AQ061;Opi
+AQ062;Oricola
+AQ063;Ortona dei Marsi
+AQ064;Ortucchio
+AQ065;Ovindoli
+AQ066;Pacentro
+AQ067;Pereto
+AQ068;Pescasseroli
+AQ069;Pescina
+AQ070;Pescocostanzo
+AQ071;Pettorano sul Gizio
+AQ072;Pizzoli
+AQ073;Poggio Picenze
+AQ074;Prata d'Ansidonia
+AQ075;Pratola Peligna
+AQ076;Prezza
+AQ077;Raiano
+AQ078;Rivisondoli
+AQ080;Rocca di Botte
+AQ081;Rocca di Cambio
+AQ082;Rocca di Mezzo
+AQ083;Rocca Pia
+AQ079;Roccacasale
+AQ084;Roccaraso
+AQ085;San Benedetto dei Marsi
+AQ086;San Benedetto in Perillis
+AQ087;San Demetrio ne' Vestini
+AQ088;San Pio delle Camere
+AQ092;San Vincenzo Valle Roveto
+AQ089;Sante Marie
+AQ090;Sant'Eusanio Forconese
+AQ091;Santo Stefano di Sessanio
+AQ093;Scanno
+AQ094;Scontrone
+AQ095;Scoppito
+AQ096;Scurcola Marsicana
+AQ097;Secinaro
+AQ098;Sulmona
+AQ099;Tagliacozzo
+AQ100;Tione degli Abruzzi
+AQ101;Tornimparte
+AQ102;Trasacco
+AQ104;Villa Santa Lucia degli Abruzzi
+AQ105;Villa Sant'Angelo
+AQ103;Villalago
+AQ106;Villavallelonga
+AQ107;Villetta Barrea
+AQ108;Vittorito
+LT001;Aprilia
+LT002;Bassiano
+LT003;Campodimele
+LT004;Castelforte
+LT005;Cisterna di Latina
+LT006;Cori
+LT007;Fondi
+LT008;Formia
+LT009;Gaeta
+LT010;Itri
+LT011;Latina
+LT012;Lenola
+LT013;Maenza
+LT014;Minturno
+LT015;Monte San Biagio
+LT016;Norma
+LT017;Pontinia
+LT018;Ponza
+LT019;Priverno
+LT020;Prossedi
+LT022;Rocca Massima
+LT021;Roccagorga
+LT023;Roccasecca dei Volsci
+LT024;Sabaudia
+LT025;San Felice Circeo
+LT026;Santi Cosma e Damiano
+LT027;Sermoneta
+LT028;Sezze
+LT029;Sonnino
+LT030;Sperlonga
+LT031;Spigno Saturnia
+LT032;Terracina
+LT033;Ventotene
+LE001;Acquarica del Capo
+LE002;Alessano
+LE003;Alezio
+LE004;Alliste
+LE005;Andrano
+LE006;Aradeo
+LE007;Arnesano
+LE008;Bagnolo del Salento
+LE009;Botrugno
+LE010;Calimera
+LE011;Campi Salentina
+LE012;Cannole
+LE013;Caprarica di Lecce
+LE014;Carmiano
+LE015;Carpignano Salentino
+LE016;Casarano
+LE017;Castri di Lecce
+LE018;Castrignano de' Greci
+LE019;Castrignano del Capo
+LE096;Castro
+LE020;Cavallino
+LE021;Collepasso
+LE022;Copertino
+LE023;Corigliano d'Otranto
+LE024;Corsano
+LE025;Cursi
+LE026;Cutrofiano
+LE027;Diso
+LE028;Gagliano del Capo
+LE029;Galatina
+LE030;Galatone
+LE031;Gallipoli
+LE032;Giuggianello
+LE033;Giurdignano
+LE034;Guagnano
+LE035;Lecce
+LE036;Lequile
+LE037;Leverano
+LE038;Lizzanello
+LE039;Maglie
+LE040;Martano
+LE041;Martignano
+LE042;Matino
+LE043;Melendugno
+LE044;Melissano
+LE045;Melpignano
+LE046;Miggiano
+LE047;Minervino di Lecce
+LE048;Monteroni di Lecce
+LE049;Montesano Salentino
+LE050;Morciano di Leuca
+LE051;Muro Leccese
+LE052;Nardò
+LE053;Neviano
+LE054;Nociglia
+LE055;Novoli
+LE056;Ortelle
+LE057;Otranto
+LE058;Palmariggi
+LE059;Parabita
+LE060;Patù
+LE061;Poggiardo
+LE097;Porto Cesareo
+LE062;Presicce
+LE063;Racale
+LE064;Ruffano
+LE065;Salice Salentino
+LE066;Salve
+LE095;San Cassiano
+LE068;San Cesario di Lecce
+LE069;San Donato di Lecce
+LE071;San Pietro in Lama
+LE067;Sanarica
+LE070;Sannicola
+LE072;Santa Cesarea Terme
+LE073;Scorrano
+LE074;Seclì
+LE075;Sogliano Cavour
+LE076;Soleto
+LE077;Specchia
+LE078;Spongano
+LE079;Squinzano
+LE080;Sternatia
+LE081;Supersano
+LE082;Surano
+LE083;Surbo
+LE084;Taurisano
+LE085;Taviano
+LE086;Tiggiano
+LE087;Trepuzzi
+LE088;Tricase
+LE089;Tuglie
+LE090;Ugento
+LE091;Uggiano la Chiesa
+LE092;Veglie
+LE093;Vernole
+LE094;Zollino
+LC001;Abbadia Lariana
+LC002;Airuno
+LC003;Annone di Brianza
+LC004;Ballabio
+LC005;Barzago
+LC006;Barzanò
+LC007;Barzio
+LC008;Bellano
+LC009;Bosisio Parini
+LC010;Brivio
+LC011;Bulciago
+LC012;Calco
+LC013;Calolziocorte
+LC014;Carenno
+LC015;Casargo
+LC016;Casatenovo
+LC017;Cassago Brianza
+LC018;Cassina Valsassina
+LC019;Castello di Brianza
+LC020;Cernusco Lombardone
+LC021;Cesana Brianza
+LC022;Civate
+LC023;Colico
+LC024;Colle Brianza
+LC025;Cortenova
+LC026;Costa Masnaga
+LC027;Crandola Valsassina
+LC028;Cremella
+LC029;Cremeno
+LC030;Dervio
+LC031;Dolzago
+LC032;Dorio
+LC033;Ello
+LC034;Erve
+LC035;Esino Lario
+LC036;Galbiate
+LC037;Garbagnate Monastero
+LC038;Garlate
+LC039;Imbersago
+LC040;Introbio
+LC041;Introzzo
+LC092;La Valletta Brianza
+LC042;Lecco
+LC043;Lierna
+LC044;Lomagna
+LC045;Malgrate
+LC046;Mandello del Lario
+LC047;Margno
+LC048;Merate
+LC049;Missaglia
+LC050;Moggio
+LC051;Molteno
+LC052;Monte Marenzo
+LC053;Montevecchia
+LC054;Monticello Brianza
+LC055;Morterone
+LC056;Nibionno
+LC057;Oggiono
+LC058;Olgiate Molgora
+LC059;Olginate
+LC060;Oliveto Lario
+LC061;Osnago
+LC062;Paderno d'Adda
+LC063;Pagnona
+LC064;Parlasco
+LC065;Pasturo
+LC067;Perledo
+LC068;Pescate
+LC069;Premana
+LC070;Primaluna
+LC071;Robbiate
+LC072;Rogeno
+LC074;Santa Maria Hoè
+LC075;Sirone
+LC076;Sirtori
+LC077;Sueglio
+LC078;Suello
+LC079;Taceno
+LC080;Torre de' Busi
+LC081;Tremenico
+LC082;Valgreghentino
+LC083;Valmadrera
+LC084;Varenna
+LC085;Vendrogno
+LC086;Vercurago
+LC091;Verderio
+LC089;Vestreno
+LC090;Viganò
+LI001;Bibbona
+LI002;Campiglia Marittima
+LI003;Campo nell'Elba
+LI004;Capoliveri
+LI005;Capraia Isola
+LI006;Castagneto Carducci
+LI007;Cecina
+LI008;Collesalvetti
+LI009;Livorno
+LI010;Marciana
+LI011;Marciana Marina
+LI012;Piombino
+LI013;Porto Azzurro
+LI014;Portoferraio
+LI015;Rio Marina
+LI016;Rio nell'Elba
+LI017;Rosignano Marittimo
+LI018;San Vincenzo
+LI019;Sassetta
+LI020;Suvereto
+LO001;Abbadia Cerreto
+LO002;Bertonico
+LO003;Boffalora d'Adda
+LO004;Borghetto Lodigiano
+LO005;Borgo San Giovanni
+LO006;Brembio
+LO007;Camairago
+LO008;Casaletto Lodigiano
+LO009;Casalmaiocco
+LO010;Casalpusterlengo
+LO011;Caselle Landi
+LO012;Caselle Lurani
+LO013;Castelnuovo Bocca d'Adda
+LO014;Castiglione d'Adda
+LO015;Castiraga Vidardo
+LO016;Cavacurta
+LO017;Cavenago d'Adda
+LO018;Cervignano d'Adda
+LO019;Codogno
+LO020;Comazzo
+LO021;Cornegliano Laudense
+LO022;Corno Giovine
+LO023;Cornovecchio
+LO024;Corte Palasio
+LO025;Crespiatica
+LO026;Fombio
+LO027;Galgagnano
+LO028;Graffignana
+LO029;Guardamiglio
+LO030;Livraga
+LO031;Lodi
+LO032;Lodi Vecchio
+LO033;Maccastorna
+LO034;Mairago
+LO035;Maleo
+LO036;Marudo
+LO037;Massalengo
+LO038;Meleti
+LO039;Merlino
+LO040;Montanaso Lombardo
+LO041;Mulazzano
+LO042;Orio Litta
+LO043;Ospedaletto Lodigiano
+LO044;Ossago Lodigiano
+LO045;Pieve Fissiraga
+LO046;Salerano sul Lambro
+LO047;San Fiorano
+LO048;San Martino in Strada
+LO049;San Rocco al Porto
+LO050;Sant'Angelo Lodigiano
+LO051;Santo Stefano Lodigiano
+LO052;Secugnago
+LO053;Senna Lodigiana
+LO054;Somaglia
+LO055;Sordio
+LO056;Tavazzano con Villavesco
+LO057;Terranova dei Passerini
+LO058;Turano Lodigiano
+LO059;Valera Fratta
+LO060;Villanova del Sillaro
+LO061;Zelo Buon Persico
+LU001;Altopascio
+LU002;Bagni di Lucca
+LU003;Barga
+LU004;Borgo a Mozzano
+LU005;Camaiore
+LU006;Camporgiano
+LU007;Capannori
+LU008;Careggine
+LU009;Castelnuovo di Garfagnana
+LU010;Castiglione di Garfagnana
+LU011;Coreglia Antelminelli
+LU036;Fabbriche di Vergemoli
+LU013;Forte dei Marmi
+LU014;Fosciandora
+LU015;Gallicano
+LU017;Lucca
+LU018;Massarosa
+LU019;Minucciano
+LU020;Molazzana
+LU021;Montecarlo
+LU022;Pescaglia
+LU023;Piazza al Serchio
+LU024;Pietrasanta
+LU025;Pieve Fosciana
+LU026;Porcari
+LU027;San Romano in Garfagnana
+LU028;Seravezza
+LU037;Sillano Giuncugnano
+LU030;Stazzema
+LU031;Vagli Sotto
+LU033;Viareggio
+LU034;Villa Basilica
+LU035;Villa Collemandina
+MC002;Apiro
+MC003;Appignano
+MC004;Belforte del Chienti
+MC005;Bolognola
+MC006;Caldarola
+MC007;Camerino
+MC008;Camporotondo di Fiastrone
+MC009;Castelraimondo
+MC010;Castelsantangelo sul Nera
+MC011;Cessapalombo
+MC012;Cingoli
+MC013;Civitanova Marche
+MC014;Colmurano
+MC015;Corridonia
+MC016;Esanatoglia
+MC017;Fiastra
+MC019;Fiuminata
+MC020;Gagliole
+MC021;Gualdo
+MC022;Loro Piceno
+MC023;Macerata
+MC024;Matelica
+MC025;Mogliano
+MC027;Monte Cavallo
+MC031;Monte San Giusto
+MC032;Monte San Martino
+MC026;Montecassiano
+MC028;Montecosaro
+MC029;Montefano
+MC030;Montelupone
+MC033;Morrovalle
+MC034;Muccia
+MC035;Penna San Giovanni
+MC036;Petriolo
+MC038;Pieve Torina
+MC039;Pioraco
+MC040;Poggio San Vicino
+MC041;Pollenza
+MC042;Porto Recanati
+MC043;Potenza Picena
+MC044;Recanati
+MC045;Ripe San Ginesio
+MC046;San Ginesio
+MC047;San Severino Marche
+MC048;Sant'Angelo in Pontano
+MC049;Sarnano
+MC050;Sefro
+MC051;Serrapetrona
+MC052;Serravalle di Chienti
+MC053;Tolentino
+MC054;Treia
+MC055;Urbisaglia
+MC056;Ussita
+MC058;Valfornace
+MC057;Visso
+MN001;Acquanegra sul Chiese
+MN002;Asola
+MN003;Bagnolo San Vito
+MN004;Bigarello
+MN071;Borgo Virgilio
+MN006;Borgofranco sul Po
+MN007;Bozzolo
+MN008;Canneto sull'Oglio
+MN009;Carbonara di Po
+MN010;Casalmoro
+MN011;Casaloldo
+MN012;Casalromano
+MN014;Castel d'Ario
+MN015;Castel Goffredo
+MN013;Castelbelforte
+MN016;Castellucchio
+MN017;Castiglione delle Stiviere
+MN018;Cavriana
+MN019;Ceresara
+MN020;Commessaggio
+MN021;Curtatone
+MN022;Dosolo
+MN024;Gazoldo degli Ippoliti
+MN025;Gazzuolo
+MN026;Goito
+MN027;Gonzaga
+MN028;Guidizzolo
+MN029;Magnacavallo
+MN030;Mantova
+MN031;Marcaria
+MN032;Mariana Mantovana
+MN033;Marmirolo
+MN034;Medole
+MN035;Moglia
+MN036;Monzambano
+MN037;Motteggiana
+MN038;Ostiglia
+MN039;Pegognaga
+MN040;Pieve di Coriano
+MN041;Piubega
+MN042;Poggio Rusco
+MN043;Pomponesco
+MN044;Ponti sul Mincio
+MN045;Porto Mantovano
+MN046;Quingentole
+MN047;Quistello
+MN048;Redondesco
+MN049;Revere
+MN050;Rivarolo Mantovano
+MN051;Rodigo
+MN052;Roncoferraro
+MN053;Roverbella
+MN054;Sabbioneta
+MN055;San Benedetto Po
+MN056;San Giacomo delle Segnate
+MN057;San Giorgio di Mantova
+MN058;San Giovanni del Dosso
+MN059;San Martino dall'Argine
+MN060;Schivenoglia
+MN061;Sermide e Felonica
+MN062;Serravalle a Po
+MN063;Solferino
+MN064;Sustinente
+MN065;Suzzara
+MN066;Viadana
+MN067;Villa Poma
+MN068;Villimpenta
+MN070;Volta Mantovana
+MS001;Aulla
+MS002;Bagnone
+MS003;Carrara
+MS004;Casola in Lunigiana
+MS005;Comano
+MS006;Filattiera
+MS007;Fivizzano
+MS008;Fosdinovo
+MS009;Licciana Nardi
+MS010;Massa
+MS011;Montignoso
+MS012;Mulazzo
+MS013;Podenzana
+MS014;Pontremoli
+MS015;Tresana
+MS016;Villafranca in Lunigiana
+MS017;Zeri
+MT001;Accettura
+MT002;Aliano
+MT003;Bernalda
+MT004;Calciano
+MT005;Cirigliano
+MT006;Colobraro
+MT007;Craco
+MT008;Ferrandina
+MT009;Garaguso
+MT010;Gorgoglione
+MT011;Grassano
+MT012;Grottole
+MT013;Irsina
+MT014;Matera
+MT015;Miglionico
+MT016;Montalbano Jonico
+MT017;Montescaglioso
+MT018;Nova Siri
+MT019;Oliveto Lucano
+MT020;Pisticci
+MT021;Policoro
+MT022;Pomarico
+MT023;Rotondella
+MT024;Salandra
+MT025;San Giorgio Lucano
+MT026;San Mauro Forte
+MT031;Scanzano Jonico
+MT027;Stigliano
+MT028;Tricarico
+MT029;Tursi
+MT030;Valsinni
+ME107;Acquedolci
+ME001;Alcara li Fusi
+ME002;Alì
+ME003;Alì Terme
+ME004;Antillo
+ME005;Barcellona Pozzo di Gotto
+ME006;Basicò
+ME007;Brolo
+ME008;Capizzi
+ME009;Capo d'Orlando
+ME010;Capri Leone
+ME011;Caronia
+ME012;Casalvecchio Siculo
+ME013;Castel di Lucio
+ME014;Castell'Umberto
+ME015;Castelmola
+ME016;Castroreale
+ME017;Cesarò
+ME018;Condrò
+ME019;Falcone
+ME020;Ficarra
+ME021;Fiumedinisi
+ME022;Floresta
+ME023;Fondachelli-Fantina
+ME024;Forza d'Agrò
+ME025;Francavilla di Sicilia
+ME026;Frazzanò
+ME027;Furci Siculo
+ME028;Furnari
+ME029;Gaggi
+ME030;Galati Mamertino
+ME031;Gallodoro
+ME032;Giardini-Naxos
+ME033;Gioiosa Marea
+ME034;Graniti
+ME035;Gualtieri Sicaminò
+ME036;Itala
+ME037;Leni
+ME038;Letojanni
+ME039;Librizzi
+ME040;Limina
+ME041;Lipari
+ME042;Longi
+ME043;Malfa
+ME044;Malvagna
+ME045;Mandanici
+ME046;Mazzarrà Sant'Andrea
+ME047;Merì
+ME048;Messina
+ME049;Milazzo
+ME050;Militello Rosmarino
+ME051;Mirto
+ME052;Mistretta
+ME053;Moio Alcantara
+ME054;Monforte San Giorgio
+ME055;Mongiuffi Melia
+ME056;Montagnareale
+ME057;Montalbano Elicona
+ME058;Motta Camastra
+ME059;Motta d'Affermo
+ME060;Naso
+ME061;Nizza di Sicilia
+ME062;Novara di Sicilia
+ME063;Oliveri
+ME064;Pace del Mela
+ME065;Pagliara
+ME066;Patti
+ME067;Pettineo
+ME068;Piraino
+ME069;Raccuja
+ME070;Reitano
+ME071;Roccafiorita
+ME072;Roccalumera
+ME073;Roccavaldina
+ME074;Roccella Valdemone
+ME075;Rodì Milici
+ME076;Rometta
+ME077;San Filippo del Mela
+ME078;San Fratello
+ME079;San Marco d'Alunzio
+ME080;San Pier Niceto
+ME081;San Piero Patti
+ME082;San Salvatore di Fitalia
+ME090;San Teodoro
+ME083;Santa Domenica Vittoria
+ME086;Santa Lucia del Mela
+ME087;Santa Marina Salina
+ME089;Santa Teresa di Riva
+ME084;Sant'Agata di Militello
+ME085;Sant'Alessio Siculo
+ME088;Sant'Angelo di Brolo
+ME091;Santo Stefano di Camastra
+ME092;Saponara
+ME093;Savoca
+ME094;Scaletta Zanclea
+ME095;Sinagra
+ME096;Spadafora
+ME097;Taormina
+ME106;Terme Vigliatore
+ME098;Torregrotta
+ME108;Torrenova
+ME099;Tortorici
+ME100;Tripi
+ME101;Tusa
+ME102;Ucria
+ME103;Valdina
+ME104;Venetico
+ME105;Villafranca Tirrena
+MI002;Abbiategrasso
+MI005;Albairate
+MI007;Arconate
+MI009;Arese
+MI010;Arluno
+MI011;Assago
+MI250;Baranzate
+MI012;Bareggio
+MI014;Basiano
+MI015;Basiglio
+MI016;Bellinzago Lombardo
+MI019;Bernate Ticino
+MI022;Besate
+MI024;Binasco
+MI026;Boffalora sopra Ticino
+MI027;Bollate
+MI032;Bresso
+MI035;Bubbiano
+MI036;Buccinasco
+MI038;Buscate
+MI040;Bussero
+MI041;Busto Garolfo
+MI042;Calvignasco
+MI044;Cambiago
+MI046;Canegrate
+MI050;Carpiano
+MI051;Carugate
+MI055;Casarile
+MI058;Casorezzo
+MI059;Cassano d'Adda
+MI060;Cassina de' Pecchi
+MI061;Cassinetta di Lugagnano
+MI062;Castano Primo
+MI070;Cernusco sul Naviglio
+MI071;Cerro al Lambro
+MI072;Cerro Maggiore
+MI074;Cesano Boscone
+MI076;Cesate
+MI077;Cinisello Balsamo
+MI078;Cisliano
+MI081;Cologno Monzese
+MI082;Colturano
+MI085;Corbetta
+MI086;Cormano
+MI087;Cornaredo
+MI093;Corsico
+MI096;Cuggiono
+MI097;Cusago
+MI098;Cusano Milanino
+MI099;Dairago
+MI101;Dresano
+MI103;Gaggiano
+MI105;Garbagnate Milanese
+MI106;Gessate
+MI108;Gorgonzola
+MI110;Grezzago
+MI112;Gudo Visconti
+MI113;Inveruno
+MI114;Inzago
+MI115;Lacchiarella
+MI116;Lainate
+MI118;Legnano
+MI122;Liscate
+MI125;Locate di Triulzi
+MI130;Magenta
+MI131;Magnago
+MI134;Marcallo con Casone
+MI136;Masate
+MI139;Mediglia
+MI140;Melegnano
+MI142;Melzo
+MI144;Mesero
+MI146;Milano
+MI150;Morimondo
+MI151;Motta Visconti
+MI154;Nerviano
+MI155;Nosate
+MI157;Novate Milanese
+MI158;Noviglio
+MI159;Opera
+MI164;Ossona
+MI165;Ozzero
+MI166;Paderno Dugnano
+MI167;Pantigliate
+MI168;Parabiago
+MI169;Paullo
+MI170;Pero
+MI171;Peschiera Borromeo
+MI172;Pessano con Bornago
+MI173;Pieve Emanuele
+MI175;Pioltello
+MI176;Pogliano Milanese
+MI177;Pozzo d'Adda
+MI178;Pozzuolo Martesana
+MI179;Pregnana Milanese
+MI181;Rescaldina
+MI182;Rho
+MI183;Robecchetto con Induno
+MI184;Robecco sul Naviglio
+MI185;Rodano
+MI188;Rosate
+MI189;Rozzano
+MI191;San Colombano al Lambro
+MI192;San Donato Milanese
+MI194;San Giorgio su Legnano
+MI195;San Giuliano Milanese
+MI201;San Vittore Olona
+MI202;San Zenone al Lambro
+MI200;Santo Stefano Ticino
+MI204;Sedriano
+MI205;Segrate
+MI206;Senago
+MI209;Sesto San Giovanni
+MI210;Settala
+MI211;Settimo Milanese
+MI213;Solaro
+MI219;Trezzano Rosa
+MI220;Trezzano sul Naviglio
+MI221;Trezzo sull'Adda
+MI222;Tribiano
+MI224;Truccazzano
+MI226;Turbigo
+MI249;Vanzaghello
+MI229;Vanzago
+MI230;Vaprio d'Adda
+MI235;Vermezzo
+MI236;Vernate
+MI237;Vignate
+MI248;Villa Cortese
+MI242;Vimodrone
+MI243;Vittuone
+MI244;Vizzolo Predabissi
+MI246;Zelo Surrigone
+MI247;Zibido San Giacomo
+MO001;Bastiglia
+MO002;Bomporto
+MO003;Campogalliano
+MO004;Camposanto
+MO005;Carpi
+MO006;Castelfranco Emilia
+MO007;Castelnuovo Rangone
+MO008;Castelvetro di Modena
+MO009;Cavezzo
+MO010;Concordia sulla Secchia
+MO011;Fanano
+MO012;Finale Emilia
+MO013;Fiorano Modenese
+MO014;Fiumalbo
+MO015;Formigine
+MO016;Frassinoro
+MO017;Guiglia
+MO018;Lama Mocogno
+MO019;Maranello
+MO020;Marano sul Panaro
+MO021;Medolla
+MO022;Mirandola
+MO023;Modena
+MO024;Montecreto
+MO025;Montefiorino
+MO026;Montese
+MO027;Nonantola
+MO028;Novi di Modena
+MO029;Palagano
+MO030;Pavullo nel Frignano
+MO031;Pievepelago
+MO032;Polinago
+MO033;Prignano sulla Secchia
+MO034;Ravarino
+MO035;Riolunato
+MO036;San Cesario sul Panaro
+MO037;San Felice sul Panaro
+MO038;San Possidonio
+MO039;San Prospero
+MO040;Sassuolo
+MO041;Savignano sul Panaro
+MO042;Serramazzoni
+MO043;Sestola
+MO044;Soliera
+MO045;Spilamberto
+MO046;Vignola
+MO047;Zocca
+MB001;Agrate Brianza
+MB002;Aicurzio
+MB003;Albiate
+MB004;Arcore
+MB005;Barlassina
+MB006;Bellusco
+MB007;Bernareggio
+MB008;Besana in Brianza
+MB009;Biassono
+MB010;Bovisio-Masciago
+MB011;Briosco
+MB012;Brugherio
+MB013;Burago di Molgora
+MB051;Busnago
+MB014;Camparada
+MB052;Caponago
+MB015;Carate Brianza
+MB016;Carnate
+MB017;Cavenago di Brianza
+MB018;Ceriano Laghetto
+MB019;Cesano Maderno
+MB020;Cogliate
+MB021;Concorezzo
+MB053;Cornate d'Adda
+MB022;Correzzana
+MB023;Desio
+MB024;Giussano
+MB025;Lazzate
+MB054;Lentate sul Seveso
+MB026;Lesmo
+MB027;Limbiate
+MB028;Lissone
+MB029;Macherio
+MB030;Meda
+MB031;Mezzago
+MB032;Misinto
+MB033;Monza
+MB034;Muggiò
+MB035;Nova Milanese
+MB036;Ornago
+MB037;Renate
+MB055;Roncello
+MB038;Ronco Briantino
+MB039;Seregno
+MB040;Seveso
+MB041;Sovico
+MB042;Sulbiate
+MB043;Triuggio
+MB044;Usmate Velate
+MB045;Varedo
+MB046;Vedano al Lambro
+MB047;Veduggio con Colzano
+MB048;Verano Brianza
+MB049;Villasanta
+MB050;Vimercate
+NA001;Acerra
+NA002;Afragola
+NA003;Agerola
+NA004;Anacapri
+NA005;Arzano
+NA006;Bacoli
+NA007;Barano d'Ischia
+NA008;Boscoreale
+NA009;Boscotrecase
+NA010;Brusciano
+NA011;Caivano
+NA012;Calvizzano
+NA013;Camposano
+NA014;Capri
+NA015;Carbonara di Nola
+NA016;Cardito
+NA017;Casalnuovo di Napoli
+NA018;Casamarciano
+NA019;Casamicciola Terme
+NA020;Casandrino
+NA021;Casavatore
+NA022;Casola di Napoli
+NA023;Casoria
+NA024;Castellammare di Stabia
+NA025;Castello di Cisterna
+NA026;Cercola
+NA027;Cicciano
+NA028;Cimitile
+NA029;Comiziano
+NA030;Crispano
+NA064;Ercolano
+NA031;Forio
+NA032;Frattamaggiore
+NA033;Frattaminore
+NA034;Giugliano in Campania
+NA035;Gragnano
+NA036;Grumo Nevano
+NA037;Ischia
+NA038;Lacco Ameno
+NA039;Lettere
+NA040;Liveri
+NA041;Marano di Napoli
+NA042;Mariglianella
+NA043;Marigliano
+NA092;Massa di Somma
+NA044;Massa Lubrense
+NA045;Melito di Napoli
+NA046;Meta
+NA047;Monte di Procida
+NA048;Mugnano di Napoli
+NA049;Napoli
+NA050;Nola
+NA051;Ottaviano
+NA052;Palma Campania
+NA053;Piano di Sorrento
+NA054;Pimonte
+NA055;Poggiomarino
+NA056;Pollena Trocchia
+NA057;Pomigliano d'Arco
+NA058;Pompei
+NA059;Portici
+NA060;Pozzuoli
+NA061;Procida
+NA062;Qualiano
+NA063;Quarto
+NA065;Roccarainola
+NA066;San Gennaro Vesuviano
+NA067;San Giorgio a Cremano
+NA068;San Giuseppe Vesuviano
+NA069;San Paolo Bel Sito
+NA070;San Sebastiano al Vesuvio
+NA075;San Vitaliano
+NA090;Santa Maria la Carità
+NA071;Sant'Agnello
+NA072;Sant'Anastasia
+NA073;Sant'Antimo
+NA074;Sant'Antonio Abate
+NA076;Saviano
+NA077;Scisciano
+NA078;Serrara Fontana
+NA079;Somma Vesuviana
+NA080;Sorrento
+NA081;Striano
+NA082;Terzigno
+NA083;Torre Annunziata
+NA084;Torre del Greco
+NA091;Trecase
+NA085;Tufino
+NA086;Vico Equense
+NA087;Villaricca
+NA088;Visciano
+NA089;Volla
+NO001;Agrate Conturbia
+NO002;Ameno
+NO006;Armeno
+NO008;Arona
+NO012;Barengo
+NO016;Bellinzago Novarese
+NO018;Biandrate
+NO019;Boca
+NO021;Bogogno
+NO022;Bolzano Novarese
+NO025;Borgo Ticino
+NO023;Borgolavezzaro
+NO024;Borgomanero
+NO026;Briga Novarese
+NO027;Briona
+NO030;Caltignaga
+NO032;Cameri
+NO036;Carpignano Sesia
+NO037;Casalbeltrame
+NO039;Casaleggio Novara
+NO040;Casalino
+NO041;Casalvolone
+NO042;Castellazzo Novarese
+NO043;Castelletto sopra Ticino
+NO044;Cavaglietto
+NO045;Cavaglio d'Agogna
+NO047;Cavallirio
+NO049;Cerano
+NO051;Colazza
+NO052;Comignago
+NO055;Cressa
+NO058;Cureggio
+NO060;Divignano
+NO062;Dormelletto
+NO065;Fara Novarese
+NO066;Fontaneto d'Agogna
+NO068;Galliate
+NO069;Garbagna Novarese
+NO070;Gargallo
+NO071;Gattico
+NO073;Ghemme
+NO076;Gozzano
+NO077;Granozzo con Monticello
+NO079;Grignasco
+NO082;Invorio
+NO083;Landiona
+NO084;Lesa
+NO088;Maggiora
+NO090;Mandello Vitta
+NO091;Marano Ticino
+NO093;Massino Visconti
+NO095;Meina
+NO097;Mezzomerico
+NO098;Miasino
+NO100;Momo
+NO103;Nebbiuno
+NO104;Nibbiola
+NO106;Novara
+NO108;Oleggio
+NO109;Oleggio Castello
+NO112;Orta San Giulio
+NO114;Paruzzaro
+NO115;Pella
+NO116;Pettenasco
+NO119;Pisano
+NO120;Pogno
+NO121;Pombia
+NO122;Prato Sesia
+NO129;Recetto
+NO130;Romagnano Sesia
+NO131;Romentino
+NO133;San Maurizio d'Opaglio
+NO134;San Nazzaro Sesia
+NO135;San Pietro Mosezzo
+NO138;Sillavengo
+NO139;Sizzano
+NO140;Soriso
+NO141;Sozzago
+NO143;Suno
+NO144;Terdobbiate
+NO146;Tornaco
+NO149;Trecate
+NO153;Vaprio d'Agogna
+NO154;Varallo Pombia
+NO157;Veruno
+NO158;Vespolate
+NO159;Vicolungo
+NO164;Vinzaglio
+NU001;Aritzo
+NU002;Arzana
+NU003;Atzara
+NU004;Austis
+NU005;Bari Sardo
+NU006;Baunei
+NU007;Belvì
+NU008;Birori
+NU009;Bitti
+NU010;Bolotana
+NU011;Borore
+NU012;Bortigali
+NU103;Cardedu
+NU016;Desulo
+NU017;Dorgali
+NU018;Dualchi
+NU019;Elini
+NU024;Fonni
+NU025;Gadoni
+NU026;Gairo
+NU027;Galtellì
+NU028;Gavoi
+NU031;Girasole
+NU032;Ilbono
+NU033;Irgoli
+NU035;Jerzu
+NU037;Lanusei
+NU038;Lei
+NU039;Loceri
+NU040;Loculi
+NU041;Lodè
+NU104;Lodine
+NU042;Lotzorai
+NU043;Lula
+NU044;Macomer
+NU046;Mamoiada
+NU047;Meana Sardo
+NU050;Noragugume
+NU051;Nuoro
+NU055;Oliena
+NU056;Ollolai
+NU057;Olzai
+NU058;Onanì
+NU059;Onifai
+NU060;Oniferi
+NU061;Orani
+NU062;Orgosolo
+NU063;Orosei
+NU064;Orotelli
+NU066;Ortueri
+NU067;Orune
+NU068;Osidda
+NU069;Osini
+NU070;Ottana
+NU071;Ovodda
+NU072;Perdasdefogu
+NU073;Posada
+NU077;Sarule
+NU083;Silanus
+NU084;Sindia
+NU085;Siniscola
+NU086;Sorgono
+NU088;Talana
+NU089;Tertenia
+NU090;Teti
+NU091;Tiana
+NU093;Tonara
+NU094;Torpè
+NU095;Tortolì
+NU097;Triei
+NU098;Ulassai
+NU099;Urzulei
+NU100;Ussassai
+NU101;Villagrande Strisaili
+OR001;Abbasanta
+OR002;Aidomaggiore
+OR003;Albagiara
+OR004;Ales
+OR005;Allai
+OR006;Arborea
+OR007;Ardauli
+OR008;Assolo
+OR009;Asuni
+OR010;Baradili
+OR011;Baratili San Pietro
+OR012;Baressa
+OR013;Bauladu
+OR014;Bidonì
+OR015;Bonarcado
+OR016;Boroneddu
+OR079;Bosa
+OR017;Busachi
+OR018;Cabras
+OR019;Cuglieri
+OR077;Curcuris
+OR080;Flussio
+OR020;Fordongianus
+OR021;Ghilarza
+OR022;Gonnoscodina
+OR023;Gonnosnò
+OR024;Gonnostramatza
+OR082;Laconi
+OR083;Magomadas
+OR025;Marrubiu
+OR026;Masullas
+OR027;Milis
+OR084;Modolo
+OR028;Mogorella
+OR029;Mogoro
+OR085;Montresta
+OR030;Morgongiori
+OR031;Narbolia
+OR032;Neoneli
+OR033;Norbello
+OR034;Nughedu Santa Vittoria
+OR035;Nurachi
+OR036;Nureci
+OR037;Ollastra
+OR038;Oristano
+OR039;Palmas Arborea
+OR040;Pau
+OR041;Paulilatino
+OR042;Pompu
+OR043;Riola Sardo
+OR044;Ruinas
+OR086;Sagama
+OR045;Samugheo
+OR046;San Nicolò d'Arcidano
+OR050;San Vero Milis
+OR047;Santa Giusta
+OR049;Santu Lussurgiu
+OR051;Scano di Montiferro
+OR052;Sedilo
+OR053;Seneghe
+OR054;Senis
+OR055;Sennariolo
+OR056;Siamaggiore
+OR057;Siamanna
+OR076;Siapiccia
+OR058;Simala
+OR059;Simaxis
+OR060;Sini
+OR061;Siris
+OR078;Soddì
+OR062;Solarussa
+OR063;Sorradile
+OR087;Suni
+OR064;Tadasuni
+OR065;Terralba
+OR088;Tinnura
+OR066;Tramatza
+OR067;Tresnuraghes
+OR068;Ulà Tirso
+OR069;Uras
+OR070;Usellus
+OR048;Villa Sant'Antonio
+OR073;Villa Verde
+OR071;Villanova Truschedu
+OR072;Villaurbana
+OR074;Zeddiani
+OR075;Zerfaliu
+PD001;Abano Terme
+PD002;Agna
+PD003;Albignasego
+PD004;Anguillara Veneta
+PD005;Arquà Petrarca
+PD006;Arre
+PD007;Arzergrande
+PD008;Bagnoli di Sopra
+PD009;Baone
+PD010;Barbona
+PD011;Battaglia Terme
+PD012;Boara Pisani
+PD013;Borgoricco
+PD014;Bovolenta
+PD015;Brugine
+PD016;Cadoneghe
+PD020;Campo San Martino
+PD017;Campodarsego
+PD018;Campodoro
+PD019;Camposampiero
+PD021;Candiana
+PD022;Carceri
+PD023;Carmignano di Brenta
+PD026;Cartura
+PD027;Casale di Scodosia
+PD028;Casalserugo
+PD029;Castelbaldo
+PD030;Cervarese Santa Croce
+PD031;Cinto Euganeo
+PD032;Cittadella
+PD033;Codevigo
+PD034;Conselve
+PD035;Correzzola
+PD036;Curtarolo
+PD106;Due Carrare
+PD037;Este
+PD038;Fontaniva
+PD039;Galliera Veneta
+PD040;Galzignano Terme
+PD041;Gazzo
+PD042;Grantorto
+PD043;Granze
+PD044;Legnaro
+PD045;Limena
+PD046;Loreggia
+PD047;Lozzo Atestino
+PD048;Maserà di Padova
+PD049;Masi
+PD050;Massanzago
+PD051;Megliadino San Fidenzio
+PD052;Megliadino San Vitale
+PD053;Merlara
+PD054;Mestrino
+PD055;Monselice
+PD056;Montagnana
+PD057;Montegrotto Terme
+PD058;Noventa Padovana
+PD059;Ospedaletto Euganeo
+PD060;Padova
+PD061;Pernumia
+PD062;Piacenza d'Adige
+PD063;Piazzola sul Brenta
+PD064;Piombino Dese
+PD065;Piove di Sacco
+PD066;Polverara
+PD067;Ponso
+PD069;Ponte San Nicolò
+PD068;Pontelongo
+PD070;Pozzonovo
+PD071;Rovolon
+PD072;Rubano
+PD073;Saccolongo
+PD074;Saletto
+PD075;San Giorgio delle Pertiche
+PD076;San Giorgio in Bosco
+PD077;San Martino di Lupari
+PD078;San Pietro in Gu
+PD079;San Pietro Viminario
+PD080;Santa Giustina in Colle
+PD081;Santa Margherita d'Adige
+PD082;Sant'Angelo di Piove di Sacco
+PD083;Sant'Elena
+PD084;Sant'Urbano
+PD085;Saonara
+PD086;Selvazzano Dentro
+PD087;Solesino
+PD088;Stanghella
+PD089;Teolo
+PD090;Terrassa Padovana
+PD091;Tombolo
+PD092;Torreglia
+PD093;Trebaseleghe
+PD094;Tribano
+PD095;Urbana
+PD096;Veggiano
+PD097;Vescovana
+PD098;Vighizzolo d'Este
+PD099;Vigodarzere
+PD100;Vigonza
+PD101;Villa del Conte
+PD102;Villa Estense
+PD103;Villafranca Padovana
+PD104;Villanova di Camposampiero
+PD105;Vo'
+PA001;Alia
+PA002;Alimena
+PA003;Aliminusa
+PA004;Altavilla Milicia
+PA005;Altofonte
+PA006;Bagheria
+PA007;Balestrate
+PA008;Baucina
+PA009;Belmonte Mezzagno
+PA010;Bisacquino
+PA082;Blufi
+PA011;Bolognetta
+PA012;Bompietro
+PA013;Borgetto
+PA014;Caccamo
+PA015;Caltavuturo
+PA016;Campofelice di Fitalia
+PA017;Campofelice di Roccella
+PA018;Campofiorito
+PA019;Camporeale
+PA020;Capaci
+PA021;Carini
+PA022;Castelbuono
+PA023;Casteldaccia
+PA024;Castellana Sicula
+PA025;Castronovo di Sicilia
+PA026;Cefalà Diana
+PA027;Cefalù
+PA028;Cerda
+PA029;Chiusa Sclafani
+PA030;Ciminna
+PA031;Cinisi
+PA032;Collesano
+PA033;Contessa Entellina
+PA034;Corleone
+PA035;Ficarazzi
+PA036;Gangi
+PA037;Geraci Siculo
+PA038;Giardinello
+PA039;Giuliana
+PA040;Godrano
+PA041;Gratteri
+PA042;Isnello
+PA043;Isola delle Femmine
+PA044;Lascari
+PA045;Lercara Friddi
+PA046;Marineo
+PA047;Mezzojuso
+PA048;Misilmeri
+PA049;Monreale
+PA050;Montelepre
+PA051;Montemaggiore Belsito
+PA052;Palazzo Adriano
+PA053;Palermo
+PA054;Partinico
+PA055;Petralia Soprana
+PA056;Petralia Sottana
+PA057;Piana degli Albanesi
+PA058;Polizzi Generosa
+PA059;Pollina
+PA060;Prizzi
+PA061;Roccamena
+PA062;Roccapalumba
+PA063;San Cipirello
+PA064;San Giuseppe Jato
+PA065;San Mauro Castelverde
+PA066;Santa Cristina Gela
+PA067;Santa Flavia
+PA068;Sciara
+PA081;Scillato
+PA069;Sclafani Bagni
+PA070;Termini Imerese
+PA071;Terrasini
+PA072;Torretta
+PA073;Trabia
+PA074;Trappeto
+PA075;Ustica
+PA076;Valledolmo
+PA077;Ventimiglia di Sicilia
+PA078;Vicari
+PA079;Villabate
+PA080;Villafrati
+PR001;Albareto
+PR002;Bardi
+PR003;Bedonia
+PR004;Berceto
+PR005;Bore
+PR006;Borgo Val di Taro
+PR007;Busseto
+PR008;Calestano
+PR009;Collecchio
+PR010;Colorno
+PR011;Compiano
+PR012;Corniglio
+PR013;Felino
+PR014;Fidenza
+PR015;Fontanellato
+PR016;Fontevivo
+PR017;Fornovo di Taro
+PR018;Langhirano
+PR019;Lesignano de' Bagni
+PR020;Medesano
+PR021;Mezzani
+PR022;Monchio delle Corti
+PR023;Montechiarugolo
+PR024;Neviano degli Arduini
+PR025;Noceto
+PR026;Palanzano
+PR027;Parma
+PR028;Pellegrino Parmense
+PR050;Polesine Zibello
+PR030;Roccabianca
+PR031;Sala Baganza
+PR032;Salsomaggiore Terme
+PR033;San Secondo Parmense
+PR049;Sissa Trecasali
+PR035;Solignano
+PR036;Soragna
+PR037;Sorbolo
+PR038;Terenzo
+PR039;Tizzano Val Parma
+PR040;Tornolo
+PR041;Torrile
+PR042;Traversetolo
+PR044;Valmozzola
+PR045;Varano de' Melegari
+PR046;Varsi
+PV001;Alagna
+PV002;Albaredo Arnaboldi
+PV003;Albonese
+PV004;Albuzzano
+PV005;Arena Po
+PV006;Badia Pavese
+PV007;Bagnaria
+PV008;Barbianello
+PV009;Bascapè
+PV011;Bastida Pancarana
+PV012;Battuda
+PV013;Belgioioso
+PV014;Bereguardo
+PV015;Borgarello
+PV016;Borgo Priolo
+PV018;Borgo San Siro
+PV017;Borgoratto Mormorolo
+PV019;Bornasco
+PV020;Bosnasco
+PV021;Brallo di Pregola
+PV022;Breme
+PV023;Bressana Bottarone
+PV024;Broni
+PV025;Calvignano
+PV026;Campospinoso
+PV027;Candia Lomellina
+PV028;Canevino
+PV029;Canneto Pavese
+PV030;Carbonara al Ticino
+PV031;Casanova Lonati
+PV032;Casatisma
+PV033;Casei Gerola
+PV034;Casorate Primo
+PV035;Cassolnovo
+PV036;Castana
+PV037;Casteggio
+PV038;Castelletto di Branduzzo
+PV039;Castello d'Agogna
+PV040;Castelnovetto
+PV041;Cava Manara
+PV042;Cecima
+PV043;Ceranova
+PV044;Ceretto Lomellina
+PV045;Cergnago
+PV046;Certosa di Pavia
+PV047;Cervesina
+PV048;Chignolo Po
+PV049;Cigognola
+PV050;Cilavegna
+PV051;Codevilla
+PV052;Confienza
+PV053;Copiano
+PV054;Corana
+PV191;Cornale e Bastida
+PV192;Corteolona e Genzone
+PV057;Corvino San Quirico
+PV058;Costa de' Nobili
+PV059;Cozzo
+PV060;Cura Carpignano
+PV061;Dorno
+PV062;Ferrera Erbognone
+PV063;Filighera
+PV064;Fortunago
+PV065;Frascarolo
+PV066;Galliavola
+PV067;Gambarana
+PV068;Gambolò
+PV069;Garlasco
+PV071;Gerenzago
+PV072;Giussago
+PV073;Godiasco Salice Terme
+PV074;Golferenzo
+PV075;Gravellona Lomellina
+PV076;Gropello Cairoli
+PV077;Inverno e Monteleone
+PV078;Landriano
+PV079;Langosco
+PV080;Lardirago
+PV081;Linarolo
+PV082;Lirio
+PV083;Lomello
+PV084;Lungavilla
+PV085;Magherno
+PV086;Marcignago
+PV087;Marzano
+PV088;Mede
+PV089;Menconico
+PV090;Mezzana Bigli
+PV091;Mezzana Rabattone
+PV092;Mezzanino
+PV093;Miradolo Terme
+PV094;Montalto Pavese
+PV095;Montebello della Battaglia
+PV096;Montecalvo Versiggia
+PV097;Montescano
+PV098;Montesegale
+PV099;Monticelli Pavese
+PV100;Montù Beccaria
+PV101;Mornico Losana
+PV102;Mortara
+PV103;Nicorvo
+PV104;Olevano di Lomellina
+PV105;Oliva Gessi
+PV106;Ottobiano
+PV107;Palestro
+PV108;Pancarana
+PV109;Parona
+PV110;Pavia
+PV111;Pietra de' Giorgi
+PV112;Pieve Albignola
+PV113;Pieve del Cairo
+PV114;Pieve Porto Morone
+PV115;Pinarolo Po
+PV116;Pizzale
+PV117;Ponte Nizza
+PV118;Portalbera
+PV119;Rea
+PV120;Redavalle
+PV121;Retorbido
+PV122;Rivanazzano Terme
+PV123;Robbio
+PV124;Robecco Pavese
+PV125;Rocca de' Giorgi
+PV126;Rocca Susella
+PV127;Rognano
+PV128;Romagnese
+PV129;Roncaro
+PV130;Rosasco
+PV131;Rovescala
+PV132;Ruino
+PV133;San Cipriano Po
+PV134;San Damiano al Colle
+PV135;San Genesio ed Uniti
+PV136;San Giorgio di Lomellina
+PV137;San Martino Siccomario
+PV145;San Zenone al Po
+PV138;Sannazzaro de' Burgondi
+PV139;Santa Cristina e Bissone
+PV140;Santa Giuletta
+PV142;Santa Margherita di Staffora
+PV143;Santa Maria della Versa
+PV141;Sant'Alessio con Vialone
+PV144;Sant'Angelo Lomellina
+PV146;Sartirana Lomellina
+PV147;Scaldasole
+PV148;Semiana
+PV149;Silvano Pietra
+PV150;Siziano
+PV151;Sommo
+PV152;Spessa
+PV153;Stradella
+PV154;Suardi
+PV155;Torrazza Coste
+PV156;Torre Beretti e Castellaro
+PV157;Torre d'Arese
+PV158;Torre de' Negri
+PV159;Torre d'Isola
+PV160;Torrevecchia Pia
+PV161;Torricella Verzate
+PV162;Travacò Siccomario
+PV163;Trivolzio
+PV164;Tromello
+PV165;Trovo
+PV166;Val di Nizza
+PV167;Valeggio
+PV168;Valle Lomellina
+PV169;Valle Salimbene
+PV170;Valverde
+PV171;Varzi
+PV172;Velezzo Lomellina
+PV173;Vellezzo Bellini
+PV174;Verretto
+PV175;Verrua Po
+PV176;Vidigulfo
+PV177;Vigevano
+PV178;Villa Biscossi
+PV179;Villanova d'Ardenghi
+PV180;Villanterio
+PV181;Vistarino
+PV182;Voghera
+PV183;Volpara
+PV184;Zavattarello
+PV185;Zeccone
+PV186;Zeme
+PV187;Zenevredo
+PV188;Zerbo
+PV189;Zerbolò
+PV190;Zinasco
+PG001;Assisi
+PG002;Bastia Umbra
+PG003;Bettona
+PG004;Bevagna
+PG005;Campello sul Clitunno
+PG006;Cannara
+PG007;Cascia
+PG008;Castel Ritaldi
+PG009;Castiglione del Lago
+PG010;Cerreto di Spoleto
+PG011;Citerna
+PG012;Città della Pieve
+PG013;Città di Castello
+PG014;Collazzone
+PG015;Corciano
+PG016;Costacciaro
+PG017;Deruta
+PG018;Foligno
+PG019;Fossato di Vico
+PG020;Fratta Todina
+PG021;Giano dell'Umbria
+PG022;Gualdo Cattaneo
+PG023;Gualdo Tadino
+PG024;Gubbio
+PG025;Lisciano Niccone
+PG026;Magione
+PG027;Marsciano
+PG028;Massa Martana
+PG029;Monte Castello di Vibio
+PG032;Monte Santa Maria Tiberina
+PG030;Montefalco
+PG031;Monteleone di Spoleto
+PG033;Montone
+PG034;Nocera Umbra
+PG035;Norcia
+PG036;Paciano
+PG037;Panicale
+PG038;Passignano sul Trasimeno
+PG039;Perugia
+PG040;Piegaro
+PG041;Pietralunga
+PG042;Poggiodomo
+PG043;Preci
+PG044;San Giustino
+PG045;Sant'Anatolia di Narco
+PG046;Scheggia e Pascelupo
+PG047;Scheggino
+PG048;Sellano
+PG049;Sigillo
+PG050;Spello
+PG051;Spoleto
+PG052;Todi
+PG053;Torgiano
+PG054;Trevi
+PG055;Tuoro sul Trasimeno
+PG056;Umbertide
+PG057;Valfabbrica
+PG058;Vallo di Nera
+PG059;Valtopina
+PU001;Acqualagna
+PU002;Apecchio
+PU003;Auditore
+PU005;Belforte all'Isauro
+PU006;Borgo Pace
+PU007;Cagli
+PU008;Cantiano
+PU009;Carpegna
+PU010;Cartoceto
+PU069;Colli al Metauro
+PU013;Fano
+PU014;Fermignano
+PU015;Fossombrone
+PU016;Fratte Rosa
+PU017;Frontino
+PU018;Frontone
+PU019;Gabicce Mare
+PU020;Gradara
+PU021;Isola del Piano
+PU022;Lunano
+PU023;Macerata Feltria
+PU025;Mercatello sul Metauro
+PU026;Mercatino Conca
+PU027;Mombaroccio
+PU028;Mondavio
+PU029;Mondolfo
+PU031;Monte Cerignone
+PU035;Monte Grimano Terme
+PU038;Monte Porzio
+PU030;Montecalvo in Foglia
+PU032;Monteciccardo
+PU033;Montecopiolo
+PU034;Montefelcino
+PU036;Montelabbate
+PU041;Peglio
+PU043;Pergola
+PU044;Pesaro
+PU045;Petriano
+PU047;Piandimeleto
+PU048;Pietrarubbia
+PU049;Piobbico
+PU051;San Costanzo
+PU054;San Lorenzo in Campo
+PU057;Sant'Angelo in Vado
+PU058;Sant'Ippolito
+PU059;Sassocorvaro
+PU060;Sassofeltrio
+PU061;Serra Sant'Abbondio
+PU064;Tavoleto
+PU065;Tavullia
+PU070;Terre Roveresche
+PU066;Urbania
+PU067;Urbino
+PU068;Vallefoglia
+PE001;Abbateggio
+PE002;Alanno
+PE003;Bolognano
+PE004;Brittoli
+PE005;Bussi sul Tirino
+PE006;Cappelle sul Tavo
+PE007;Caramanico Terme
+PE008;Carpineto della Nora
+PE009;Castiglione a Casauria
+PE010;Catignano
+PE011;Cepagatti
+PE012;Città Sant'Angelo
+PE013;Civitaquana
+PE014;Civitella Casanova
+PE015;Collecorvino
+PE016;Corvara
+PE017;Cugnoli
+PE018;Elice
+PE019;Farindola
+PE020;Lettomanoppello
+PE021;Loreto Aprutino
+PE022;Manoppello
+PE023;Montebello di Bertona
+PE024;Montesilvano
+PE025;Moscufo
+PE026;Nocciano
+PE027;Penne
+PE028;Pescara
+PE029;Pescosansonesco
+PE030;Pianella
+PE031;Picciano
+PE032;Pietranico
+PE033;Popoli
+PE034;Roccamorice
+PE035;Rosciano
+PE036;Salle
+PE038;San Valentino in Abruzzo Citeriore
+PE037;Sant'Eufemia a Maiella
+PE039;Scafa
+PE040;Serramonacesca
+PE041;Spoltore
+PE042;Tocco da Casauria
+PE043;Torre de' Passeri
+PE044;Turrivalignani
+PE045;Vicoli
+PE046;Villa Celiera
+PC001;Agazzano
+PC002;Alseno
+PC003;Besenzone
+PC004;Bettola
+PC005;Bobbio
+PC006;Borgonovo Val Tidone
+PC007;Cadeo
+PC008;Calendasco
+PC009;Caminata
+PC010;Caorso
+PC011;Carpaneto Piacentino
+PC013;Castel San Giovanni
+PC012;Castell'Arquato
+PC014;Castelvetro Piacentino
+PC015;Cerignale
+PC016;Coli
+PC017;Corte Brugnatella
+PC018;Cortemaggiore
+PC019;Farini
+PC020;Ferriere
+PC021;Fiorenzuola d'Arda
+PC022;Gazzola
+PC023;Gossolengo
+PC024;Gragnano Trebbiense
+PC025;Gropparello
+PC026;Lugagnano Val d'Arda
+PC027;Monticelli d'Ongina
+PC028;Morfasso
+PC029;Nibbiano
+PC030;Ottone
+PC031;Pecorara
+PC032;Piacenza
+PC033;Pianello Val Tidone
+PC034;Piozzano
+PC035;Podenzano
+PC036;Ponte dell'Olio
+PC037;Pontenure
+PC038;Rivergaro
+PC039;Rottofreno
+PC040;San Giorgio Piacentino
+PC041;San Pietro in Cerro
+PC042;Sarmato
+PC043;Travo
+PC044;Vernasca
+PC045;Vigolzone
+PC046;Villanova sull'Arda
+PC047;Zerba
+PC048;Ziano Piacentino
+PI001;Bientina
+PI002;Buti
+PI003;Calci
+PI004;Calcinaia
+PI005;Capannoli
+PI006;Casale Marittimo
+PI040;Casciana Terme Lari
+PI008;Cascina
+PI009;Castelfranco di Sotto
+PI010;Castellina Marittima
+PI011;Castelnuovo di Val di Cecina
+PI012;Chianni
+PI041;Crespina Lorenzana
+PI014;Fauglia
+PI015;Guardistallo
+PI016;Lajatico
+PI019;Montecatini Val di Cecina
+PI020;Montescudaio
+PI021;Monteverdi Marittimo
+PI022;Montopoli in Val d'Arno
+PI023;Orciano Pisano
+PI024;Palaia
+PI025;Peccioli
+PI026;Pisa
+PI027;Pomarance
+PI028;Ponsacco
+PI029;Pontedera
+PI030;Riparbella
+PI031;San Giuliano Terme
+PI032;San Miniato
+PI033;Santa Croce sull'Arno
+PI034;Santa Luce
+PI035;Santa Maria a Monte
+PI036;Terricciola
+PI037;Vecchiano
+PI038;Vicopisano
+PI039;Volterra
+PT023;Abetone Cutigliano
+PT002;Agliana
+PT003;Buggiano
+PT022;Chiesina Uzzanese
+PT005;Lamporecchio
+PT006;Larciano
+PT007;Marliana
+PT008;Massa e Cozzile
+PT009;Monsummano Terme
+PT010;Montale
+PT011;Montecatini-Terme
+PT012;Pescia
+PT013;Pieve a Nievole
+PT014;Pistoia
+PT016;Ponte Buggianese
+PT017;Quarrata
+PT018;Sambuca Pistoiese
+PT024;San Marcello Piteglio
+PT020;Serravalle Pistoiese
+PT021;Uzzano
+PN001;Andreis
+PN002;Arba
+PN004;Aviano
+PN005;Azzano Decimo
+PN006;Barcis
+PN007;Brugnera
+PN008;Budoia
+PN009;Caneva
+PN010;Casarsa della Delizia
+PN011;Castelnovo del Friuli
+PN012;Cavasso Nuovo
+PN013;Chions
+PN014;Cimolais
+PN015;Claut
+PN016;Clauzetto
+PN017;Cordenons
+PN018;Cordovado
+PN019;Erto e Casso
+PN020;Fanna
+PN021;Fiume Veneto
+PN022;Fontanafredda
+PN024;Frisanco
+PN025;Maniago
+PN026;Meduno
+PN027;Montereale Valcellina
+PN028;Morsano al Tagliamento
+PN029;Pasiano di Pordenone
+PN030;Pinzano al Tagliamento
+PN031;Polcenigo
+PN032;Porcia
+PN033;Pordenone
+PN034;Prata di Pordenone
+PN035;Pravisdomini
+PN036;Roveredo in Piano
+PN037;Sacile
+PN038;San Giorgio della Richinvelda
+PN039;San Martino al Tagliamento
+PN040;San Quirino
+PN041;San Vito al Tagliamento
+PN042;Sequals
+PN043;Sesto al Reghena
+PN044;Spilimbergo
+PN045;Tramonti di Sopra
+PN046;Tramonti di Sotto
+PN047;Travesio
+PN052;Vajont
+PN053;Valvasone Arzene
+PN049;Vito d'Asio
+PN050;Vivaro
+PN051;Zoppola
+PZ001;Abriola
+PZ002;Acerenza
+PZ003;Albano di Lucania
+PZ004;Anzi
+PZ005;Armento
+PZ006;Atella
+PZ007;Avigliano
+PZ008;Balvano
+PZ009;Banzi
+PZ010;Baragiano
+PZ011;Barile
+PZ012;Bella
+PZ013;Brienza
+PZ014;Brindisi Montagna
+PZ015;Calvello
+PZ016;Calvera
+PZ017;Campomaggiore
+PZ018;Cancellara
+PZ019;Carbone
+PZ021;Castelgrande
+PZ022;Castelluccio Inferiore
+PZ023;Castelluccio Superiore
+PZ024;Castelmezzano
+PZ025;Castelsaraceno
+PZ026;Castronuovo di Sant'Andrea
+PZ027;Cersosimo
+PZ028;Chiaromonte
+PZ029;Corleto Perticara
+PZ030;Episcopia
+PZ031;Fardella
+PZ032;Filiano
+PZ033;Forenza
+PZ034;Francavilla in Sinni
+PZ035;Gallicchio
+PZ036;Genzano di Lucania
+PZ099;Ginestra
+PZ037;Grumento Nova
+PZ038;Guardia Perticara
+PZ039;Lagonegro
+PZ040;Latronico
+PZ041;Laurenzana
+PZ042;Lauria
+PZ043;Lavello
+PZ044;Maratea
+PZ045;Marsico Nuovo
+PZ046;Marsicovetere
+PZ047;Maschito
+PZ048;Melfi
+PZ049;Missanello
+PZ050;Moliterno
+PZ051;Montemilone
+PZ052;Montemurro
+PZ053;Muro Lucano
+PZ054;Nemoli
+PZ055;Noepoli
+PZ056;Oppido Lucano
+PZ057;Palazzo San Gervasio
+PZ100;Paterno
+PZ058;Pescopagano
+PZ059;Picerno
+PZ060;Pietragalla
+PZ061;Pietrapertosa
+PZ062;Pignola
+PZ063;Potenza
+PZ064;Rapolla
+PZ065;Rapone
+PZ066;Rionero in Vulture
+PZ067;Ripacandida
+PZ068;Rivello
+PZ069;Roccanova
+PZ070;Rotonda
+PZ071;Ruoti
+PZ072;Ruvo del Monte
+PZ073;San Chirico Nuovo
+PZ074;San Chirico Raparo
+PZ075;San Costantino Albanese
+PZ076;San Fele
+PZ077;San Martino d'Agri
+PZ020;San Paolo Albanese
+PZ078;San Severino Lucano
+PZ079;Sant'Angelo Le Fratte
+PZ080;Sant'Arcangelo
+PZ081;Sarconi
+PZ082;Sasso di Castalda
+PZ083;Satriano di Lucania
+PZ084;Savoia di Lucania
+PZ085;Senise
+PZ086;Spinoso
+PZ087;Teana
+PZ088;Terranova di Pollino
+PZ089;Tito
+PZ090;Tolve
+PZ091;Tramutola
+PZ092;Trecchina
+PZ093;Trivigno
+PZ094;Vaglio Basilicata
+PZ095;Venosa
+PZ096;Vietri di Potenza
+PZ097;Viggianello
+PZ098;Viggiano
+PO001;Cantagallo
+PO002;Carmignano
+PO003;Montemurlo
+PO004;Poggio a Caiano
+PO005;Prato
+PO006;Vaiano
+PO007;Vernio
+RG001;Acate
+RG002;Chiaramonte Gulfi
+RG003;Comiso
+RG004;Giarratana
+RG005;Ispica
+RG006;Modica
+RG007;Monterosso Almo
+RG008;Pozzallo
+RG009;Ragusa
+RG010;Santa Croce Camerina
+RG011;Scicli
+RG012;Vittoria
+RA001;Alfonsine
+RA002;Bagnacavallo
+RA003;Bagnara di Romagna
+RA004;Brisighella
+RA005;Casola Valsenio
+RA006;Castel Bolognese
+RA007;Cervia
+RA008;Conselice
+RA009;Cotignola
+RA010;Faenza
+RA011;Fusignano
+RA012;Lugo
+RA013;Massa Lombarda
+RA014;Ravenna
+RA015;Riolo Terme
+RA016;Russi
+RA017;Sant'Agata sul Santerno
+RA018;Solarolo
+RC001;Africo
+RC002;Agnana Calabra
+RC003;Anoia
+RC004;Antonimina
+RC005;Ardore
+RC006;Bagaladi
+RC007;Bagnara Calabra
+RC008;Benestare
+RC009;Bianco
+RC010;Bivongi
+RC011;Bova
+RC013;Bova Marina
+RC012;Bovalino
+RC014;Brancaleone
+RC015;Bruzzano Zeffirio
+RC016;Calanna
+RC017;Camini
+RC018;Campo Calabro
+RC019;Candidoni
+RC020;Canolo
+RC021;Caraffa del Bianco
+RC022;Cardeto
+RC023;Careri
+RC024;Casignana
+RC025;Caulonia
+RC026;Ciminà
+RC027;Cinquefrondi
+RC028;Cittanova
+RC029;Condofuri
+RC030;Cosoleto
+RC031;Delianuova
+RC032;Feroleto della Chiesa
+RC033;Ferruzzano
+RC034;Fiumara
+RC035;Galatro
+RC036;Gerace
+RC037;Giffone
+RC038;Gioia Tauro
+RC039;Gioiosa Ionica
+RC040;Grotteria
+RC041;Laganadi
+RC042;Laureana di Borrello
+RC043;Locri
+RC044;Mammola
+RC045;Marina di Gioiosa Ionica
+RC046;Maropati
+RC047;Martone
+RC048;Melicuccà
+RC049;Melicucco
+RC050;Melito di Porto Salvo
+RC051;Molochio
+RC052;Monasterace
+RC053;Montebello Jonico
+RC054;Motta San Giovanni
+RC055;Oppido Mamertina
+RC056;Palizzi
+RC057;Palmi
+RC058;Pazzano
+RC059;Placanica
+RC060;Platì
+RC061;Polistena
+RC062;Portigliola
+RC063;Reggio di Calabria
+RC064;Riace
+RC065;Rizziconi
+RC066;Roccaforte del Greco
+RC067;Roccella Ionica
+RC068;Roghudi
+RC069;Rosarno
+RC070;Samo
+RC097;San Ferdinando
+RC071;San Giorgio Morgeto
+RC072;San Giovanni di Gerace
+RC073;San Lorenzo
+RC074;San Luca
+RC075;San Pietro di Caridà
+RC076;San Procopio
+RC077;San Roberto
+RC078;Santa Cristina d'Aspromonte
+RC079;Sant'Agata del Bianco
+RC080;Sant'Alessio in Aspromonte
+RC081;Sant'Eufemia d'Aspromonte
+RC082;Sant'Ilario dello Ionio
+RC083;Santo Stefano in Aspromonte
+RC084;Scido
+RC085;Scilla
+RC086;Seminara
+RC087;Serrata
+RC088;Siderno
+RC089;Sinopoli
+RC090;Staiti
+RC091;Stignano
+RC092;Stilo
+RC093;Taurianova
+RC094;Terranova Sappo Minulio
+RC095;Varapodio
+RC096;Villa San Giovanni
+RE001;Albinea
+RE002;Bagnolo in Piano
+RE003;Baiso
+RE004;Bibbiano
+RE005;Boretto
+RE006;Brescello
+RE008;Cadelbosco di Sopra
+RE009;Campagnola Emilia
+RE010;Campegine
+RE018;Canossa
+RE011;Carpineti
+RE012;Casalgrande
+RE013;Casina
+RE014;Castellarano
+RE015;Castelnovo di Sotto
+RE016;Castelnovo ne' Monti
+RE017;Cavriago
+RE020;Correggio
+RE021;Fabbrico
+RE022;Gattatico
+RE023;Gualtieri
+RE024;Guastalla
+RE026;Luzzara
+RE027;Montecchio Emilia
+RE028;Novellara
+RE029;Poviglio
+RE030;Quattro Castella
+RE033;Reggio nell'Emilia
+RE032;Reggiolo
+RE034;Rio Saliceto
+RE035;Rolo
+RE036;Rubiera
+RE037;San Martino in Rio
+RE038;San Polo d'Enza
+RE039;Sant'Ilario d'Enza
+RE040;Scandiano
+RE041;Toano
+RE046;Ventasso
+RE042;Vetto
+RE043;Vezzano sul Crostolo
+RE044;Viano
+RE045;Villa Minozzo
+RI001;Accumoli
+RI002;Amatrice
+RI003;Antrodoco
+RI004;Ascrea
+RI005;Belmonte in Sabina
+RI006;Borbona
+RI008;Borgo Velino
+RI007;Borgorose
+RI009;Cantalice
+RI010;Cantalupo in Sabina
+RI011;Casaprota
+RI012;Casperia
+RI013;Castel di Tora
+RI015;Castel Sant'Angelo
+RI014;Castelnuovo di Farfa
+RI016;Cittaducale
+RI017;Cittareale
+RI018;Collalto Sabino
+RI019;Colle di Tora
+RI020;Collegiove
+RI021;Collevecchio
+RI022;Colli sul Velino
+RI023;Concerviano
+RI024;Configni
+RI025;Contigliano
+RI026;Cottanello
+RI027;Fara in Sabina
+RI028;Fiamignano
+RI029;Forano
+RI030;Frasso Sabino
+RI031;Greccio
+RI032;Labro
+RI033;Leonessa
+RI034;Longone Sabino
+RI035;Magliano Sabina
+RI036;Marcetelli
+RI037;Micigliano
+RI038;Mompeo
+RI039;Montasola
+RI043;Monte San Giovanni in Sabina
+RI040;Montebuono
+RI041;Monteleone Sabino
+RI042;Montenero Sabino
+RI044;Montopoli di Sabina
+RI045;Morro Reatino
+RI046;Nespolo
+RI047;Orvinio
+RI048;Paganico Sabino
+RI049;Pescorocchiano
+RI050;Petrella Salto
+RI051;Poggio Bustone
+RI052;Poggio Catino
+RI053;Poggio Mirteto
+RI054;Poggio Moiano
+RI055;Poggio Nativo
+RI056;Poggio San Lorenzo
+RI057;Posta
+RI058;Pozzaglia Sabina
+RI059;Rieti
+RI060;Rivodutri
+RI062;Rocca Sinibalda
+RI061;Roccantica
+RI063;Salisano
+RI064;Scandriglia
+RI065;Selci
+RI066;Stimigliano
+RI067;Tarano
+RI068;Toffia
+RI070;Torri in Sabina
+RI069;Torricella in Sabina
+RI071;Turania
+RI072;Vacone
+RI073;Varco Sabino
+RN001;Bellaria-Igea Marina
+RN021;Casteldelci
+RN002;Cattolica
+RN003;Coriano
+RN004;Gemmano
+RN022;Maiolo
+RN005;Misano Adriatico
+RN006;Mondaino
+RN008;Montefiore Conca
+RN009;Montegridolfo
+RN029;Montescudo-Monte Colombo
+RN011;Morciano di Romagna
+RN023;Novafeltria
+RN024;Pennabilli
+RN028;Poggio Torriana
+RN013;Riccione
+RN014;Rimini
+RN015;Saludecio
+RN016;San Clemente
+RN017;San Giovanni in Marignano
+RN025;San Leo
+RN026;Sant'Agata Feltria
+RN018;Santarcangelo di Romagna
+RN027;Talamello
+RN020;Verucchio
+RM001;Affile
+RM002;Agosta
+RM003;Albano Laziale
+RM004;Allumiere
+RM005;Anguillara Sabazia
+RM006;Anticoli Corrado
+RM007;Anzio
+RM008;Arcinazzo Romano
+RM117;Ardea
+RM009;Ariccia
+RM010;Arsoli
+RM011;Artena
+RM012;Bellegra
+RM013;Bracciano
+RM014;Camerata Nuova
+RM015;Campagnano di Roma
+RM016;Canale Monterano
+RM017;Canterano
+RM018;Capena
+RM019;Capranica Prenestina
+RM020;Carpineto Romano
+RM021;Casape
+RM022;Castel Gandolfo
+RM023;Castel Madama
+RM025;Castel San Pietro Romano
+RM024;Castelnuovo di Porto
+RM026;Cave
+RM027;Cerreto Laziale
+RM028;Cervara di Roma
+RM029;Cerveteri
+RM118;Ciampino
+RM030;Ciciliano
+RM031;Cineto Romano
+RM032;Civitavecchia
+RM033;Civitella San Paolo
+RM034;Colleferro
+RM035;Colonna
+RM036;Fiano Romano
+RM037;Filacciano
+RM120;Fiumicino
+RM122;Fonte Nuova
+RM038;Formello
+RM039;Frascati
+RM040;Gallicano nel Lazio
+RM041;Gavignano
+RM042;Genazzano
+RM043;Genzano di Roma
+RM044;Gerano
+RM045;Gorga
+RM046;Grottaferrata
+RM047;Guidonia Montecelio
+RM048;Jenne
+RM049;Labico
+RM116;Ladispoli
+RM050;Lanuvio
+RM115;Lariano
+RM051;Licenza
+RM052;Magliano Romano
+RM053;Mandela
+RM054;Manziana
+RM055;Marano Equo
+RM056;Marcellina
+RM057;Marino
+RM058;Mazzano Romano
+RM059;Mentana
+RM060;Monte Compatri
+RM064;Monte Porzio Catone
+RM061;Monteflavio
+RM062;Montelanico
+RM063;Montelibretti
+RM065;Monterotondo
+RM066;Montorio Romano
+RM067;Moricone
+RM068;Morlupo
+RM069;Nazzano
+RM070;Nemi
+RM071;Nerola
+RM072;Nettuno
+RM073;Olevano Romano
+RM074;Palestrina
+RM075;Palombara Sabina
+RM076;Percile
+RM077;Pisoniano
+RM078;Poli
+RM079;Pomezia
+RM080;Ponzano Romano
+RM081;Riano
+RM082;Rignano Flaminio
+RM083;Riofreddo
+RM084;Rocca Canterano
+RM085;Rocca di Cave
+RM086;Rocca di Papa
+RM088;Rocca Priora
+RM089;Rocca Santo Stefano
+RM087;Roccagiovine
+RM090;Roiate
+RM091;Roma
+RM092;Roviano
+RM093;Sacrofano
+RM094;Sambuci
+RM119;San Cesareo
+RM095;San Gregorio da Sassola
+RM096;San Polo dei Cavalieri
+RM100;San Vito Romano
+RM097;Santa Marinella
+RM098;Sant'Angelo Romano
+RM099;Sant'Oreste
+RM101;Saracinesco
+RM102;Segni
+RM103;Subiaco
+RM104;Tivoli
+RM105;Tolfa
+RM106;Torrita Tiberina
+RM107;Trevignano Romano
+RM108;Vallepietra
+RM109;Vallinfreda
+RM110;Valmontone
+RM111;Velletri
+RM112;Vicovaro
+RM113;Vivaro Romano
+RM114;Zagarolo
+RO001;Adria
+RO002;Ariano nel Polesine
+RO003;Arquà Polesine
+RO004;Badia Polesine
+RO005;Bagnolo di Po
+RO006;Bergantino
+RO007;Bosaro
+RO008;Calto
+RO009;Canaro
+RO010;Canda
+RO011;Castelguglielmo
+RO012;Castelmassa
+RO013;Castelnovo Bariano
+RO014;Ceneselli
+RO015;Ceregnano
+RO017;Corbola
+RO018;Costa di Rovigo
+RO019;Crespino
+RO021;Ficarolo
+RO022;Fiesso Umbertiano
+RO023;Frassinelle Polesine
+RO024;Fratta Polesine
+RO025;Gaiba
+RO026;Gavello
+RO027;Giacciano con Baruchella
+RO028;Guarda Veneta
+RO029;Lendinara
+RO030;Loreo
+RO031;Lusia
+RO032;Melara
+RO033;Occhiobello
+RO034;Papozze
+RO035;Pettorazza Grimani
+RO036;Pincara
+RO037;Polesella
+RO038;Pontecchio Polesine
+RO039;Porto Tolle
+RO052;Porto Viro
+RO040;Rosolina
+RO041;Rovigo
+RO042;Salara
+RO043;San Bellino
+RO044;San Martino di Venezze
+RO045;Stienta
+RO046;Taglio di Po
+RO047;Trecenta
+RO048;Villadose
+RO049;Villamarzana
+RO050;Villanova del Ghebbo
+RO051;Villanova Marchesana
+SA001;Acerno
+SA002;Agropoli
+SA003;Albanella
+SA004;Alfano
+SA005;Altavilla Silentina
+SA006;Amalfi
+SA007;Angri
+SA008;Aquara
+SA009;Ascea
+SA010;Atena Lucana
+SA011;Atrani
+SA012;Auletta
+SA013;Baronissi
+SA014;Battipaglia
+SA158;Bellizzi
+SA015;Bellosguardo
+SA016;Bracigliano
+SA017;Buccino
+SA018;Buonabitacolo
+SA019;Caggiano
+SA020;Calvanico
+SA021;Camerota
+SA022;Campagna
+SA023;Campora
+SA024;Cannalonga
+SA025;Capaccio Paestum
+SA028;Casal Velino
+SA026;Casalbuono
+SA027;Casaletto Spartano
+SA029;Caselle in Pittari
+SA034;Castel San Giorgio
+SA035;Castel San Lorenzo
+SA030;Castelcivita
+SA031;Castellabate
+SA032;Castelnuovo Cilento
+SA033;Castelnuovo di Conza
+SA036;Castiglione del Genovesi
+SA037;Cava de' Tirreni
+SA038;Celle di Bulgheria
+SA039;Centola
+SA040;Ceraso
+SA041;Cetara
+SA042;Cicerale
+SA043;Colliano
+SA044;Conca dei Marini
+SA045;Controne
+SA046;Contursi Terme
+SA047;Corbara
+SA048;Corleto Monforte
+SA049;Cuccaro Vetere
+SA050;Eboli
+SA051;Felitto
+SA052;Fisciano
+SA053;Furore
+SA054;Futani
+SA055;Giffoni Sei Casali
+SA056;Giffoni Valle Piana
+SA057;Gioi
+SA058;Giungano
+SA059;Ispani
+SA060;Laureana Cilento
+SA061;Laurino
+SA062;Laurito
+SA063;Laviano
+SA064;Lustra
+SA065;Magliano Vetere
+SA066;Maiori
+SA067;Mercato San Severino
+SA068;Minori
+SA069;Moio della Civitella
+SA070;Montano Antilia
+SA075;Monte San Giacomo
+SA071;Montecorice
+SA072;Montecorvino Pugliano
+SA073;Montecorvino Rovella
+SA074;Monteforte Cilento
+SA076;Montesano sulla Marcellana
+SA077;Morigerati
+SA078;Nocera Inferiore
+SA079;Nocera Superiore
+SA080;Novi Velia
+SA081;Ogliastro Cilento
+SA082;Olevano sul Tusciano
+SA083;Oliveto Citra
+SA084;Omignano
+SA085;Orria
+SA086;Ottati
+SA087;Padula
+SA088;Pagani
+SA089;Palomonte
+SA090;Pellezzano
+SA091;Perdifumo
+SA092;Perito
+SA093;Pertosa
+SA094;Petina
+SA095;Piaggine
+SA096;Pisciotta
+SA097;Polla
+SA098;Pollica
+SA099;Pontecagnano Faiano
+SA100;Positano
+SA101;Postiglione
+SA102;Praiano
+SA103;Prignano Cilento
+SA104;Ravello
+SA105;Ricigliano
+SA106;Roccadaspide
+SA107;Roccagloriosa
+SA108;Roccapiemonte
+SA109;Rofrano
+SA110;Romagnano al Monte
+SA111;Roscigno
+SA112;Rutino
+SA113;Sacco
+SA114;Sala Consilina
+SA115;Salento
+SA116;Salerno
+SA117;Salvitelle
+SA118;San Cipriano Picentino
+SA119;San Giovanni a Piro
+SA120;San Gregorio Magno
+SA121;San Mango Piemonte
+SA122;San Marzano sul Sarno
+SA123;San Mauro Cilento
+SA124;San Mauro la Bruca
+SA125;San Pietro al Tanagro
+SA126;San Rufo
+SA132;San Valentino Torio
+SA127;Santa Marina
+SA128;Sant'Angelo a Fasanella
+SA129;Sant'Arsenio
+SA130;Sant'Egidio del Monte Albino
+SA131;Santomenna
+SA133;Sanza
+SA134;Sapri
+SA135;Sarno
+SA136;Sassano
+SA137;Scafati
+SA138;Scala
+SA139;Serramezzana
+SA140;Serre
+SA141;Sessa Cilento
+SA142;Siano
+SA143;Sicignano degli Alburni
+SA144;Stella Cilento
+SA145;Stio
+SA146;Teggiano
+SA147;Torchiara
+SA148;Torraca
+SA149;Torre Orsaia
+SA150;Tortorella
+SA151;Tramonti
+SA152;Trentinara
+SA153;Valle dell'Angelo
+SA154;Vallo della Lucania
+SA155;Valva
+SA156;Vibonati
+SA157;Vietri sul Mare
+SS001;Aggius
+SS062;Aglientu
+SS002;Alà dei Sardi
+SS003;Alghero
+SS004;Anela
+SS005;Ardara
+SS006;Arzachena
+SS081;Badesi
+SS007;Banari
+SS008;Benetutti
+SS009;Berchidda
+SS010;Bessude
+SS011;Bonnanaro
+SS012;Bono
+SS013;Bonorva
+SS014;Bortigiadas
+SS015;Borutta
+SS016;Bottidda
+SS017;Buddusò
+SS091;Budoni
+SS018;Bultei
+SS019;Bulzi
+SS020;Burgos
+SS021;Calangianus
+SS022;Cargeghe
+SS023;Castelsardo
+SS024;Cheremule
+SS025;Chiaramonti
+SS026;Codrongianos
+SS027;Cossoine
+SS088;Erula
+SS028;Esporlatu
+SS029;Florinas
+SS030;Giave
+SS083;Golfo Aranci
+SS031;Illorai
+SS032;Ittireddu
+SS033;Ittiri
+SS035;La Maddalena
+SS034;Laerru
+SS084;Loiri Porto San Paolo
+SS036;Luogosanto
+SS037;Luras
+SS038;Mara
+SS039;Martis
+SS040;Monteleone Rocca Doria
+SS041;Monti
+SS042;Mores
+SS043;Muros
+SS044;Nughedu San Nicolò
+SS045;Nule
+SS046;Nulvi
+SS047;Olbia
+SS048;Olmedo
+SS049;Oschiri
+SS050;Osilo
+SS051;Ossi
+SS052;Ozieri
+SS053;Padria
+SS090;Padru
+SS054;Palau
+SS055;Pattada
+SS056;Perfugas
+SS057;Ploaghe
+SS058;Porto Torres
+SS059;Pozzomaggiore
+SS060;Putifigari
+SS061;Romana
+SS092;San Teodoro
+SS087;Santa Maria Coghinas
+SS063;Santa Teresa Gallura
+SS085;Sant'Antonio di Gallura
+SS064;Sassari
+SS065;Sedini
+SS066;Semestene
+SS067;Sennori
+SS068;Siligo
+SS069;Sorso
+SS089;Stintino
+SS080;Telti
+SS070;Tempio Pausania
+SS086;Tergu
+SS071;Thiesi
+SS072;Tissi
+SS073;Torralba
+SS074;Trinità d'Agultu e Vignola
+SS075;Tula
+SS076;Uri
+SS077;Usini
+SS079;Valledoria
+SS082;Viddalba
+SS078;Villanova Monteleone
+SV001;Alassio
+SV002;Albenga
+SV004;Albisola Superiore
+SV003;Albissola Marina
+SV005;Altare
+SV006;Andora
+SV007;Arnasco
+SV008;Balestrino
+SV009;Bardineto
+SV010;Bergeggi
+SV011;Boissano
+SV012;Borghetto Santo Spirito
+SV013;Borgio Verezzi
+SV014;Bormida
+SV015;Cairo Montenotte
+SV016;Calice Ligure
+SV017;Calizzano
+SV018;Carcare
+SV019;Casanova Lerrone
+SV020;Castelbianco
+SV021;Castelvecchio di Rocca Barbena
+SV022;Celle Ligure
+SV023;Cengio
+SV024;Ceriale
+SV025;Cisano sul Neva
+SV026;Cosseria
+SV027;Dego
+SV028;Erli
+SV029;Finale Ligure
+SV030;Garlenda
+SV031;Giustenice
+SV032;Giusvalla
+SV033;Laigueglia
+SV034;Loano
+SV035;Magliolo
+SV036;Mallare
+SV037;Massimino
+SV038;Millesimo
+SV039;Mioglia
+SV040;Murialdo
+SV041;Nasino
+SV042;Noli
+SV043;Onzo
+SV044;Orco Feglino
+SV045;Ortovero
+SV046;Osiglia
+SV047;Pallare
+SV048;Piana Crixia
+SV049;Pietra Ligure
+SV050;Plodio
+SV051;Pontinvrea
+SV052;Quiliano
+SV053;Rialto
+SV054;Roccavignale
+SV055;Sassello
+SV056;Savona
+SV057;Spotorno
+SV058;Stella
+SV059;Stellanello
+SV060;Testico
+SV061;Toirano
+SV062;Tovo San Giacomo
+SV063;Urbe
+SV064;Vado Ligure
+SV065;Varazze
+SV066;Vendone
+SV067;Vezzi Portio
+SV068;Villanova d'Albenga
+SV069;Zuccarello
+SI001;Abbadia San Salvatore
+SI002;Asciano
+SI003;Buonconvento
+SI004;Casole d'Elsa
+SI005;Castellina in Chianti
+SI006;Castelnuovo Berardenga
+SI007;Castiglione d'Orcia
+SI008;Cetona
+SI009;Chianciano Terme
+SI010;Chiusdino
+SI011;Chiusi
+SI012;Colle di Val d'Elsa
+SI013;Gaiole in Chianti
+SI037;Montalcino
+SI015;Montepulciano
+SI016;Monteriggioni
+SI017;Monteroni d'Arbia
+SI018;Monticiano
+SI019;Murlo
+SI020;Piancastagnaio
+SI021;Pienza
+SI022;Poggibonsi
+SI023;Radda in Chianti
+SI024;Radicofani
+SI025;Radicondoli
+SI026;Rapolano Terme
+SI027;San Casciano dei Bagni
+SI028;San Gimignano
+SI030;San Quirico d'Orcia
+SI031;Sarteano
+SI032;Siena
+SI033;Sinalunga
+SI034;Sovicille
+SI035;Torrita di Siena
+SI036;Trequanda
+SR001;Augusta
+SR002;Avola
+SR003;Buccheri
+SR004;Buscemi
+SR005;Canicattini Bagni
+SR006;Carlentini
+SR007;Cassaro
+SR008;Ferla
+SR009;Floridia
+SR010;Francofonte
+SR011;Lentini
+SR012;Melilli
+SR013;Noto
+SR014;Pachino
+SR015;Palazzolo Acreide
+SR020;Portopalo di Capo Passero
+SR021;Priolo Gargallo
+SR016;Rosolini
+SR017;Siracusa
+SR018;Solarino
+SR019;Sortino
+SO001;Albaredo per San Marco
+SO002;Albosaggia
+SO003;Andalo Valtellino
+SO004;Aprica
+SO005;Ardenno
+SO006;Bema
+SO007;Berbenno di Valtellina
+SO008;Bianzone
+SO009;Bormio
+SO010;Buglio in Monte
+SO011;Caiolo
+SO012;Campodolcino
+SO013;Caspoggio
+SO014;Castello dell'Acqua
+SO015;Castione Andevenno
+SO016;Cedrasco
+SO017;Cercino
+SO018;Chiavenna
+SO019;Chiesa in Valmalenco
+SO020;Chiuro
+SO021;Cino
+SO022;Civo
+SO023;Colorina
+SO024;Cosio Valtellino
+SO025;Dazio
+SO026;Delebio
+SO027;Dubino
+SO028;Faedo Valtellino
+SO029;Forcola
+SO030;Fusine
+SO031;Gerola Alta
+SO032;Gordona
+SO033;Grosio
+SO034;Grosotto
+SO036;Lanzada
+SO037;Livigno
+SO038;Lovero
+SO035;Madesimo
+SO039;Mantello
+SO040;Mazzo di Valtellina
+SO041;Mello
+SO043;Mese
+SO044;Montagna in Valtellina
+SO045;Morbegno
+SO046;Novate Mezzola
+SO047;Pedesina
+SO048;Piantedo
+SO049;Piateda
+SO050;Piuro
+SO051;Poggiridenti
+SO052;Ponte in Valtellina
+SO053;Postalesio
+SO054;Prata Camportaccio
+SO055;Rasura
+SO056;Rogolo
+SO057;Samolaco
+SO058;San Giacomo Filippo
+SO059;Sernio
+SO060;Sondalo
+SO061;Sondrio
+SO062;Spriana
+SO063;Talamona
+SO064;Tartano
+SO065;Teglio
+SO066;Tirano
+SO067;Torre di Santa Maria
+SO068;Tovo di Sant'Agata
+SO069;Traona
+SO070;Tresivio
+SO074;Val Masino
+SO071;Valdidentro
+SO072;Valdisotto
+SO073;Valfurva
+SO075;Verceia
+SO076;Vervio
+SO077;Villa di Chiavenna
+SO078;Villa di Tirano
+SU001;Arbus
+SU002;Armungia
+SU003;Ballao
+SU004;Barrali
+SU005;Barumini
+SU006;Buggerru
+SU007;Burcei
+SU008;Calasetta
+SU009;Carbonia
+SU010;Carloforte
+SU011;Castiadas
+SU012;Collinas
+SU013;Decimoputzu
+SU014;Dolianova
+SU015;Domus de Maria
+SU016;Domusnovas
+SU017;Donori
+SU018;Escalaplano
+SU019;Escolca
+SU020;Esterzili
+SU021;Fluminimaggiore
+SU022;Furtei
+SU023;Genoni
+SU024;Genuri
+SU025;Gergei
+SU026;Gesico
+SU027;Gesturi
+SU028;Giba
+SU029;Goni
+SU030;Gonnesa
+SU031;Gonnosfanadiga
+SU032;Guamaggiore
+SU033;Guasila
+SU034;Guspini
+SU035;Iglesias
+SU036;Isili
+SU037;Las Plassas
+SU038;Lunamatrona
+SU039;Mandas
+SU040;Masainas
+SU041;Monastir
+SU042;Muravera
+SU043;Musei
+SU044;Narcao
+SU045;Nuragus
+SU046;Nurallao
+SU047;Nuraminis
+SU048;Nurri
+SU049;Nuxis
+SU050;Orroli
+SU051;Ortacesus
+SU052;Pabillonis
+SU053;Pauli Arbarei
+SU054;Perdaxius
+SU055;Pimentel
+SU056;Piscinas
+SU057;Portoscuso
+SU058;Sadali
+SU059;Samassi
+SU060;Samatzai
+SU061;San Basilio
+SU062;San Gavino Monreale
+SU063;San Giovanni Suergiu
+SU064;San Nicolò Gerrei
+SU065;San Sperate
+SU066;San Vito
+SU067;Sanluri
+SU068;Santadi
+SU069;Sant'Andrea Frius
+SU070;Sant'Anna Arresi
+SU071;Sant'Antioco
+SU072;Sardara
+SU073;Segariu
+SU074;Selegas
+SU075;Senorbì
+SU076;Serdiana
+SU077;Serramanna
+SU078;Serrenti
+SU079;Serri
+SU080;Setzu
+SU081;Seui
+SU082;Seulo
+SU083;Siddi
+SU084;Siliqua
+SU085;Silius
+SU086;Siurgus Donigala
+SU087;Soleminis
+SU088;Suelli
+SU089;Teulada
+SU090;Tratalias
+SU091;Tuili
+SU092;Turri
+SU093;Ussana
+SU094;Ussaramanna
+SU095;Vallermosa
+SU096;Villacidro
+SU097;Villamar
+SU098;Villamassargia
+SU099;Villanova Tulo
+SU100;Villanovaforru
+SU101;Villanovafranca
+SU102;Villaperuccio
+SU103;Villaputzu
+SU104;Villasalto
+SU105;Villasimius
+SU106;Villasor
+SU107;Villaspeciosa
+TA001;Avetrana
+TA002;Carosino
+TA003;Castellaneta
+TA004;Crispiano
+TA005;Faggiano
+TA006;Fragagnano
+TA007;Ginosa
+TA008;Grottaglie
+TA009;Laterza
+TA010;Leporano
+TA011;Lizzano
+TA012;Manduria
+TA013;Martina Franca
+TA014;Maruggio
+TA015;Massafra
+TA016;Monteiasi
+TA017;Montemesola
+TA018;Monteparano
+TA019;Mottola
+TA020;Palagianello
+TA021;Palagiano
+TA022;Pulsano
+TA023;Roccaforzata
+TA024;San Giorgio Ionico
+TA025;San Marzano di San Giuseppe
+TA026;Sava
+TA029;Statte
+TA027;Taranto
+TA028;Torricella
+TE001;Alba Adriatica
+TE002;Ancarano
+TE003;Arsita
+TE004;Atri
+TE005;Basciano
+TE006;Bellante
+TE007;Bisenti
+TE008;Campli
+TE009;Canzano
+TE010;Castel Castagna
+TE011;Castellalto
+TE012;Castelli
+TE013;Castiglione Messer Raimondo
+TE014;Castilenti
+TE015;Cellino Attanasio
+TE016;Cermignano
+TE017;Civitella del Tronto
+TE018;Colledara
+TE019;Colonnella
+TE020;Controguerra
+TE021;Corropoli
+TE022;Cortino
+TE023;Crognaleto
+TE024;Fano Adriano
+TE025;Giulianova
+TE026;Isola del Gran Sasso d'Italia
+TE047;Martinsicuro
+TE027;Montefino
+TE028;Montorio al Vomano
+TE029;Morro d'Oro
+TE030;Mosciano Sant'Angelo
+TE031;Nereto
+TE032;Notaresco
+TE033;Penna Sant'Andrea
+TE034;Pietracamela
+TE035;Pineto
+TE036;Rocca Santa Maria
+TE037;Roseto degli Abruzzi
+TE038;Sant'Egidio alla Vibrata
+TE039;Sant'Omero
+TE040;Silvi
+TE041;Teramo
+TE042;Torano Nuovo
+TE043;Torricella Sicura
+TE044;Tortoreto
+TE045;Tossicia
+TE046;Valle Castellana
+TR001;Acquasparta
+TR002;Allerona
+TR003;Alviano
+TR004;Amelia
+TR005;Arrone
+TR006;Attigliano
+TR033;Avigliano Umbro
+TR007;Baschi
+TR008;Calvi dell'Umbria
+TR009;Castel Giorgio
+TR010;Castel Viscardo
+TR011;Fabro
+TR012;Ferentillo
+TR013;Ficulle
+TR014;Giove
+TR015;Guardea
+TR016;Lugnano in Teverina
+TR017;Montecastrilli
+TR018;Montecchio
+TR019;Montefranco
+TR020;Montegabbione
+TR021;Monteleone d'Orvieto
+TR022;Narni
+TR023;Orvieto
+TR024;Otricoli
+TR025;Parrano
+TR026;Penna in Teverina
+TR027;Polino
+TR028;Porano
+TR029;San Gemini
+TR030;San Venanzo
+TR031;Stroncone
+TR032;Terni
+TO001;Agliè
+TO002;Airasca
+TO003;Ala di Stura
+TO004;Albiano d'Ivrea
+TO005;Alice Superiore
+TO006;Almese
+TO007;Alpette
+TO008;Alpignano
+TO009;Andezeno
+TO010;Andrate
+TO011;Angrogna
+TO012;Arignano
+TO013;Avigliana
+TO014;Azeglio
+TO015;Bairo
+TO016;Balangero
+TO017;Baldissero Canavese
+TO018;Baldissero Torinese
+TO019;Balme
+TO020;Banchette
+TO021;Barbania
+TO022;Bardonecchia
+TO023;Barone Canavese
+TO024;Beinasco
+TO025;Bibiana
+TO026;Bobbio Pellice
+TO027;Bollengo
+TO028;Borgaro Torinese
+TO029;Borgiallo
+TO030;Borgofranco d'Ivrea
+TO031;Borgomasino
+TO032;Borgone Susa
+TO033;Bosconero
+TO034;Brandizzo
+TO035;Bricherasio
+TO036;Brosso
+TO037;Brozolo
+TO038;Bruino
+TO039;Brusasco
+TO040;Bruzolo
+TO041;Buriasco
+TO042;Burolo
+TO043;Busano
+TO044;Bussoleno
+TO045;Buttigliera Alta
+TO046;Cafasse
+TO047;Caluso
+TO048;Cambiano
+TO049;Campiglione Fenile
+TO050;Candia Canavese
+TO051;Candiolo
+TO052;Canischio
+TO053;Cantalupa
+TO054;Cantoira
+TO055;Caprie
+TO056;Caravino
+TO057;Carema
+TO058;Carignano
+TO059;Carmagnola
+TO060;Casalborgone
+TO061;Cascinette d'Ivrea
+TO062;Caselette
+TO063;Caselle Torinese
+TO064;Castagneto Po
+TO065;Castagnole Piemonte
+TO066;Castellamonte
+TO067;Castelnuovo Nigra
+TO068;Castiglione Torinese
+TO069;Cavagnolo
+TO070;Cavour
+TO071;Cercenasco
+TO072;Ceres
+TO073;Ceresole Reale
+TO074;Cesana Torinese
+TO075;Chialamberto
+TO076;Chianocco
+TO077;Chiaverano
+TO078;Chieri
+TO079;Chiesanuova
+TO080;Chiomonte
+TO081;Chiusa di San Michele
+TO082;Chivasso
+TO083;Ciconio
+TO084;Cintano
+TO085;Cinzano
+TO086;Ciriè
+TO087;Claviere
+TO088;Coassolo Torinese
+TO089;Coazze
+TO090;Collegno
+TO091;Colleretto Castelnuovo
+TO092;Colleretto Giacosa
+TO093;Condove
+TO094;Corio
+TO095;Cossano Canavese
+TO096;Cuceglio
+TO097;Cumiana
+TO098;Cuorgnè
+TO099;Druento
+TO100;Exilles
+TO101;Favria
+TO102;Feletto
+TO103;Fenestrelle
+TO104;Fiano
+TO105;Fiorano Canavese
+TO106;Foglizzo
+TO107;Forno Canavese
+TO108;Frassinetto
+TO109;Front
+TO110;Frossasco
+TO111;Garzigliana
+TO112;Gassino Torinese
+TO113;Germagnano
+TO114;Giaglione
+TO115;Giaveno
+TO116;Givoletto
+TO117;Gravere
+TO118;Groscavallo
+TO119;Grosso
+TO120;Grugliasco
+TO121;Ingria
+TO122;Inverso Pinasca
+TO123;Isolabella
+TO124;Issiglio
+TO125;Ivrea
+TO126;La Cassa
+TO127;La Loggia
+TO128;Lanzo Torinese
+TO129;Lauriano
+TO130;Leini
+TO131;Lemie
+TO132;Lessolo
+TO133;Levone
+TO134;Locana
+TO135;Lombardore
+TO136;Lombriasco
+TO137;Loranzè
+TO138;Lugnacco
+TO139;Luserna San Giovanni
+TO140;Lusernetta
+TO141;Lusigliè
+TO142;Macello
+TO143;Maglione
+TO316;Mappano
+TO144;Marentino
+TO145;Massello
+TO146;Mathi
+TO147;Mattie
+TO148;Mazzè
+TO149;Meana di Susa
+TO150;Mercenasco
+TO151;Meugliano
+TO152;Mezzenile
+TO153;Mombello di Torino
+TO154;Mompantero
+TO155;Monastero di Lanzo
+TO156;Moncalieri
+TO157;Moncenisio
+TO158;Montaldo Torinese
+TO159;Montalenghe
+TO160;Montalto Dora
+TO161;Montanaro
+TO162;Monteu da Po
+TO163;Moriondo Torinese
+TO164;Nichelino
+TO165;Noasca
+TO166;Nole
+TO167;Nomaglio
+TO168;None
+TO169;Novalesa
+TO170;Oglianico
+TO171;Orbassano
+TO172;Orio Canavese
+TO173;Osasco
+TO174;Osasio
+TO175;Oulx
+TO176;Ozegna
+TO177;Palazzo Canavese
+TO178;Pancalieri
+TO179;Parella
+TO180;Pavarolo
+TO181;Pavone Canavese
+TO182;Pecco
+TO183;Pecetto Torinese
+TO184;Perosa Argentina
+TO185;Perosa Canavese
+TO186;Perrero
+TO187;Pertusio
+TO188;Pessinetto
+TO189;Pianezza
+TO190;Pinasca
+TO191;Pinerolo
+TO192;Pino Torinese
+TO193;Piobesi Torinese
+TO194;Piossasco
+TO195;Piscina
+TO196;Piverone
+TO197;Poirino
+TO198;Pomaretto
+TO199;Pont-Canavese
+TO200;Porte
+TO201;Pragelato
+TO202;Prali
+TO203;Pralormo
+TO204;Pramollo
+TO205;Prarostino
+TO206;Prascorsano
+TO207;Pratiglione
+TO208;Quagliuzzo
+TO209;Quassolo
+TO210;Quincinetto
+TO211;Reano
+TO212;Ribordone
+TO215;Riva presso Chieri
+TO213;Rivalba
+TO214;Rivalta di Torino
+TO216;Rivara
+TO217;Rivarolo Canavese
+TO218;Rivarossa
+TO219;Rivoli
+TO220;Robassomero
+TO221;Rocca Canavese
+TO222;Roletto
+TO223;Romano Canavese
+TO224;Ronco Canavese
+TO225;Rondissone
+TO226;Rorà
+TO228;Rosta
+TO227;Roure
+TO229;Rubiana
+TO230;Rueglio
+TO231;Salassa
+TO232;Salbertrand
+TO233;Salerano Canavese
+TO234;Salza di Pinerolo
+TO235;Samone
+TO236;San Benigno Canavese
+TO237;San Carlo Canavese
+TO238;San Colombano Belmonte
+TO239;San Didero
+TO240;San Francesco al Campo
+TO242;San Germano Chisone
+TO243;San Gillio
+TO244;San Giorgio Canavese
+TO245;San Giorio di Susa
+TO246;San Giusto Canavese
+TO247;San Martino Canavese
+TO248;San Maurizio Canavese
+TO249;San Mauro Torinese
+TO250;San Pietro Val Lemina
+TO251;San Ponso
+TO252;San Raffaele Cimena
+TO253;San Sebastiano da Po
+TO254;San Secondo di Pinerolo
+TO241;Sangano
+TO255;Sant'Ambrogio di Torino
+TO256;Sant'Antonino di Susa
+TO257;Santena
+TO258;Sauze di Cesana
+TO259;Sauze d'Oulx
+TO260;Scalenghe
+TO261;Scarmagno
+TO262;Sciolze
+TO263;Sestriere
+TO264;Settimo Rottaro
+TO265;Settimo Torinese
+TO266;Settimo Vittone
+TO267;Sparone
+TO268;Strambinello
+TO269;Strambino
+TO270;Susa
+TO271;Tavagnasco
+TO272;Torino
+TO273;Torrazza Piemonte
+TO274;Torre Canavese
+TO275;Torre Pellice
+TO276;Trana
+TO277;Trausella
+TO278;Traversella
+TO279;Traves
+TO280;Trofarello
+TO281;Usseaux
+TO282;Usseglio
+TO283;Vaie
+TO284;Val della Torre
+TO285;Valgioie
+TO286;Vallo Torinese
+TO287;Valperga
+TO288;Valprato Soana
+TO289;Varisella
+TO290;Vauda Canavese
+TO292;Venaria Reale
+TO291;Venaus
+TO293;Verolengo
+TO294;Verrua Savoia
+TO295;Vestignè
+TO296;Vialfrè
+TO297;Vico Canavese
+TO298;Vidracco
+TO299;Vigone
+TO300;Villafranca Piemonte
+TO301;Villanova Canavese
+TO303;Villar Dora
+TO305;Villar Focchiardo
+TO306;Villar Pellice
+TO307;Villar Perosa
+TO302;Villarbasse
+TO304;Villareggia
+TO308;Villastellone
+TO309;Vinovo
+TO310;Virle Piemonte
+TO311;Vische
+TO312;Vistrorio
+TO313;Viù
+TO314;Volpiano
+TO315;Volvera
+TP001;Alcamo
+TP002;Buseto Palizzolo
+TP003;Calatafimi-Segesta
+TP004;Campobello di Mazara
+TP005;Castellammare del Golfo
+TP006;Castelvetrano
+TP007;Custonaci
+TP008;Erice
+TP009;Favignana
+TP010;Gibellina
+TP011;Marsala
+TP012;Mazara del Vallo
+TP013;Paceco
+TP014;Pantelleria
+TP015;Partanna
+TP024;Petrosino
+TP016;Poggioreale
+TP017;Salaparuta
+TP018;Salemi
+TP020;San Vito Lo Capo
+TP019;Santa Ninfa
+TP021;Trapani
+TP022;Valderice
+TP023;Vita
+TN001;Ala
+TN002;Albiano
+TN003;Aldeno
+TN235;Altavalle
+TN236;Altopiano della Vigolana
+TN237;Amblar-Don
+TN005;Andalo
+TN006;Arco
+TN007;Avio
+TN009;Baselga di Pinè
+TN011;Bedollo
+TN013;Besenello
+TN015;Bieno
+TN017;Bleggio Superiore
+TN018;Bocenago
+TN021;Bondone
+TN238;Borgo Chiese
+TN239;Borgo Lares
+TN022;Borgo Valsugana
+TN025;Brentonico
+TN026;Bresimo
+TN027;Brez
+TN029;Caderzone Terme
+TN030;Cagnò
+TN032;Calceranica al Lago
+TN033;Caldes
+TN034;Caldonazzo
+TN035;Calliano
+TN036;Campitello di Fassa
+TN037;Campodenno
+TN038;Canal San Bovo
+TN039;Canazei
+TN040;Capriana
+TN041;Carano
+TN042;Carisolo
+TN043;Carzano
+TN045;Castel Condino
+TN240;Castel Ivano
+TN046;Castelfondo
+TN048;Castello Tesino
+TN047;Castello-Molina di Fiemme
+TN049;Castelnuovo
+TN050;Cavalese
+TN051;Cavareno
+TN052;Cavedago
+TN053;Cavedine
+TN054;Cavizzana
+TN241;Cembra Lisignago
+TN058;Cimone
+TN059;Cinte Tesino
+TN060;Cis
+TN061;Civezzano
+TN062;Cles
+TN063;Cloz
+TN228;Comano Terme
+TN064;Commezzadura
+TN242;Contà
+TN068;Croviana
+TN070;Daiano
+TN071;Dambel
+TN074;Denno
+TN233;Dimaro Folgarida
+TN078;Drena
+TN079;Dro
+TN080;Faedo
+TN081;Fai della Paganella
+TN083;Fiavè
+TN085;Fierozzo
+TN087;Folgaria
+TN088;Fondo
+TN089;Fornace
+TN090;Frassilongo
+TN091;Garniga Terme
+TN092;Giovo
+TN093;Giustino
+TN095;Grigno
+TN097;Imer
+TN098;Isera
+TN102;Lavarone
+TN103;Lavis
+TN229;Ledro
+TN104;Levico Terme
+TN106;Livo
+TN108;Lona-Lases
+TN109;Luserna
+TN243;Madruzzo
+TN110;Malè
+TN111;Malosco
+TN112;Massimeno
+TN113;Mazzin
+TN114;Mezzana
+TN115;Mezzano
+TN116;Mezzocorona
+TN117;Mezzolombardo
+TN118;Moena
+TN120;Molveno
+TN123;Mori
+TN124;Nago-Torbole
+TN126;Nave San Rocco
+TN127;Nogaredo
+TN128;Nomi
+TN129;Novaledo
+TN130;Ospedaletto
+TN131;Ossana
+TN133;Palù del Fersina
+TN134;Panchià
+TN136;Peio
+TN137;Pellizzano
+TN138;Pelugo
+TN139;Pergine Valsugana
+TN234;Pieve di Bono-Prezzo
+TN142;Pieve Tesino
+TN143;Pinzolo
+TN144;Pomarolo
+TN244;Porte di Rendena
+TN145;Pozza di Fassa
+TN230;Predaia
+TN147;Predazzo
+TN245;Primiero San Martino di Castrozza
+TN150;Rabbi
+TN152;Revò
+TN153;Riva del Garda
+TN154;Romallo
+TN155;Romeno
+TN156;Roncegno Terme
+TN157;Ronchi Valsugana
+TN135;Ronzo-Chienis
+TN159;Ronzone
+TN160;Roverè della Luna
+TN161;Rovereto
+TN162;Ruffrè-Mendola
+TN163;Rumo
+TN164;Sagron Mis
+TN165;Samone
+TN231;San Lorenzo Dorsino
+TN167;San Michele all'Adige
+TN168;Sant'Orsola Terme
+TN169;Sanzeno
+TN170;Sarnonico
+TN171;Scurelle
+TN172;Segonzano
+TN246;Sella Giudicarie
+TN173;Sfruz
+TN176;Soraga di Fassa
+TN177;Sover
+TN179;Spiazzo
+TN180;Spormaggiore
+TN181;Sporminore
+TN182;Stenico
+TN183;Storo
+TN184;Strembo
+TN188;Telve
+TN189;Telve di Sopra
+TN190;Tenna
+TN191;Tenno
+TN193;Terragnolo
+TN195;Terzolas
+TN196;Tesero
+TN199;Tione di Trento
+TN200;Ton
+TN202;Torcegno
+TN203;Trambileno
+TN247;Tre Ville
+TN205;Trento
+TN232;Valdaone
+TN209;Valfloriana
+TN210;Vallarsa
+TN248;Vallelaghi
+TN211;Varena
+TN213;Vermiglio
+TN216;Vignola-Falesina
+TN217;Vigo di Fassa
+TN222;Villa Lagarina
+TN249;Ville d'Anaunia
+TN224;Volano
+TN225;Zambana
+TN226;Ziano di Fiemme
+TV001;Altivole
+TV002;Arcade
+TV003;Asolo
+TV004;Borso del Grappa
+TV005;Breda di Piave
+TV006;Caerano di San Marco
+TV007;Cappella Maggiore
+TV008;Carbonera
+TV009;Casale sul Sile
+TV010;Casier
+TV011;Castelcucco
+TV012;Castelfranco Veneto
+TV013;Castello di Godego
+TV014;Cavaso del Tomba
+TV015;Cessalto
+TV016;Chiarano
+TV017;Cimadolmo
+TV018;Cison di Valmarino
+TV019;Codognè
+TV020;Colle Umberto
+TV021;Conegliano
+TV022;Cordignano
+TV023;Cornuda
+TV024;Crespano del Grappa
+TV025;Crocetta del Montello
+TV026;Farra di Soligo
+TV027;Follina
+TV028;Fontanelle
+TV029;Fonte
+TV030;Fregona
+TV031;Gaiarine
+TV032;Giavera del Montello
+TV033;Godega di Sant'Urbano
+TV034;Gorgo al Monticano
+TV035;Istrana
+TV036;Loria
+TV037;Mansuè
+TV038;Mareno di Piave
+TV039;Maser
+TV040;Maserada sul Piave
+TV041;Meduna di Livenza
+TV042;Miane
+TV043;Mogliano Veneto
+TV044;Monastier di Treviso
+TV045;Monfumo
+TV046;Montebelluna
+TV047;Morgano
+TV048;Moriago della Battaglia
+TV049;Motta di Livenza
+TV050;Nervesa della Battaglia
+TV051;Oderzo
+TV052;Ormelle
+TV053;Orsago
+TV054;Paderno del Grappa
+TV055;Paese
+TV056;Pederobba
+TV057;Pieve di Soligo
+TV058;Ponte di Piave
+TV059;Ponzano Veneto
+TV060;Portobuffolè
+TV061;Possagno
+TV062;Povegliano
+TV063;Preganziol
+TV064;Quinto di Treviso
+TV065;Refrontolo
+TV066;Resana
+TV067;Revine Lago
+TV068;Riese Pio X
+TV069;Roncade
+TV070;Salgareda
+TV071;San Biagio di Callalta
+TV072;San Fior
+TV073;San Pietro di Feletto
+TV074;San Polo di Piave
+TV076;San Vendemiano
+TV077;San Zenone degli Ezzelini
+TV075;Santa Lucia di Piave
+TV078;Sarmede
+TV079;Segusino
+TV080;Sernaglia della Battaglia
+TV081;Silea
+TV082;Spresiano
+TV083;Susegana
+TV084;Tarzo
+TV085;Trevignano
+TV086;Treviso
+TV087;Valdobbiadene
+TV088;Vazzola
+TV089;Vedelago
+TV090;Vidor
+TV091;Villorba
+TV092;Vittorio Veneto
+TV093;Volpago del Montello
+TV094;Zenson di Piave
+TV095;Zero Branco
+TS001;Duino-Aurisina
+TS002;Monrupino
+TS003;Muggia
+TS004;San Dorligo della Valle-Dolina
+TS005;Sgonico
+TS006;Trieste
+UD001;Aiello del Friuli
+UD002;Amaro
+UD003;Ampezzo
+UD004;Aquileia
+UD005;Arta Terme
+UD006;Artegna
+UD007;Attimis
+UD008;Bagnaria Arsa
+UD009;Basiliano
+UD010;Bertiolo
+UD011;Bicinicco
+UD012;Bordano
+UD013;Buja
+UD014;Buttrio
+UD015;Camino al Tagliamento
+UD016;Campoformido
+UD138;Campolongo Tapogliano
+UD018;Carlino
+UD019;Cassacco
+UD020;Castions di Strada
+UD021;Cavazzo Carnico
+UD022;Cercivento
+UD023;Cervignano del Friuli
+UD024;Chiopris-Viscone
+UD025;Chiusaforte
+UD026;Cividale del Friuli
+UD027;Codroipo
+UD028;Colloredo di Monte Albano
+UD029;Comeglians
+UD030;Corno di Rosazzo
+UD031;Coseano
+UD032;Dignano
+UD033;Dogna
+UD034;Drenchia
+UD035;Enemonzo
+UD036;Faedis
+UD037;Fagagna
+UD038;Fiumicello
+UD039;Flaibano
+UD137;Forgaria nel Friuli
+UD040;Forni Avoltri
+UD041;Forni di Sopra
+UD042;Forni di Sotto
+UD043;Gemona del Friuli
+UD044;Gonars
+UD045;Grimacco
+UD046;Latisana
+UD047;Lauco
+UD048;Lestizza
+UD049;Lignano Sabbiadoro
+UD050;Ligosullo
+UD051;Lusevera
+UD052;Magnano in Riviera
+UD053;Majano
+UD054;Malborghetto Valbruna
+UD055;Manzano
+UD056;Marano Lagunare
+UD057;Martignacco
+UD058;Mereto di Tomba
+UD059;Moggio Udinese
+UD060;Moimacco
+UD061;Montenars
+UD062;Mortegliano
+UD063;Moruzzo
+UD064;Muzzana del Turgnano
+UD065;Nimis
+UD066;Osoppo
+UD067;Ovaro
+UD068;Pagnacco
+UD069;Palazzolo dello Stella
+UD070;Palmanova
+UD071;Paluzza
+UD072;Pasian di Prato
+UD073;Paularo
+UD074;Pavia di Udine
+UD075;Pocenia
+UD076;Pontebba
+UD077;Porpetto
+UD078;Povoletto
+UD079;Pozzuolo del Friuli
+UD080;Pradamano
+UD081;Prato Carnico
+UD082;Precenicco
+UD083;Premariacco
+UD084;Preone
+UD085;Prepotto
+UD086;Pulfero
+UD087;Ragogna
+UD088;Ravascletto
+UD089;Raveo
+UD090;Reana del Rojale
+UD091;Remanzacco
+UD092;Resia
+UD093;Resiutta
+UD094;Rigolato
+UD095;Rive d'Arcano
+UD188;Rivignano Teor
+UD097;Ronchis
+UD098;Ruda
+UD099;San Daniele del Friuli
+UD100;San Giorgio di Nogaro
+UD101;San Giovanni al Natisone
+UD102;San Leonardo
+UD103;San Pietro al Natisone
+UD105;San Vito al Torre
+UD106;San Vito di Fagagna
+UD104;Santa Maria la Longa
+UD107;Sauris
+UD108;Savogna
+UD109;Sedegliano
+UD110;Socchieve
+UD111;Stregna
+UD112;Sutrio
+UD113;Taipana
+UD114;Talmassons
+UD116;Tarcento
+UD117;Tarvisio
+UD118;Tavagnacco
+UD120;Terzo d'Aquileia
+UD121;Tolmezzo
+UD122;Torreano
+UD123;Torviscosa
+UD124;Trasaghis
+UD125;Treppo Carnico
+UD126;Treppo Grande
+UD127;Tricesimo
+UD128;Trivignano Udinese
+UD129;Udine
+UD130;Varmo
+UD131;Venzone
+UD132;Verzegnis
+UD133;Villa Santina
+UD134;Villa Vicentina
+UD135;Visco
+UD136;Zuglio
+AO001;Allein
+AO002;Antey-Saint-André
+AO003;Aosta
+AO004;Arnad
+AO005;Arvier
+AO006;Avise
+AO007;Ayas
+AO008;Aymavilles
+AO009;Bard
+AO010;Bionaz
+AO011;Brissogne
+AO012;Brusson
+AO013;Challand-Saint-Anselme
+AO014;Challand-Saint-Victor
+AO015;Chambave
+AO016;Chamois
+AO017;Champdepraz
+AO018;Champorcher
+AO019;Charvensod
+AO020;Châtillon
+AO021;Cogne
+AO022;Courmayeur
+AO023;Donnas
+AO024;Doues
+AO025;Emarèse
+AO026;Etroubles
+AO027;Fénis
+AO028;Fontainemore
+AO029;Gaby
+AO030;Gignod
+AO031;Gressan
+AO032;Gressoney-La-Trinité
+AO033;Gressoney-Saint-Jean
+AO034;Hône
+AO035;Introd
+AO036;Issime
+AO037;Issogne
+AO038;Jovençan
+AO039;La Magdeleine
+AO040;La Salle
+AO041;La Thuile
+AO042;Lillianes
+AO043;Montjovet
+AO044;Morgex
+AO045;Nus
+AO046;Ollomont
+AO047;Oyace
+AO048;Perloz
+AO049;Pollein
+AO050;Pontboset
+AO051;Pontey
+AO052;Pont-Saint-Martin
+AO053;Pré-Saint-Didier
+AO054;Quart
+AO055;Rhêmes-Notre-Dame
+AO056;Rhêmes-Saint-Georges
+AO057;Roisan
+AO058;Saint-Christophe
+AO059;Saint-Denis
+AO060;Saint-Marcel
+AO061;Saint-Nicolas
+AO062;Saint-Oyen
+AO063;Saint-Pierre
+AO064;Saint-Rhémy-en-Bosses
+AO065;Saint-Vincent
+AO066;Sarre
+AO067;Torgnon
+AO068;Valgrisenche
+AO069;Valpelline
+AO070;Valsavarenche
+AO071;Valtournenche
+AO072;Verrayes
+AO073;Verrès
+AO074;Villeneuve
+VA001;Agra
+VA002;Albizzate
+VA003;Angera
+VA004;Arcisate
+VA005;Arsago Seprio
+VA006;Azzate
+VA007;Azzio
+VA008;Barasso
+VA009;Bardello
+VA010;Bedero Valcuvia
+VA011;Besano
+VA012;Besnate
+VA013;Besozzo
+VA014;Biandronno
+VA015;Bisuschio
+VA016;Bodio Lomnago
+VA017;Brebbia
+VA018;Bregano
+VA019;Brenta
+VA020;Brezzo di Bedero
+VA021;Brinzio
+VA022;Brissago-Valtravaglia
+VA023;Brunello
+VA024;Brusimpiano
+VA025;Buguggiate
+VA026;Busto Arsizio
+VA027;Cadegliano-Viconago
+VA028;Cadrezzate
+VA029;Cairate
+VA030;Cantello
+VA031;Caravate
+VA032;Cardano al Campo
+VA033;Carnago
+VA034;Caronno Pertusella
+VA035;Caronno Varesino
+VA036;Casale Litta
+VA037;Casalzuigno
+VA038;Casciago
+VA039;Casorate Sempione
+VA040;Cassano Magnago
+VA041;Cassano Valcuvia
+VA042;Castellanza
+VA043;Castello Cabiaglio
+VA044;Castelseprio
+VA045;Castelveccana
+VA046;Castiglione Olona
+VA047;Castronno
+VA048;Cavaria con Premezzo
+VA049;Cazzago Brabbia
+VA050;Cislago
+VA051;Cittiglio
+VA052;Clivio
+VA053;Cocquio-Trevisago
+VA054;Comabbio
+VA055;Comerio
+VA056;Cremenaga
+VA057;Crosio della Valle
+VA058;Cuasso al Monte
+VA059;Cugliate-Fabiasco
+VA060;Cunardo
+VA061;Curiglia con Monteviasco
+VA062;Cuveglio
+VA063;Cuvio
+VA064;Daverio
+VA065;Dumenza
+VA066;Duno
+VA067;Fagnano Olona
+VA068;Ferno
+VA069;Ferrera di Varese
+VA070;Gallarate
+VA071;Galliate Lombardo
+VA072;Gavirate
+VA073;Gazzada Schianno
+VA074;Gemonio
+VA075;Gerenzano
+VA076;Germignaga
+VA077;Golasecca
+VA078;Gorla Maggiore
+VA079;Gorla Minore
+VA080;Gornate Olona
+VA081;Grantola
+VA082;Inarzo
+VA083;Induno Olona
+VA084;Ispra
+VA085;Jerago con Orago
+VA086;Lavena Ponte Tresa
+VA087;Laveno-Mombello
+VA088;Leggiuno
+VA089;Lonate Ceppino
+VA090;Lonate Pozzolo
+VA091;Lozza
+VA092;Luino
+VA093;Luvinate
+VA142;Maccagno con Pino e Veddasca
+VA095;Malgesso
+VA096;Malnate
+VA097;Marchirolo
+VA098;Marnate
+VA099;Marzio
+VA100;Masciago Primo
+VA101;Mercallo
+VA102;Mesenzana
+VA103;Montegrino Valtravaglia
+VA104;Monvalle
+VA105;Morazzone
+VA106;Mornago
+VA107;Oggiona con Santo Stefano
+VA108;Olgiate Olona
+VA109;Origgio
+VA110;Orino
+VA111;Osmate
+VA113;Porto Ceresio
+VA114;Porto Valtravaglia
+VA115;Rancio Valcuvia
+VA116;Ranco
+VA117;Saltrio
+VA118;Samarate
+VA141;Sangiano
+VA119;Saronno
+VA120;Sesto Calende
+VA121;Solbiate Arno
+VA122;Solbiate Olona
+VA123;Somma Lombardo
+VA124;Sumirago
+VA125;Taino
+VA126;Ternate
+VA127;Tradate
+VA128;Travedona-Monate
+VA129;Tronzano Lago Maggiore
+VA130;Uboldo
+VA131;Valganna
+VA132;Varano Borghi
+VA133;Varese
+VA134;Vedano Olona
+VA136;Venegono Inferiore
+VA137;Venegono Superiore
+VA138;Vergiate
+VA139;Viggiù
+VA140;Vizzola Ticino
+VE001;Annone Veneto
+VE002;Campagna Lupia
+VE003;Campolongo Maggiore
+VE004;Camponogara
+VE005;Caorle
+VE044;Cavallino-Treporti
+VE006;Cavarzere
+VE007;Ceggia
+VE008;Chioggia
+VE009;Cinto Caomaggiore
+VE010;Cona
+VE011;Concordia Sagittaria
+VE012;Dolo
+VE013;Eraclea
+VE014;Fiesso d'Artico
+VE015;Fossalta di Piave
+VE016;Fossalta di Portogruaro
+VE017;Fossò
+VE018;Gruaro
+VE019;Jesolo
+VE020;Marcon
+VE021;Martellago
+VE022;Meolo
+VE023;Mira
+VE024;Mirano
+VE025;Musile di Piave
+VE026;Noale
+VE027;Noventa di Piave
+VE028;Pianiga
+VE029;Portogruaro
+VE030;Pramaggiore
+VE031;Quarto d'Altino
+VE032;Salzano
+VE033;San Donà di Piave
+VE034;San Michele al Tagliamento
+VE036;San Stino di Livenza
+VE035;Santa Maria di Sala
+VE037;Scorzè
+VE038;Spinea
+VE039;Stra
+VE040;Teglio Veneto
+VE041;Torre di Mosto
+VE042;Venezia
+VE043;Vigonovo
+VB001;Antrona Schieranco
+VB002;Anzola d'Ossola
+VB003;Arizzano
+VB004;Arola
+VB005;Aurano
+VB006;Baceno
+VB007;Bannio Anzino
+VB008;Baveno
+VB009;Bee
+VB010;Belgirate
+VB011;Beura-Cardezza
+VB012;Bognanco
+VB078;Borgomezzavalle
+VB013;Brovello-Carpugnino
+VB014;Calasca-Castiglione
+VB015;Cambiasca
+VB016;Cannero Riviera
+VB017;Cannobio
+VB018;Caprezzo
+VB019;Casale Corte Cerro
+VB020;Cavaglio-Spoccia
+VB021;Ceppo Morelli
+VB022;Cesara
+VB023;Cossogno
+VB024;Craveggia
+VB025;Crevoladossola
+VB026;Crodo
+VB027;Cursolo-Orasso
+VB028;Domodossola
+VB029;Druogno
+VB030;Falmenta
+VB031;Formazza
+VB032;Germagno
+VB033;Ghiffa
+VB034;Gignese
+VB035;Gravellona Toce
+VB036;Gurro
+VB037;Intragna
+VB038;Loreglia
+VB039;Macugnaga
+VB040;Madonna del Sasso
+VB041;Malesco
+VB042;Masera
+VB043;Massiola
+VB044;Mergozzo
+VB045;Miazzina
+VB046;Montecrestese
+VB047;Montescheno
+VB048;Nonio
+VB049;Oggebbio
+VB050;Omegna
+VB051;Ornavasso
+VB052;Pallanzeno
+VB053;Piedimulera
+VB054;Pieve Vergonte
+VB055;Premeno
+VB056;Premia
+VB057;Premosello-Chiovenda
+VB058;Quarna Sopra
+VB059;Quarna Sotto
+VB060;Re
+VB061;San Bernardino Verbano
+VB062;Santa Maria Maggiore
+VB064;Stresa
+VB065;Toceno
+VB066;Trarego Viggiona
+VB067;Trasquera
+VB068;Trontano
+VB069;Valstrona
+VB070;Vanzone con San Carlo
+VB071;Varzo
+VB072;Verbania
+VB074;Vignone
+VB075;Villadossola
+VB076;Villette
+VB077;Vogogna
+VC002;Alagna Valsesia
+VC003;Albano Vercellese
+VC004;Alice Castello
+VC006;Arborio
+VC007;Asigliano Vercellese
+VC008;Balmuccia
+VC009;Balocco
+VC011;Bianzè
+VC014;Boccioleto
+VC015;Borgo d'Ale
+VC017;Borgo Vercelli
+VC016;Borgosesia
+VC019;Breia
+VC021;Buronzo
+VC025;Campertogno
+VC029;Carcoforo
+VC030;Caresana
+VC031;Caresanablot
+VC032;Carisio
+VC033;Casanova Elvo
+VC038;Cellio
+VC041;Cervatto
+VC042;Cigliano
+VC043;Civiasco
+VC045;Collobiano
+VC047;Costanzana
+VC048;Cravagliana
+VC049;Crescentino
+VC052;Crova
+VC054;Desana
+VC057;Fobello
+VC058;Fontanetto Po
+VC059;Formigliana
+VC061;Gattinara
+VC062;Ghislarengo
+VC065;Greggio
+VC066;Guardabosone
+VC067;Lamporo
+VC068;Lenta
+VC070;Lignana
+VC071;Livorno Ferraris
+VC072;Lozzolo
+VC078;Mollia
+VC079;Moncrivello
+VC082;Motta de' Conti
+VC088;Olcenengo
+VC089;Oldenico
+VC090;Palazzolo Vercellese
+VC091;Pertengo
+VC093;Pezzana
+VC096;Pila
+VC097;Piode
+VC102;Postua
+VC104;Prarolo
+VC107;Quarona
+VC108;Quinto Vercellese
+VC110;Rassa
+VC111;Rima San Giuseppe
+VC112;Rimasco
+VC113;Rimella
+VC114;Riva Valdobbia
+VC115;Rive
+VC116;Roasio
+VC118;Ronsecco
+VC121;Rossa
+VC122;Rovasenda
+VC123;Sabbia
+VC126;Salasco
+VC127;Sali Vercellese
+VC128;Saluggia
+VC131;San Germano Vercellese
+VC035;San Giacomo Vercellese
+VC133;Santhià
+VC134;Scopa
+VC135;Scopello
+VC137;Serravalle Sesia
+VC142;Stroppiana
+VC147;Tricerro
+VC148;Trino
+VC150;Tronzano Vercellese
+VC152;Valduggia
+VC156;Varallo
+VC158;Vercelli
+VC163;Villarboit
+VC164;Villata
+VC166;Vocca
+VR001;Affi
+VR002;Albaredo d'Adige
+VR003;Angiari
+VR004;Arcole
+VR005;Badia Calavena
+VR006;Bardolino
+VR007;Belfiore
+VR008;Bevilacqua
+VR009;Bonavigo
+VR010;Boschi Sant'Anna
+VR011;Bosco Chiesanuova
+VR012;Bovolone
+VR013;Brentino Belluno
+VR014;Brenzone sul Garda
+VR015;Bussolengo
+VR016;Buttapietra
+VR017;Caldiero
+VR018;Caprino Veronese
+VR019;Casaleone
+VR020;Castagnaro
+VR021;Castel d'Azzano
+VR022;Castelnuovo del Garda
+VR023;Cavaion Veronese
+VR024;Cazzano di Tramigna
+VR025;Cerea
+VR026;Cerro Veronese
+VR027;Cologna Veneta
+VR028;Colognola ai Colli
+VR029;Concamarise
+VR030;Costermano sul Garda
+VR031;Dolcè
+VR032;Erbè
+VR033;Erbezzo
+VR034;Ferrara di Monte Baldo
+VR035;Fumane
+VR036;Garda
+VR037;Gazzo Veronese
+VR038;Grezzana
+VR039;Illasi
+VR040;Isola della Scala
+VR041;Isola Rizza
+VR042;Lavagno
+VR043;Lazise
+VR044;Legnago
+VR045;Malcesine
+VR046;Marano di Valpolicella
+VR047;Mezzane di Sotto
+VR048;Minerbe
+VR049;Montecchia di Crosara
+VR050;Monteforte d'Alpone
+VR051;Mozzecane
+VR052;Negrar
+VR053;Nogara
+VR054;Nogarole Rocca
+VR055;Oppeano
+VR056;Palù
+VR057;Pastrengo
+VR058;Pescantina
+VR059;Peschiera del Garda
+VR060;Povegliano Veronese
+VR061;Pressana
+VR062;Rivoli Veronese
+VR063;Roncà
+VR064;Ronco all'Adige
+VR065;Roverchiara
+VR067;Roverè Veronese
+VR066;Roveredo di Guà
+VR068;Salizzole
+VR069;San Bonifacio
+VR070;San Giovanni Ilarione
+VR071;San Giovanni Lupatoto
+VR073;San Martino Buon Albergo
+VR074;San Mauro di Saline
+VR075;San Pietro di Morubio
+VR076;San Pietro in Cariano
+VR079;San Zeno di Montagna
+VR072;Sanguinetto
+VR077;Sant'Ambrogio di Valpolicella
+VR078;Sant'Anna d'Alfaedo
+VR080;Selva di Progno
+VR081;Soave
+VR082;Sommacampagna
+VR083;Sona
+VR084;Sorgà
+VR085;Terrazzo
+VR086;Torri del Benaco
+VR087;Tregnago
+VR088;Trevenzuolo
+VR089;Valeggio sul Mincio
+VR090;Velo Veronese
+VR091;Verona
+VR092;Veronella
+VR093;Vestenanova
+VR094;Vigasio
+VR095;Villa Bartolomea
+VR096;Villafranca di Verona
+VR097;Zevio
+VR098;Zimella
+VV001;Acquaro
+VV002;Arena
+VV003;Briatico
+VV004;Brognaturo
+VV005;Capistrano
+VV006;Cessaniti
+VV007;Dasà
+VV008;Dinami
+VV009;Drapia
+VV010;Fabrizia
+VV011;Filadelfia
+VV012;Filandari
+VV013;Filogaso
+VV014;Francavilla Angitola
+VV015;Francica
+VV016;Gerocarne
+VV017;Ionadi
+VV018;Joppolo
+VV019;Limbadi
+VV020;Maierato
+VV021;Mileto
+VV022;Mongiana
+VV023;Monterosso Calabro
+VV024;Nardodipace
+VV025;Nicotera
+VV026;Parghelia
+VV027;Pizzo
+VV028;Pizzoni
+VV029;Polia
+VV030;Ricadi
+VV031;Rombiolo
+VV032;San Calogero
+VV033;San Costantino Calabro
+VV034;San Gregorio d'Ippona
+VV035;San Nicola da Crissa
+VV036;Sant'Onofrio
+VV037;Serra San Bruno
+VV038;Simbario
+VV039;Sorianello
+VV040;Soriano Calabro
+VV041;Spadola
+VV042;Spilinga
+VV043;Stefanaconi
+VV044;Tropea
+VV045;Vallelonga
+VV046;Vazzano
+VV047;Vibo Valentia
+VV048;Zaccanopoli
+VV049;Zambrone
+VV050;Zungri
+VI001;Agugliaro
+VI002;Albettone
+VI003;Alonte
+VI004;Altavilla Vicentina
+VI005;Altissimo
+VI006;Arcugnano
+VI007;Arsiero
+VI008;Arzignano
+VI009;Asiago
+VI010;Asigliano Veneto
+VI011;Barbarano Vicentino
+VI012;Bassano del Grappa
+VI013;Bolzano Vicentino
+VI014;Breganze
+VI015;Brendola
+VI016;Bressanvido
+VI017;Brogliano
+VI018;Caldogno
+VI019;Caltrano
+VI020;Calvene
+VI021;Camisano Vicentino
+VI022;Campiglia dei Berici
+VI023;Campolongo sul Brenta
+VI024;Carrè
+VI025;Cartigliano
+VI026;Cassola
+VI027;Castegnero
+VI028;Castelgomberto
+VI029;Chiampo
+VI030;Chiuppano
+VI031;Cismon del Grappa
+VI032;Cogollo del Cengio
+VI033;Conco
+VI034;Cornedo Vicentino
+VI035;Costabissara
+VI036;Creazzo
+VI037;Crespadoro
+VI038;Dueville
+VI039;Enego
+VI040;Fara Vicentino
+VI041;Foza
+VI042;Gallio
+VI043;Gambellara
+VI044;Gambugliano
+VI046;Grisignano di Zocco
+VI047;Grumolo delle Abbadesse
+VI048;Isola Vicentina
+VI049;Laghi
+VI050;Lastebasse
+VI051;Longare
+VI052;Lonigo
+VI053;Lugo di Vicenza
+VI054;Lusiana
+VI055;Malo
+VI056;Marano Vicentino
+VI057;Marostica
+VI058;Mason Vicentino
+VI059;Molvena
+VI063;Monte di Malo
+VI060;Montebello Vicentino
+VI061;Montecchio Maggiore
+VI062;Montecchio Precalcino
+VI064;Montegalda
+VI065;Montegaldella
+VI066;Monteviale
+VI067;Monticello Conte Otto
+VI068;Montorso Vicentino
+VI069;Mossano
+VI070;Mussolente
+VI071;Nanto
+VI072;Nogarole Vicentino
+VI073;Nove
+VI074;Noventa Vicentina
+VI075;Orgiano
+VI076;Pedemonte
+VI077;Pianezze
+VI078;Piovene Rocchette
+VI079;Pojana Maggiore
+VI080;Posina
+VI081;Pove del Grappa
+VI082;Pozzoleone
+VI083;Quinto Vicentino
+VI084;Recoaro Terme
+VI085;Roana
+VI086;Romano d'Ezzelino
+VI087;Rosà
+VI088;Rossano Veneto
+VI089;Rotzo
+VI090;Salcedo
+VI093;San Nazario
+VI094;San Pietro Mussolino
+VI096;San Vito di Leguzzano
+VI091;Sandrigo
+VI095;Santorso
+VI097;Sarcedo
+VI098;Sarego
+VI099;Schiavon
+VI100;Schio
+VI101;Solagna
+VI102;Sossano
+VI103;Sovizzo
+VI104;Tezze sul Brenta
+VI105;Thiene
+VI106;Tonezza del Cimone
+VI107;Torrebelvicino
+VI108;Torri di Quartesolo
+VI110;Trissino
+VI123;Val Liona
+VI111;Valdagno
+VI112;Valdastico
+VI113;Valli del Pasubio
+VI114;Valstagna
+VI115;Velo d'Astico
+VI116;Vicenza
+VI117;Villaga
+VI118;Villaverla
+VI119;Zanè
+VI120;Zermeghedo
+VI121;Zovencedo
+VI122;Zugliano
+VT001;Acquapendente
+VT002;Arlena di Castro
+VT003;Bagnoregio
+VT004;Barbarano Romano
+VT006;Bassano in Teverina
+VT005;Bassano Romano
+VT007;Blera
+VT008;Bolsena
+VT009;Bomarzo
+VT010;Calcata
+VT011;Canepina
+VT012;Canino
+VT013;Capodimonte
+VT014;Capranica
+VT015;Caprarola
+VT016;Carbognano
+VT017;Castel Sant'Elia
+VT018;Castiglione in Teverina
+VT019;Celleno
+VT020;Cellere
+VT021;Civita Castellana
+VT022;Civitella d'Agliano
+VT023;Corchiano
+VT024;Fabrica di Roma
+VT025;Faleria
+VT026;Farnese
+VT027;Gallese
+VT028;Gradoli
+VT029;Graffignano
+VT030;Grotte di Castro
+VT031;Ischia di Castro
+VT032;Latera
+VT033;Lubriano
+VT034;Marta
+VT035;Montalto di Castro
+VT037;Monte Romano
+VT036;Montefiascone
+VT038;Monterosi
+VT039;Nepi
+VT040;Onano
+VT041;Oriolo Romano
+VT042;Orte
+VT043;Piansano
+VT044;Proceno
+VT045;Ronciglione
+VT047;San Lorenzo Nuovo
+VT048;Soriano nel Cimino
+VT049;Sutri
+VT050;Tarquinia
+VT051;Tessennano
+VT052;Tuscania
+VT053;Valentano
+VT054;Vallerano
+VT055;Vasanello
+VT056;Vejano
+VT057;Vetralla
+VT058;Vignanello
+VT046;Villa San Giovanni in Tuscia
+VT059;Viterbo
+VT060;Vitorchiano
