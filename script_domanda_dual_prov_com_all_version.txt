@@ -38,7 +38,7 @@ Attualmente in quale provincia e comune vive?<br />
 	WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 	Luciano Fanfoni - lfanfoni@gmail.com
-	Modifiche per compatibilit‡ versioni 2.7X
+	Modifiche per compatibilit√† versioni 2.7X
 
 	*/
 
@@ -61,7 +61,9 @@ Attualmente in quale provincia e comune vive?<br />
 				$(this).find("col.dsheader").attr('width',newwidth+'%');*/
 				
 				//RIPRENDE IL VECCHIO
-				$("#question"+qID+" table.question tbody tr").each(function(index){
+				//MODIFICA DI FLAVIO GRAZIANI - COMPATIBILITA' 3.X
+				//$("#question"+qID+" table.question tbody tr").each(function(index){
+				$("#question"+qID+" table.questions-list tbody tr").each(function(index){
 				$(this).find("select").each(function(){
 					//$(this).attr('id',$(this).attr('id').replace('#',"_"));
 				});
