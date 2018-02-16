@@ -4,7 +4,8 @@ Domanda LimeSurvey tipo array duale per la selezione combinata di province e com
 
 I due file lsq sono le domande in formato xml che possono essere importate direttamente in una survey. Contengono il codice javascript e le opzioni di risposta Province-Comuni da Istat (giugno 2017):
 - limesurvey_question_prov_com_ver266.lsq per la versione limesurvey 2.6.6 LTS e comprende le versioni fino alla 2.06
-- limesurvey_question_prov_com_ver274.lsq per la versione limesurvey 2.74 LTS e comprende le versioni dalla 2.50
+- limesurvey_question_prov_com_ver274.lsq per la versione limesurvey 2.74 comprende le versioni dalla 2.50
+- limesurvey_question_province_comuni_Versione331_180214.lsq per le versioni limesurvey 3.X
 
 Le opzioni di risposta combinate e associate di Province e Comuni si trovano nei due file csv:
 - ls_province_30_06_2017.csv con i due campi:
